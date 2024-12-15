@@ -1,0 +1,1193 @@
+,Name,Syllables,Syllable Count
+0,Bulbasaur,"['Bul', 'ba', 'saur']",3
+1,Ivysaur,"['Ivy', 'saur']",2
+2,Venusaur,"['Ve', 'nu', 'saur']",3
+3,Charmander,"['Char', 'man', 'der']",3
+4,Charmeleon,"['Char', 'me', 'leon']",3
+5,Charizard,"['Cha', 'ri', 'zard']",3
+6,Squirtle,"['Squir', 'tle']",2
+7,Wartortle,"['War', 'tor', 'tle']",3
+8,Blastoise,"['Blas', 'toi', 'se']",3
+9,Caterpie,"['Ca', 'ter', 'pie']",3
+10,Metapod,"['Me', 'ta', 'pod']",3
+11,Butterfree,"['But', 'ter', 'free']",3
+12,Weedle,"['Wee', 'dle']",2
+13,Kakuna,"['Ka', 'ku', 'na']",3
+14,Beedrill,"['Bee', 'drill']",2
+15,Pidgey,"['Pid', 'gey']",2
+16,Pidgeotto,"['Pid', 'geot', 'to']",3
+17,Pidgeot,"['Pid', 'geot']",2
+18,Rattata,"['Rat', 'ta', 'ta']",3
+19,Raticate,"['Ra', 'ti', 'ca', 'te']",4
+20,Spearow,"['Spea', 'row']",2
+21,Fearow,"['Fea', 'row']",2
+22,Ekans,['Ekans'],1
+23,Arbok,['Arbok'],1
+24,Pikachu,"['Pi', 'kac', 'hu']",3
+25,Raichu,"['Raic', 'hu']",2
+26,Sandshrew,"['Sands', 'hrew']",2
+27,Sandslash,"['San', 'dslash']",2
+28,Nidoran,"['Ni', 'do', 'ran']",3
+29,Nidorina,"['Ni', 'do', 'ri', 'na']",4
+30,Nidoqueen,"['Ni', 'do', 'que', 'en']",4
+31,Nidoran,"['Ni', 'do', 'ran']",3
+32,Nidorino,"['Ni', 'do', 'ri', 'no']",4
+33,Nidoking,"['Ni', 'do', 'king']",3
+34,Clefairy,"['Cle', 'fai', 'ry']",3
+35,Clefable,"['Cle', 'fa', 'ble']",3
+36,Vulpix,"['Vul', 'pix']",2
+37,Ninetales,"['Ni', 'ne', 'ta', 'les']",4
+38,Jigglypuff,"['Jig', 'gly', 'puff']",3
+39,Wigglytuff,"['Wig', 'gly', 'tuff']",3
+40,Zubat,"['Zu', 'bat']",2
+41,Golbat,"['Gol', 'bat']",2
+42,Oddish,['Oddish'],1
+43,Gloom,['Gloom'],1
+44,Vileplume,"['Vi', 'le', 'plu', 'me']",4
+45,Paras,"['Pa', 'ras']",2
+46,Parasect,"['Pa', 'ra', 'sect']",3
+47,Venonat,"['Ve', 'no', 'nat']",3
+48,Venomoth,"['Ve', 'no', 'moth']",3
+49,Diglett,"['Di', 'glett']",2
+50,Dugtrio,"['Dug', 'trio']",2
+51,Meowth,['Meowth'],1
+52,Persian,"['Per', 'sian']",2
+53,Psyduck,"['Psy', 'duck']",2
+54,Golduck,"['Gol', 'duck']",2
+55,Mankey,"['Man', 'key']",2
+56,Primeape,"['Pri', 'mea', 'pe']",3
+57,Growlithe,"['Grow', 'lit', 'he']",3
+58,Arcanine,"['Arca', 'ni', 'ne']",3
+59,Poliwag,"['Po', 'li', 'wag']",3
+60,Poliwhirl,"['Po', 'liw', 'hirl']",3
+61,Poliwrath,"['Po', 'liw', 'rath']",3
+62,Abra,['Abra'],1
+63,Kadabra,"['Ka', 'da', 'bra']",3
+64,Alakazam,"['Ala', 'ka', 'zam']",3
+65,Machop,"['Mac', 'hop']",2
+66,Machoke,"['Mac', 'ho', 'ke']",3
+67,Machamp,"['Mac', 'hamp']",2
+68,Bellsprout,"['Bells', 'prout']",2
+69,Weepinbell,"['Wee', 'pin', 'bell']",3
+70,Victreebel,"['Vic', 'tree', 'bel']",3
+71,Tentacool,"['Ten', 'ta', 'cool']",3
+72,Tentacruel,"['Ten', 'ta', 'cruel']",3
+73,Geodude,"['Geo', 'du', 'de']",3
+74,Graveler,"['Gra', 've', 'ler']",3
+75,Golem,"['Go', 'lem']",2
+76,Ponyta,"['Po', 'ny', 'ta']",3
+77,Rapidash,"['Ra', 'pi', 'dash']",3
+78,Slowpoke,"['Slow', 'po', 'ke']",3
+79,Slowbro,"['Slow', 'bro']",2
+80,Magnemite,"['Ma', 'gne', 'mi', 'te']",4
+81,Magneton,"['Ma', 'gne', 'ton']",3
+82,Farfetch 'd,"['Far', ""fetch'd""]",2
+83,Doduo,"['Do', 'duo']",2
+84,Dodrio,"['Do', 'drio']",2
+85,Seel,['Seel'],1
+86,Dewgong,"['Dew', 'gong']",2
+87,Grimer,"['Gri', 'mer']",2
+88,Muk,['Muk'],1
+89,Shellder,"['Shell', 'der']",2
+90,Cloyster,"['Cloys', 'ter']",2
+91,Gastly,"['Gas', 'tly']",2
+92,Haunter,"['Haun', 'ter']",2
+93,Gengar,"['Gen', 'gar']",2
+94,Onix,['Onix'],1
+95,Drowzee,"['Drow', 'zee']",2
+96,Hypno,"['Hy', 'pno']",2
+97,Krabby,"['Krab', 'by']",2
+98,Kingler,"['Kin', 'gler']",2
+99,Voltorb,"['Vol', 'torb']",2
+100,Electrode,"['Elec', 'tro', 'de']",3
+101,Exeggcute,"['Exegg', 'cu', 'te']",3
+102,Exeggutor,"['Exeg', 'gu', 'tor']",3
+103,Cubone,"['Cu', 'bo', 'ne']",3
+104,Marowak,"['Ma', 'ro', 'wak']",3
+105,Hitmonlee,"['Hi', 'tmon', 'lee']",3
+106,Hitmonchan,"['Hi', 'tmonc', 'han']",3
+107,Lickitung,"['Lic', 'ki', 'tung']",3
+108,Koffing,"['Kof', 'fing']",2
+109,Weezing,"['Wee', 'zing']",2
+110,Rhyhorn,"['Rhy', 'horn']",2
+111,Rhydon,"['Rhy', 'don']",2
+112,Chansey,"['Chan', 'sey']",2
+113,Tangela,"['Tan', 'ge', 'la']",3
+114,Kangaskhan,"['Kan', 'gask', 'han']",3
+115,Horsea,"['Hor', 'sea']",2
+116,Seadra,"['Sea', 'dra']",2
+117,Goldeen,"['Gol', 'deen']",2
+118,Seaking,"['Sea', 'king']",2
+119,Staryu,"['Sta', 'ryu']",2
+120,Starmie,"['Star', 'mie']",2
+121,Mister Mime,"['Mis', 'ter', 'Mi', 'me']",4
+122,Scyther,"['Scyt', 'her']",2
+123,Jynx,['Jynx'],1
+124,Electabuzz,"['Elec', 'ta', 'buzz']",3
+125,Magmar,"['Ma', 'gmar']",2
+126,Pinsir,"['Pin', 'sir']",2
+127,Tauros,"['Tau', 'ros']",2
+128,Magikarp,"['Ma', 'gi', 'karp']",3
+129,Gyarados,"['Gya', 'ra', 'dos']",3
+130,Lapras,"['La', 'pras']",2
+131,Ditto,"['Dit', 'to']",2
+132,Eevee,"['Ee', 'vee']",2
+133,Vaporeon,"['Va', 'po', 'reon']",3
+134,Jolteon,"['Jol', 'teon']",2
+135,Flareon,"['Fla', 'reon']",2
+136,Porygon,"['Po', 'ry', 'gon']",3
+137,Omanyte,"['Oma', 'ny', 'te']",3
+138,Omastar,"['Omas', 'tar']",2
+139,Kabuto,"['Ka', 'bu', 'to']",3
+140,Kabutops,"['Ka', 'bu', 'tops']",3
+141,Aerodactyl,"['Ae', 'ro', 'dac', 'tyl']",4
+142,Snorlax,"['Snor', 'lax']",2
+143,Articuno,"['Arti', 'cu', 'no']",3
+144,Zapdos,"['Zap', 'dos']",2
+145,Moltres,"['Mol', 'tres']",2
+146,Dratini,"['Dra', 'ti', 'ni']",3
+147,Dragonair,"['Dra', 'go', 'nair']",3
+148,Dragonite,"['Dra', 'go', 'ni', 'te']",4
+149,Mewtwo,"['Mew', 'two']",2
+150,Mew,['Mew'],1
+151,Chikorita,"['Chi', 'ko', 'ri', 'ta']",4
+152,Bayleef,"['Bay', 'leef']",2
+153,Meganium,"['Me', 'ga', 'nium']",3
+154,Cyndaquil,"['Cyn', 'da', 'quil']",3
+155,Quilava,"['Qui', 'la', 'va']",3
+156,Typhlosion,"['Typ', 'hlo', 'sion']",3
+157,Totodile,"['To', 'to', 'di', 'le']",4
+158,Croconaw,"['Cro', 'co', 'naw']",3
+159,Feraligatr,"['Fe', 'ra', 'li', 'gatr']",4
+160,Sentret,"['Sen', 'tret']",2
+161,Furret,"['Fur', 'ret']",2
+162,Hoothoot,"['Hoot', 'hoot']",2
+163,Noctowl,"['Noc', 'towl']",2
+164,Ledyba,"['Le', 'dy', 'ba']",3
+165,Ledian,"['Le', 'dian']",2
+166,Spinarak,"['Spi', 'na', 'rak']",3
+167,Ariados,"['Aria', 'dos']",2
+168,Crobat,"['Cro', 'bat']",2
+169,Chinchou,"['Chinc', 'hou']",2
+170,Lanturn,"['Lan', 'turn']",2
+171,Pichu,"['Pic', 'hu']",2
+172,Cleffa,"['Clef', 'fa']",2
+173,Igglybuff,"['Iggly', 'buff']",2
+174,Togepi,"['To', 'ge', 'pi']",3
+175,Togetic,"['To', 'ge', 'tic']",3
+176,Natu,"['Na', 'tu']",2
+177,Xatu,"['Xa', 'tu']",2
+178,Mareep,"['Ma', 'reep']",2
+179,Flaaffy,"['Flaaf', 'fy']",2
+180,Ampharos,"['Ampha', 'ros']",2
+181,Bellossom,"['Bel', 'los', 'som']",3
+182,Marill,"['Ma', 'rill']",2
+183,Azumarill,"['Azu', 'ma', 'rill']",3
+184,Sudowoodo,"['Su', 'do', 'woo', 'do']",4
+185,Politoed,"['Po', 'li', 'toed']",3
+186,Hoppip,"['Hop', 'pip']",2
+187,Skiploom,"['Ski', 'ploom']",2
+188,Jumpluff,"['Jum', 'pluff']",2
+189,Aipom,"['Ai', 'pom']",2
+190,Sunkern,"['Sun', 'kern']",2
+191,Sunflora,"['Sun', 'flo', 'ra']",3
+192,Yanma,"['Yan', 'ma']",2
+193,Wooper,"['Woo', 'per']",2
+194,Quagsire,"['Qua', 'gsi', 're']",3
+195,Espeon,['Espeon'],1
+196,Umbreon,['Umbreon'],1
+197,Murkrow,"['Mur', 'krow']",2
+198,Slowking,"['Slow', 'king']",2
+199,Misdreavus,"['Mis', 'drea', 'vus']",3
+200,Unown,['Unown'],1
+201,Wobbuffet,"['Wob', 'buf', 'fet']",3
+202,Girafarig,"['Gi', 'ra', 'fa', 'rig']",4
+203,Pineco,"['Pi', 'ne', 'co']",3
+204,Forretress,"['For', 're', 'tress']",3
+205,Dunsparce,"['Duns', 'par', 'ce']",3
+206,Gligar,"['Gli', 'gar']",2
+207,Steelix,"['Stee', 'lix']",2
+208,Snubbull,"['Snub', 'bull']",2
+209,Granbull,"['Gran', 'bull']",2
+210,Qwilfish,"['Qwil', 'fish']",2
+211,Scizor,"['Sci', 'zor']",2
+212,Shuckle,"['Shuc', 'kle']",2
+213,Heracross,"['He', 'ra', 'cross']",3
+214,Sneasel,"['Snea', 'sel']",2
+215,Teddiursa,"['Ted', 'diur', 'sa']",3
+216,Ursaring,"['Ursa', 'ring']",2
+217,Slugma,"['Slu', 'gma']",2
+218,Magcargo,"['Mag', 'car', 'go']",3
+219,Swinub,"['Swi', 'nub']",2
+220,Piloswine,"['Pi', 'lo', 'swi', 'ne']",4
+221,Corsola,"['Cor', 'so', 'la']",3
+222,Remoraid,"['Re', 'mo', 'raid']",3
+223,Octillery,"['Octil', 'le', 'ry']",3
+224,Delibird,"['De', 'li', 'bird']",3
+225,Mantine,"['Man', 'ti', 'ne']",3
+226,Skarmory,"['Skar', 'mo', 'ry']",3
+227,Houndour,"['Houn', 'dour']",2
+228,Houndoom,"['Houn', 'doom']",2
+229,Kingdra,"['King', 'dra']",2
+230,Phanpy,"['Phan', 'py']",2
+231,Donphan,"['Donp', 'han']",2
+232,Porygon2,"['Po', 'ry', 'gon2']",3
+233,Stantler,"['Stan', 'tler']",2
+234,Smeargle,"['Smear', 'gle']",2
+235,Tyrogue,"['Ty', 'ro', 'gue']",3
+236,Hitmontop,"['Hi', 'tmon', 'top']",3
+237,Smoochum,"['Smooc', 'hum']",2
+238,Elekid,"['Ele', 'kid']",2
+239,Magby,"['Mag', 'by']",2
+240,Miltank,"['Mil', 'tank']",2
+241,Blissey,"['Blis', 'sey']",2
+242,Raikou,"['Rai', 'kou']",2
+243,Entei,['Entei'],1
+244,Suicune,"['Sui', 'cu', 'ne']",3
+245,Larvitar,"['Lar', 'vi', 'tar']",3
+246,Pupitar,"['Pu', 'pi', 'tar']",3
+247,Tyranitar,"['Ty', 'ra', 'ni', 'tar']",4
+248,Lugia,"['Lu', 'gia']",2
+249,Ho-oh,"['Ho', 'oh']",2
+250,Celebi,"['Ce', 'le', 'bi']",3
+251,Treecko,"['Treec', 'ko']",2
+252,Grovyle,"['Gro', 'vy', 'le']",3
+253,Sceptile,"['Scep', 'ti', 'le']",3
+254,Torchic,"['Torc', 'hic']",2
+255,Combusken,"['Com', 'bus', 'ken']",3
+256,Blaziken,"['Bla', 'zi', 'ken']",3
+257,Mudkip,"['Mud', 'kip']",2
+258,Marshtomp,"['Marsh', 'tomp']",2
+259,Swampert,"['Swam', 'pert']",2
+260,Poochyena,"['Pooc', 'hye', 'na']",3
+261,Mightyena,"['Migh', 'tye', 'na']",3
+262,Zigzagoon,"['Zi', 'gza', 'goon']",3
+263,Linoone,"['Li', 'noo', 'ne']",3
+264,Wurmple,"['Wurm', 'ple']",2
+265,Silcoon,"['Sil', 'coon']",2
+266,Beautifly,"['Bea', 'u', 'ti', 'fly']",4
+267,Cascoon,"['Cas', 'coon']",2
+268,Dustox,"['Dus', 'tox']",2
+269,Lotad,"['Lo', 'tad']",2
+270,Lombre,"['Lom', 'bre']",2
+271,Ludicolo,"['Lu', 'di', 'co', 'lo']",4
+272,Seedot,"['See', 'dot']",2
+273,Nuzleaf,"['Nu', 'zleaf']",2
+274,Shiftry,"['Shif', 'try']",2
+275,Taillow,"['Tail', 'low']",2
+276,Swellow,"['Swel', 'low']",2
+277,Wingull,"['Win', 'gull']",2
+278,Pelipper,"['Pe', 'lip', 'per']",3
+279,Ralts,['Ralts'],1
+280,Kirlia,"['Kir', 'lia']",2
+281,Gardevoir,"['Gar', 'de', 'voir']",3
+282,Surskit,"['Surs', 'kit']",2
+283,Masquerain,"['Mas', 'que', 'rain']",3
+284,Shroomish,"['Shroo', 'mish']",2
+285,Breloom,"['Bre', 'loom']",2
+286,Slakoth,"['Sla', 'koth']",2
+287,Vigoroth,"['Vi', 'go', 'roth']",3
+288,Slaking,"['Sla', 'king']",2
+289,Nincada,"['Nin', 'ca', 'da']",3
+290,Ninjask,"['Nin', 'jask']",2
+291,Shedinja,"['She', 'din', 'ja']",3
+292,Whismur,"['Whi', 'smur']",2
+293,Loudred,"['Lou', 'dred']",2
+294,Exploud,['Exploud'],1
+295,Makuhita,"['Ma', 'ku', 'hi', 'ta']",4
+296,Hariyama,"['Ha', 'riy', 'a', 'ma']",4
+297,Azurill,"['Azu', 'rill']",2
+298,Nosepass,"['No', 'se', 'pass']",3
+299,Skitty,"['Skit', 'ty']",2
+300,Delcatty,"['Del', 'cat', 'ty']",3
+301,Sableye,"['Sa', 'bley', 'e']",3
+302,Mawile,"['Ma', 'wi', 'le']",3
+303,Aron,['Aron'],1
+304,Lairon,"['Lai', 'ron']",2
+305,Aggron,['Aggron'],1
+306,Meditite,"['Me', 'di', 'ti', 'te']",4
+307,Medicham,"['Me', 'dic', 'ham']",3
+308,Electrike,"['Elec', 'tri', 'ke']",3
+309,Manectric,"['Ma', 'nec', 'tric']",3
+310,Plusle,"['Plu', 'sle']",2
+311,Minun,"['Mi', 'nun']",2
+312,Volbeat,"['Vol', 'beat']",2
+313,Illumise,"['Illu', 'mi', 'se']",3
+314,Roselia,"['Ro', 'se', 'lia']",3
+315,Gulpin,"['Gul', 'pin']",2
+316,Swalot,"['Swa', 'lot']",2
+317,Carvanha,"['Car', 'van', 'ha']",3
+318,Sharpedo,"['Shar', 'pe', 'do']",3
+319,Wailmer,"['Wail', 'mer']",2
+320,Wailord,"['Wai', 'lord']",2
+321,Numel,"['Nu', 'mel']",2
+322,Camerupt,"['Ca', 'me', 'rupt']",3
+323,Torkoal,"['Tor', 'koal']",2
+324,Spoink,['Spoink'],1
+325,Grumpig,"['Grum', 'pig']",2
+326,Spinda,"['Spin', 'da']",2
+327,Trapinch,"['Tra', 'pinch']",2
+328,Vibrava,"['Vi', 'bra', 'va']",3
+329,Flygon,"['Fly', 'gon']",2
+330,Cacnea,"['Ca', 'cnea']",2
+331,Cacturne,"['Cac', 'tur', 'ne']",3
+332,Swablu,"['Swa', 'blu']",2
+333,Altaria,"['Alta', 'ria']",2
+334,Zangoose,"['Zan', 'goo', 'se']",3
+335,Seviper,"['Se', 'vi', 'per']",3
+336,Lunatone,"['Lu', 'na', 'to', 'ne']",4
+337,Solrock,"['Sol', 'rock']",2
+338,Barboach,"['Bar', 'boach']",2
+339,Whiscash,"['Whis', 'cash']",2
+340,Corphish,"['Corp', 'hish']",2
+341,Crawdaunt,"['Craw', 'daunt']",2
+342,Baltoy,"['Bal', 'toy']",2
+343,Claydol,"['Clay', 'dol']",2
+344,Lileep,"['Li', 'leep']",2
+345,Cradily,"['Cra', 'di', 'ly']",3
+346,Anorith,"['Ano', 'rith']",2
+347,Armaldo,"['Armal', 'do']",2
+348,Feebas,"['Fee', 'bas']",2
+349,Milotic,"['Mi', 'lo', 'tic']",3
+350,Castform,"['Cas', 'tform']",2
+351,Castform,"['Cas', 'tform']",2
+352,Castform,"['Cas', 'tform']",2
+353,Castform,"['Cas', 'tform']",2
+354,Kecleon,"['Ke', 'cleon']",2
+355,Shuppet,"['Shup', 'pet']",2
+356,Banette,"['Ba', 'net', 'te']",3
+357,Duskull,"['Dus', 'kull']",2
+358,Dusclops,"['Dus', 'clops']",2
+359,Tropius,"['Tro', 'pius']",2
+360,Chimecho,"['Chi', 'mec', 'ho']",3
+361,Absol,['Absol'],1
+362,Wynaut,"['Wy', 'naut']",2
+363,Snorunt,"['Sno', 'runt']",2
+364,Glalie,"['Gla', 'lie']",2
+365,Spheal,['Spheal'],1
+366,Sealeo,"['Sea', 'leo']",2
+367,Walrein,"['Wal', 'rein']",2
+368,Clamperl,"['Clam', 'perl']",2
+369,Huntail,"['Hun', 'tail']",2
+370,Gorebyss,"['Go', 're', 'byss']",3
+371,Relicanth,"['Re', 'li', 'canth']",3
+372,Luvdisc,"['Luv', 'disc']",2
+373,Bagon,"['Ba', 'gon']",2
+374,Shelgon,"['Shel', 'gon']",2
+375,Salamence,"['Sa', 'la', 'men', 'ce']",4
+376,Beldum,"['Bel', 'dum']",2
+377,Metang,"['Me', 'tang']",2
+378,Metagross,"['Me', 'ta', 'gross']",3
+379,Regirock,"['Re', 'gi', 'rock']",3
+380,Regice,"['Re', 'gi', 'ce']",3
+381,Registeel,"['Re', 'gis', 'teel']",3
+382,Latias,"['La', 'tias']",2
+383,Latios,"['La', 'tios']",2
+384,Kyogre,"['Kyo', 'gre']",2
+385,Groudon,"['Grou', 'don']",2
+386,Rayquaza,"['Ray', 'qua', 'za']",3
+387,Jirachi,"['Ji', 'rac', 'hi']",3
+388,Deoxys,"['Deo', 'xys']",2
+389,Deoxys,"['Deo', 'xys']",2
+390,Deoxys,"['Deo', 'xys']",2
+391,Deoxys,"['Deo', 'xys']",2
+392,Turtwig,"['Tur', 'twig']",2
+393,Grotle,"['Gro', 'tle']",2
+394,Torterra,"['Tor', 'ter', 'ra']",3
+395,Chimchar,"['Chimc', 'har']",2
+396,Monferno,"['Mon', 'fer', 'no']",3
+397,Infernape,"['Infer', 'na', 'pe']",3
+398,Piplup,"['Pi', 'plup']",2
+399,Prinplup,"['Prin', 'plup']",2
+400,Empoleon,"['Empo', 'leon']",2
+401,Starly,"['Star', 'ly']",2
+402,Staravia,"['Sta', 'ra', 'via']",3
+403,Staraptor,"['Sta', 'rap', 'tor']",3
+404,Bidoof,"['Bi', 'doof']",2
+405,Bibarel,"['Bi', 'ba', 'rel']",3
+406,Kricketot,"['Kric', 'ke', 'tot']",3
+407,Kricketune,"['Kric', 'ke', 'tu', 'ne']",4
+408,Shinx,['Shinx'],1
+409,Luxio,"['Lu', 'xio']",2
+410,Luxray,"['Lu', 'xray']",2
+411,Budew,"['Bu', 'dew']",2
+412,Roserade,"['Ro', 'se', 'ra', 'de']",4
+413,Cranidos,"['Cra', 'ni', 'dos']",3
+414,Rampardos,"['Ram', 'par', 'dos']",3
+415,Shieldon,"['Shiel', 'don']",2
+416,Bastiodon,"['Bas', 'tio', 'don']",3
+417,Burmy,"['Bur', 'my']",2
+418,Burmy,"['Bur', 'my']",2
+419,Burmy,"['Bur', 'my']",2
+420,Wormadam,"['Wor', 'ma', 'dam']",3
+421,Wormadam,"['Wor', 'ma', 'dam']",3
+422,Wormadam,"['Wor', 'ma', 'dam']",3
+423,Mothim,"['Mot', 'him']",2
+424,Combee,"['Com', 'bee']",2
+425,Vespiquen,"['Ves', 'pi', 'quen']",3
+426,Pachirisu,"['Pac', 'hi', 'ri', 'su']",4
+427,Buizel,"['Bui', 'zel']",2
+428,Floatzel,"['Floa', 'tzel']",2
+429,Cherubi,"['Che', 'ru', 'bi']",3
+430,Cherrim,"['Cher', 'rim']",2
+431,Shellos,"['Shel', 'los']",2
+432,Gastrodon,"['Gas', 'tro', 'don']",3
+433,Ambipom,"['Ambi', 'pom']",2
+434,Drifloon,"['Dri', 'floon']",2
+435,Drifblim,"['Drif', 'blim']",2
+436,Buneary,"['Bu', 'nea', 'ry']",3
+437,Lopunny,"['Lo', 'pun', 'ny']",3
+438,Mismagius,"['Mi', 'sma', 'gius']",3
+439,Honchkrow,"['Honch', 'krow']",2
+440,Glameow,"['Gla', 'meow']",2
+441,Purugly,"['Pu', 'ru', 'gly']",3
+442,Chingling,"['Chin', 'gling']",2
+443,Stunky,"['Stun', 'ky']",2
+444,Skuntank,"['Skun', 'tank']",2
+445,Bronzor,"['Bron', 'zor']",2
+446,Bronzong,"['Bron', 'zong']",2
+447,Bonsly,"['Bon', 'sly']",2
+448,Mime Junior,"['Mi', 'me', 'Ju', 'nior']",4
+449,Happiny,"['Hap', 'pi', 'ny']",3
+450,Chatot,"['Cha', 'tot']",2
+451,Spiritomb,"['Spi', 'ri', 'tomb']",3
+452,Gible,"['Gi', 'ble']",2
+453,Gabite,"['Ga', 'bi', 'te']",3
+454,Garchomp,"['Garc', 'homp']",2
+455,Munchlax,"['Munc', 'hlax']",2
+456,Riolu,"['Rio', 'lu']",2
+457,Lucario,"['Lu', 'ca', 'rio']",3
+458,Hippopotas,"['Hip', 'po', 'po', 'tas']",4
+459,Hippowdon,"['Hip', 'pow', 'don']",3
+460,Skorupi,"['Sko', 'ru', 'pi']",3
+461,Drapion,"['Dra', 'pion']",2
+462,Croagunk,"['Croa', 'gunk']",2
+463,Toxicroak,"['To', 'xi', 'croak']",3
+464,Carnivine,"['Car', 'ni', 'vi', 'ne']",4
+465,Finneon,"['Fin', 'neon']",2
+466,Lumineon,"['Lu', 'mi', 'neon']",3
+467,Mantyke,"['Man', 'ty', 'ke']",3
+468,Snover,"['Sno', 'ver']",2
+469,Abomasnow,"['Abo', 'ma', 'snow']",3
+470,Weavile,"['Wea', 'vi', 'le']",3
+471,Magnezone,"['Ma', 'gne', 'zo', 'ne']",4
+472,Lickilicky,"['Lic', 'ki', 'lic', 'ky']",4
+473,Rhyperior,"['Rhy', 'pe', 'rior']",3
+474,Tangrowth,"['Tan', 'growth']",2
+475,Electivire,"['Elec', 'ti', 'vi', 're']",4
+476,Magmortar,"['Ma', 'gmor', 'tar']",3
+477,Togekiss,"['To', 'ge', 'kiss']",3
+478,Yanmega,"['Yan', 'me', 'ga']",3
+479,Leafeon,"['Lea', 'feon']",2
+480,Glaceon,"['Gla', 'ceon']",2
+481,Gliscor,"['Glis', 'cor']",2
+482,Mamoswine,"['Ma', 'mo', 'swi', 'ne']",4
+483,Porygon-Z,"['Po', 'ry', 'gon-Z']",3
+484,Gallade,"['Gal', 'la', 'de']",3
+485,Probopass,"['Pro', 'bo', 'pass']",3
+486,Dusknoir,"['Dus', 'knoir']",2
+487,Froslass,"['Fro', 'slass']",2
+488,Rotom,"['Ro', 'tom']",2
+489,Rotom,"['Ro', 'tom']",2
+490,Rotom,"['Ro', 'tom']",2
+491,Rotom,"['Ro', 'tom']",2
+492,Rotom,"['Ro', 'tom']",2
+493,Rotom,"['Ro', 'tom']",2
+494,Uxie,['Uxie'],1
+495,Mesprit,"['Mes', 'prit']",2
+496,Azelf,['Azelf'],1
+497,Dialga,"['Dial', 'ga']",2
+498,Palkia,"['Pal', 'kia']",2
+499,Heatran,"['Hea', 'tran']",2
+500,Regigigas,"['Re', 'gi', 'gi', 'gas']",4
+501,Giratina,"['Gi', 'ra', 'ti', 'na']",4
+502,Giratina,"['Gi', 'ra', 'ti', 'na']",4
+503,Cresselia,"['Cres', 'se', 'lia']",3
+504,Phione,"['Phio', 'ne']",2
+505,Manaphy,"['Ma', 'nap', 'hy']",3
+506,Darkrai,"['Dar', 'krai']",2
+507,Shaymin,"['Shay', 'min']",2
+508,Shaymin,"['Shay', 'min']",2
+509,Arceus,['Arceus'],1
+510,Victini,"['Vic', 'ti', 'ni']",3
+511,Snivy,"['Sni', 'vy']",2
+512,Servine,"['Ser', 'vi', 'ne']",3
+513,Serperior,"['Ser', 'pe', 'rior']",3
+514,Tepig,"['Te', 'pig']",2
+515,Pignite,"['Pi', 'gni', 'te']",3
+516,Emboar,['Emboar'],1
+517,Oshawott,"['Osha', 'wott']",2
+518,Dewott,"['De', 'wott']",2
+519,Samurott,"['Sa', 'mu', 'rott']",3
+520,Patrat,"['Pa', 'trat']",2
+521,Watchog,"['Watc', 'hog']",2
+522,Lillipup,"['Lil', 'li', 'pup']",3
+523,Herdier,"['Her', 'dier']",2
+524,Stoutland,"['Stou', 'tland']",2
+525,Purrloin,"['Purr', 'loin']",2
+526,Liepard,"['Lie', 'pard']",2
+527,Pansage,"['Pan', 'sa', 'ge']",3
+528,Simisage,"['Si', 'mi', 'sa', 'ge']",4
+529,Pansear,"['Pan', 'sear']",2
+530,Simisear,"['Si', 'mi', 'sear']",3
+531,Panpour,"['Pan', 'pour']",2
+532,Simipour,"['Si', 'mi', 'pour']",3
+533,Munna,"['Mun', 'na']",2
+534,Musharna,"['Mus', 'har', 'na']",3
+535,Pidove,"['Pi', 'do', 've']",3
+536,Tranquill,"['Tran', 'quill']",2
+537,Unfezant,"['Unfe', 'zant']",2
+538,Blitzle,"['Bli', 'tzle']",2
+539,Zebstrika,"['Zebs', 'tri', 'ka']",3
+540,Roggenrola,"['Rog', 'gen', 'ro', 'la']",4
+541,Boldore,"['Bol', 'do', 're']",3
+542,Gigalith,"['Gi', 'ga', 'lith']",3
+543,Woobat,"['Woo', 'bat']",2
+544,Swoobat,"['Swoo', 'bat']",2
+545,Drilbur,"['Dril', 'bur']",2
+546,Excadrill,"['Exca', 'drill']",2
+547,Audino,"['Au', 'di', 'no']",3
+548,Timburr,"['Tim', 'burr']",2
+549,Gurdurr,"['Gur', 'durr']",2
+550,Conkeldurr,"['Con', 'kel', 'durr']",3
+551,Tympole,"['Tym', 'po', 'le']",3
+552,Palpitoad,"['Pal', 'pi', 'toad']",3
+553,Seismitoad,"['Sei', 'smi', 'toad']",3
+554,Throh,['Throh'],1
+555,Sawk,['Sawk'],1
+556,Sewaddle,"['Se', 'wad', 'dle']",3
+557,Swadloon,"['Swa', 'dloon']",2
+558,Leavanny,"['Lea', 'van', 'ny']",3
+559,Venipede,"['Ve', 'ni', 'pe', 'de']",4
+560,Whirlipede,"['Whir', 'li', 'pe', 'de']",4
+561,Scolipede,"['Sco', 'li', 'pe', 'de']",4
+562,Cottonee,"['Cot', 'to', 'nee']",3
+563,Whimsicott,"['Whim', 'si', 'cott']",3
+564,Petilil,"['Pe', 'ti', 'lil']",3
+565,Lilligant,"['Lil', 'li', 'gant']",3
+566,Basculin,"['Bas', 'cu', 'lin']",3
+567,Basculin,"['Bas', 'cu', 'lin']",3
+568,Sandile,"['San', 'di', 'le']",3
+569,Krokorok,"['Kro', 'ko', 'rok']",3
+570,Krookodile,"['Kroo', 'ko', 'di', 'le']",4
+571,Darumaka,"['Da', 'ru', 'ma', 'ka']",4
+572,Darmanitan,"['Dar', 'ma', 'ni', 'tan']",4
+573,Darmanitan,"['Dar', 'ma', 'ni', 'tan']",4
+574,Maractus,"['Ma', 'rac', 'tus']",3
+575,Dwebble,"['Dweb', 'ble']",2
+576,Crustle,"['Crus', 'tle']",2
+577,Scraggy,"['Scrag', 'gy']",2
+578,Scrafty,"['Scraf', 'ty']",2
+579,Sigilyph,"['Si', 'gi', 'lyph']",3
+580,Yamask,"['Ya', 'mask']",2
+581,Cofagrigus,"['Co', 'fa', 'gri', 'gus']",4
+582,Tirtouga,"['Tir', 'tou', 'ga']",3
+583,Carracosta,"['Car', 'ra', 'cos', 'ta']",4
+584,Archen,['Archen'],1
+585,Archeops,['Archeops'],1
+586,Trubbish,"['Trub', 'bish']",2
+587,Garbodor,"['Gar', 'bo', 'dor']",3
+588,Zorua,"['Zo', 'rua']",2
+589,Zoroark,"['Zo', 'roark']",2
+590,Minccino,"['Minc', 'ci', 'no']",3
+591,Cinccino,"['Cinc', 'ci', 'no']",3
+592,Gothita,"['Got', 'hi', 'ta']",3
+593,Gothorita,"['Got', 'ho', 'ri', 'ta']",4
+594,Gothitelle,"['Got', 'hi', 'tel', 'le']",4
+595,Solosis,"['So', 'lo', 'sis']",3
+596,Duosion,"['Duo', 'sion']",2
+597,Reuniclus,"['Reu', 'ni', 'clus']",3
+598,Ducklett,"['Duc', 'klett']",2
+599,Swanna,"['Swan', 'na']",2
+600,Vanillite,"['Va', 'nil', 'li', 'te']",4
+601,Vanillish,"['Va', 'nil', 'lish']",3
+602,Vanilluxe,"['Va', 'nil', 'lu', 'xe']",4
+603,Deerling,"['Deer', 'ling']",2
+604,Sawsbuck,"['Saws', 'buck']",2
+605,Emolga,"['Emol', 'ga']",2
+606,Karrablast,"['Kar', 'ra', 'blast']",3
+607,Escavalier,"['Esca', 'va', 'lier']",3
+608,Foongus,"['Foon', 'gus']",2
+609,Amoonguss,"['Amoon', 'guss']",2
+610,Frillish,"['Fril', 'lish']",2
+611,Jellicent,"['Jel', 'li', 'cent']",3
+612,Alomomola,"['Alo', 'mo', 'mo', 'la']",4
+613,Joltik,"['Jol', 'tik']",2
+614,Galvantula,"['Gal', 'van', 'tu', 'la']",4
+615,Ferroseed,"['Fer', 'ro', 'seed']",3
+616,Ferrothorn,"['Fer', 'rot', 'horn']",3
+617,Klink,['Klink'],1
+618,Klang,['Klang'],1
+619,Klinklang,"['Klin', 'klang']",2
+620,Tynamo,"['Ty', 'na', 'mo']",3
+621,Eelektrik,"['Ee', 'lek', 'trik']",3
+622,Eelektross,"['Ee', 'lek', 'tross']",3
+623,Elgyem,['Elgyem'],1
+624,Beheeyem,"['Be', 'hee', 'y', 'em']",4
+625,Litwick,"['Li', 'twick']",2
+626,Lampent,"['Lam', 'pent']",2
+627,Chandelure,"['Chan', 'de', 'lu', 're']",4
+628,Axew,['Axew'],1
+629,Fraxure,"['Fra', 'xu', 're']",3
+630,Haxorus,"['Ha', 'xo', 'rus']",3
+631,Cubchoo,"['Cubc', 'hoo']",2
+632,Beartic,"['Bear', 'tic']",2
+633,Cryogonal,"['Cryo', 'go', 'nal']",3
+634,Shelmet,"['Shel', 'met']",2
+635,Accelgor,"['Accel', 'gor']",2
+636,Stunfisk,"['Stun', 'fisk']",2
+637,Mienfoo,"['Mien', 'foo']",2
+638,Mienshao,"['Miens', 'hao']",2
+639,Druddigon,"['Drud', 'di', 'gon']",3
+640,Golett,"['Go', 'lett']",2
+641,Golurk,"['Go', 'lurk']",2
+642,Pawniard,"['Paw', 'niard']",2
+643,Bisharp,"['Bis', 'harp']",2
+644,Bouffalant,"['Bouf', 'fa', 'lant']",3
+645,Rufflet,"['Ruf', 'flet']",2
+646,Braviary,"['Bra', 'via', 'ry']",3
+647,Vullaby,"['Vul', 'la', 'by']",3
+648,Mandibuzz,"['Man', 'di', 'buzz']",3
+649,Heatmor,"['Hea', 'tmor']",2
+650,Durant,"['Du', 'rant']",2
+651,Deino,"['Dei', 'no']",2
+652,Zweilous,"['Zwei', 'lous']",2
+653,Hydreigon,"['Hy', 'drei', 'gon']",3
+654,Larvesta,"['Lar', 'ves', 'ta']",3
+655,Volcarona,"['Vol', 'ca', 'ro', 'na']",4
+656,Cobalion,"['Co', 'ba', 'lion']",3
+657,Terrakion,"['Ter', 'ra', 'kion']",3
+658,Virizion,"['Vi', 'ri', 'zion']",3
+659,Tornadus,"['Tor', 'na', 'dus']",3
+660,Tornadus,"['Tor', 'na', 'dus']",3
+661,Thundurus,"['Thun', 'du', 'rus']",3
+662,Thundurus,"['Thun', 'du', 'rus']",3
+663,Reshiram,"['Res', 'hi', 'ram']",3
+664,Zekrom,"['Ze', 'krom']",2
+665,Landorus,"['Lan', 'do', 'rus']",3
+666,Landorus,"['Lan', 'do', 'rus']",3
+667,Kyurem,"['Kyu', 'rem']",2
+668,Kyurem,"['Kyu', 'rem']",2
+669,Kyurem,"['Kyu', 'rem']",2
+670,Keldeo,"['Kel', 'deo']",2
+671,Keldeo,"['Kel', 'deo']",2
+672,Meloetta,"['Me', 'loet', 'ta']",3
+673,Meloetta,"['Me', 'loet', 'ta']",3
+674,Genesect,"['Ge', 'ne', 'sect']",3
+675,Venusaur,"['Ve', 'nu', 'saur']",3
+676,Charizard,"['Cha', 'ri', 'zard']",3
+677,Charizard,"['Cha', 'ri', 'zard']",3
+678,Blastoise,"['Blas', 'toi', 'se']",3
+679,Beedrill,"['Bee', 'drill']",2
+680,Pidgeot,"['Pid', 'geot']",2
+681,Alakazam,"['Ala', 'ka', 'zam']",3
+682,Slowbro,"['Slow', 'bro']",2
+683,Gengar,"['Gen', 'gar']",2
+684,Kangaskhan,"['Kan', 'gask', 'han']",3
+685,Pinsir,"['Pin', 'sir']",2
+686,Gyarados,"['Gya', 'ra', 'dos']",3
+687,Aerodactyl,"['Ae', 'ro', 'dac', 'tyl']",4
+688,Mewtwo,"['Mew', 'two']",2
+689,Mewtwo,"['Mew', 'two']",2
+690,Ampharos,"['Ampha', 'ros']",2
+691,Steelix,"['Stee', 'lix']",2
+692,Scizor,"['Sci', 'zor']",2
+693,Heracross,"['He', 'ra', 'cross']",3
+694,Houndoom,"['Houn', 'doom']",2
+695,Tyranitar,"['Ty', 'ra', 'ni', 'tar']",4
+696,Sceptile,"['Scep', 'ti', 'le']",3
+697,Blaziken,"['Bla', 'zi', 'ken']",3
+698,Swampert,"['Swam', 'pert']",2
+699,Gardevoir,"['Gar', 'de', 'voir']",3
+700,Sableye,"['Sa', 'bley', 'e']",3
+701,Mawile,"['Ma', 'wi', 'le']",3
+702,Aggron,['Aggron'],1
+703,Medicham,"['Me', 'dic', 'ham']",3
+704,Manectric,"['Ma', 'nec', 'tric']",3
+705,Sharpedo,"['Shar', 'pe', 'do']",3
+706,Camerupt,"['Ca', 'me', 'rupt']",3
+707,Altaria,"['Alta', 'ria']",2
+708,Banette,"['Ba', 'net', 'te']",3
+709,Absol,['Absol'],1
+710,Glalie,"['Gla', 'lie']",2
+711,Salamence,"['Sa', 'la', 'men', 'ce']",4
+712,Metagross,"['Me', 'ta', 'gross']",3
+713,Latias,"['La', 'tias']",2
+714,Latios,"['La', 'tios']",2
+715,Kyogre,"['Kyo', 'gre']",2
+716,Groudon,"['Grou', 'don']",2
+717,Rayquaza,"['Ray', 'qua', 'za']",3
+718,Lopunny,"['Lo', 'pun', 'ny']",3
+719,Garchomp,"['Garc', 'homp']",2
+720,Lucario,"['Lu', 'ca', 'rio']",3
+721,Abomasnow,"['Abo', 'ma', 'snow']",3
+722,Gallade,"['Gal', 'la', 'de']",3
+723,Audino,"['Au', 'di', 'no']",3
+724,Chespin,"['Ches', 'pin']",2
+725,Quilladin,"['Quil', 'la', 'din']",3
+726,Chesnaught,"['Che', 'snaught']",2
+727,Fennekin,"['Fen', 'ne', 'kin']",3
+728,Braixen,"['Brai', 'xen']",2
+729,Delphox,"['Delp', 'hox']",2
+730,Froakie,"['Froa', 'kie']",2
+731,Frogadier,"['Fro', 'ga', 'dier']",3
+732,Greninja,"['Gre', 'nin', 'ja']",3
+733,Bunnelby,"['Bun', 'nel', 'by']",3
+734,Diggersby,"['Dig', 'gers', 'by']",3
+735,Fletchling,"['Fletc', 'hling']",2
+736,Fletchinder,"['Fletc', 'hin', 'der']",3
+737,Talonflame,"['Ta', 'lon', 'fla', 'me']",4
+738,Scatterbug,"['Scat', 'ter', 'bug']",3
+739,Spewpa,"['Spew', 'pa']",2
+740,Vivillon,"['Vi', 'vil', 'lon']",3
+741,Litleo,"['Li', 'tleo']",2
+742,Pyroar,"['Py', 'roar']",2
+743,Flabébé,"['Fla', 'bé', 'bé']",3
+744,Floette,"['Floet', 'te']",2
+745,Florges,"['Flor', 'ges']",2
+746,Skiddo,"['Skid', 'do']",2
+747,Gogoat,"['Go', 'goat']",2
+748,Pancham,"['Panc', 'ham']",2
+749,Pangoro,"['Pan', 'go', 'ro']",3
+750,Furfrou,"['Fur', 'frou']",2
+751,Espurr,['Espurr'],1
+752,Meowstic,"['Meows', 'tic']",2
+753,Meowstic,"['Meows', 'tic']",2
+754,Honedge,"['Ho', 'ned', 'ge']",3
+755,Doublade,"['Dou', 'bla', 'de']",3
+756,Aegislash,"['Ae', 'gi', 'slash']",3
+757,Aegislash,"['Ae', 'gi', 'slash']",3
+758,Spritzee,"['Spri', 'tzee']",2
+759,Aromatisse,"['Aro', 'ma', 'tis', 'se']",4
+760,Swirlix,"['Swir', 'lix']",2
+761,Slurpuff,"['Slur', 'puff']",2
+762,Inkay,['Inkay'],1
+763,Malamar,"['Ma', 'la', 'mar']",3
+764,Binacle,"['Bi', 'na', 'cle']",3
+765,Barbaracle,"['Bar', 'ba', 'ra', 'cle']",4
+766,Skrelp,['Skrelp'],1
+767,Dragalge,"['Dra', 'gal', 'ge']",3
+768,Clauncher,"['Claunc', 'her']",2
+769,Clawitzer,"['Cla', 'wi', 'tzer']",3
+770,Helioptile,"['He', 'liop', 'ti', 'le']",4
+771,Heliolisk,"['He', 'lio', 'lisk']",3
+772,Tyrunt,"['Ty', 'runt']",2
+773,Tyrantrum,"['Ty', 'ran', 'trum']",3
+774,Amaura,"['Amau', 'ra']",2
+775,Aurorus,"['Au', 'ro', 'rus']",3
+776,Sylveon,"['Syl', 'veon']",2
+777,Hawlucha,"['Haw', 'luc', 'ha']",3
+778,Dedenne,"['De', 'den', 'ne']",3
+779,Carbink,"['Car', 'bink']",2
+780,Goomy,"['Goo', 'my']",2
+781,Sliggoo,"['Slig', 'goo']",2
+782,Goodra,"['Goo', 'dra']",2
+783,Klefki,"['Klef', 'ki']",2
+784,Phantump,"['Phan', 'tump']",2
+785,Trevenant,"['Tre', 've', 'nant']",3
+786,Pumpkaboo,"['Pump', 'ka', 'boo']",3
+787,Pumpkaboo,"['Pump', 'ka', 'boo']",3
+788,Pumpkaboo,"['Pump', 'ka', 'boo']",3
+789,Pumpkaboo,"['Pump', 'ka', 'boo']",3
+790,Gourgeist,"['Gour', 'geist']",2
+791,Gourgeist,"['Gour', 'geist']",2
+792,Gourgeist,"['Gour', 'geist']",2
+793,Gourgeist,"['Gour', 'geist']",2
+794,Bergmite,"['Ber', 'gmi', 'te']",3
+795,Avalugg,"['Ava', 'lugg']",2
+796,Noibat,"['Noi', 'bat']",2
+797,Noivern,"['Noi', 'vern']",2
+798,Xerneas,"['Xer', 'neas']",2
+799,Yveltal,"['Yvel', 'tal']",2
+800,Diancie,"['Dian', 'cie']",2
+801,Diancie,"['Dian', 'cie']",2
+802,Hoopa,"['Hoo', 'pa']",2
+803,Hoopa,"['Hoo', 'pa']",2
+804,Volcanion,"['Vol', 'ca', 'nion']",3
+805,Rattata,"['Rat', 'ta', 'ta']",3
+806,Raticate,"['Ra', 'ti', 'ca', 'te']",4
+807,Pikachu,"['Pi', 'kac', 'hu']",3
+808,Raichu,"['Raic', 'hu']",2
+809,Sandshrew,"['Sands', 'hrew']",2
+810,Sandslash,"['San', 'dslash']",2
+811,Vulpix,"['Vul', 'pix']",2
+812,Ninetales,"['Ni', 'ne', 'ta', 'les']",4
+813,Diglett,"['Di', 'glett']",2
+814,Dugtrio,"['Dug', 'trio']",2
+815,Meowth,['Meowth'],1
+816,Persian,"['Per', 'sian']",2
+817,Geodude,"['Geo', 'du', 'de']",3
+818,Graveler,"['Gra', 've', 'ler']",3
+819,Golem,"['Go', 'lem']",2
+820,Grimer,"['Gri', 'mer']",2
+821,Muk,['Muk'],1
+822,Exeggutor,"['Exeg', 'gu', 'tor']",3
+823,Marowak,"['Ma', 'ro', 'wak']",3
+824,Eevee,"['Ee', 'vee']",2
+825,Greninja,"['Gre', 'nin', 'ja']",3
+826,Zygarde,"['Zy', 'gar', 'de']",3
+827,Rowlet,"['Row', 'let']",2
+828,Dartrix,"['Dar', 'trix']",2
+829,Decidueye,"['De', 'ci', 'due', 'y', 'e']",5
+830,Litten,"['Lit', 'ten']",2
+831,Torracat,"['Tor', 'ra', 'cat']",3
+832,Incineroar,"['Inci', 'ne', 'roar']",3
+833,Popplio,"['Pop', 'plio']",2
+834,Brionne,"['Brion', 'ne']",2
+835,Primarina,"['Pri', 'ma', 'ri', 'na']",4
+836,Pikipek,"['Pi', 'ki', 'pek']",3
+837,Trumbeak,"['Trum', 'beak']",2
+838,Toucannon,"['Tou', 'can', 'non']",3
+839,Yungoos,"['Yun', 'goos']",2
+840,Gumshoos,"['Gums', 'hoos']",2
+841,Grubbin,"['Grub', 'bin']",2
+842,Charjabug,"['Char', 'ja', 'bug']",3
+843,Vikavolt,"['Vi', 'ka', 'volt']",3
+844,Crabrawler,"['Cra', 'braw', 'ler']",3
+845,Crabominable,"['Cra', 'bo', 'mi', 'na', 'ble']",5
+846,Oricorio,"['Ori', 'co', 'rio']",3
+847,Oricorio,"['Ori', 'co', 'rio']",3
+848,Oricorio,"['Ori', 'co', 'rio']",3
+849,Oricorio,"['Ori', 'co', 'rio']",3
+850,Cutiefly,"['Cu', 'tie', 'fly']",3
+851,Ribombee,"['Ri', 'bom', 'bee']",3
+852,Rockruff,"['Roc', 'kruff']",2
+853,Rockruff,"['Roc', 'kruff']",2
+854,Lycanroc,"['Ly', 'can', 'roc']",3
+855,Lycanroc,"['Ly', 'can', 'roc']",3
+856,Lycanroc,"['Ly', 'can', 'roc']",3
+857,Wishiwashi,"['Wis', 'hi', 'was', 'hi']",4
+858,Wishiwashi,"['Wis', 'hi', 'was', 'hi']",4
+859,Mareanie,"['Ma', 'rea', 'nie']",3
+860,Toxapex,"['To', 'xa', 'pex']",3
+861,Mudbray,"['Mud', 'bray']",2
+862,Mudsdale,"['Muds', 'da', 'le']",3
+863,Dewpider,"['Dew', 'pi', 'der']",3
+864,Araquanid,"['Ara', 'qua', 'nid']",3
+865,Fomantis,"['Fo', 'man', 'tis']",3
+866,Lurantis,"['Lu', 'ran', 'tis']",3
+867,Morelull,"['Mo', 're', 'lull']",3
+868,Shiinotic,"['Shii', 'no', 'tic']",3
+869,Salandit,"['Sa', 'lan', 'dit']",3
+870,Salazzle,"['Sa', 'laz', 'zle']",3
+871,Stufful,"['Stuf', 'ful']",2
+872,Bewear,"['Be', 'wear']",2
+873,Bounsweet,"['Boun', 'sweet']",2
+874,Steenee,"['Stee', 'nee']",2
+875,Tsareena,"['Tsa', 'ree', 'na']",3
+876,Comfey,"['Com', 'fey']",2
+877,Oranguru,"['Oran', 'gu', 'ru']",3
+878,Passimian,"['Pas', 'si', 'mian']",3
+879,Wimpod,"['Wim', 'pod']",2
+880,Golisopod,"['Go', 'li', 'so', 'pod']",4
+881,Sandygast,"['San', 'dy', 'gast']",3
+882,Palossand,"['Pa', 'los', 'sand']",3
+883,Pyukumuku,"['Pyu', 'ku', 'mu', 'ku']",4
+884,Type : Null,"['Ty', 'pe', ':', 'Null']",4
+885,Silvally,"['Sil', 'val', 'ly']",3
+886,Minior,"['Mi', 'nior']",2
+887,Minior,"['Mi', 'nior']",2
+888,Komala,"['Ko', 'ma', 'la']",3
+889,Turtonator,"['Tur', 'to', 'na', 'tor']",4
+890,Togedemaru,"['To', 'ge', 'de', 'ma', 'ru']",5
+891,Mimikyu,"['Mi', 'mi', 'kyu']",3
+892,Bruxish,"['Bru', 'xish']",2
+893,Drampa,"['Dram', 'pa']",2
+894,Dhelmise,"['Dhel', 'mi', 'se']",3
+895,Jangmo-o,"['Jan', 'gmo', 'o']",3
+896,Hakamo-o,"['Ha', 'ka', 'mo', 'o']",4
+897,Kommo-o,"['Kom', 'mo', 'o']",3
+898,Tapu Koko,"['Ta', 'pu', 'Ko', 'ko']",4
+899,Tapu Lele,"['Ta', 'pu', 'Le', 'le']",4
+900,Tapu Bulu,"['Ta', 'pu', 'Bu', 'lu']",4
+901,Tapu Fini,"['Ta', 'pu', 'Fi', 'ni']",4
+902,Cosmog,"['Co', 'smog']",2
+903,Cosmoem,"['Co', 'smoem']",2
+904,Solgaleo,"['Sol', 'ga', 'leo']",3
+905,Lunala,"['Lu', 'na', 'la']",3
+906,Nihilego,"['Ni', 'hi', 'le', 'go']",4
+907,Buzzwole,"['Buz', 'zwo', 'le']",3
+908,Pheromosa,"['Phe', 'ro', 'mo', 'sa']",4
+909,Xurkitree,"['Xur', 'ki', 'tree']",3
+910,Celesteela,"['Ce', 'les', 'tee', 'la']",4
+911,Kartana,"['Kar', 'ta', 'na']",3
+912,Guzzlord,"['Guz', 'zlord']",2
+913,Necrozma,"['Ne', 'cro', 'zma']",3
+914,Necrozma,"['Ne', 'cro', 'zma']",3
+915,Necrozma,"['Ne', 'cro', 'zma']",3
+916,Necrozma,"['Ne', 'cro', 'zma']",3
+917,Magearna,"['Ma', 'gear', 'na']",3
+918,Marshadow,"['Mars', 'ha', 'dow']",3
+919,Poipole,"['Poi', 'po', 'le']",3
+920,Naganadel,"['Na', 'ga', 'na', 'del']",4
+921,Stakataka,"['Sta', 'ka', 'ta', 'ka']",4
+922,Blacephalon,"['Bla', 'cep', 'ha', 'lon']",4
+923,Zeraora,"['Ze', 'rao', 'ra']",3
+924,Meltan,"['Mel', 'tan']",2
+925,Melmetal,"['Mel', 'me', 'tal']",3
+926,Meowth,['Meowth'],1
+927,Growlithe,"['Grow', 'lit', 'he']",3
+928,Arcanine,"['Arca', 'ni', 'ne']",3
+929,Ponyta,"['Po', 'ny', 'ta']",3
+930,Rapidash,"['Ra', 'pi', 'dash']",3
+931,Slowpoke,"['Slow', 'po', 'ke']",3
+932,Slowbro,"['Slow', 'bro']",2
+933,Farfetch 'd,"['Far', ""fetch'd""]",2
+934,Voltorb,"['Vol', 'torb']",2
+935,Electrode,"['Elec', 'tro', 'de']",3
+936,Weezing,"['Wee', 'zing']",2
+937,Mister Mime,"['Mis', 'ter', 'Mi', 'me']",4
+938,Articuno,"['Arti', 'cu', 'no']",3
+939,Zapdos,"['Zap', 'dos']",2
+940,Moltres,"['Mol', 'tres']",2
+941,Typhlosion,"['Typ', 'hlo', 'sion']",3
+942,Slowking,"['Slow', 'king']",2
+943,Qwilfish,"['Qwil', 'fish']",2
+944,Sneasel,"['Snea', 'sel']",2
+945,Corsola,"['Cor', 'so', 'la']",3
+946,Zigzagoon,"['Zi', 'gza', 'goon']",3
+947,Linoone,"['Li', 'noo', 'ne']",3
+948,Dialga,"['Dial', 'ga']",2
+949,Palkia,"['Pal', 'kia']",2
+950,Samurott,"['Sa', 'mu', 'rott']",3
+951,Lilligant,"['Lil', 'li', 'gant']",3
+952,Basculin,"['Bas', 'cu', 'lin']",3
+953,Darumaka,"['Da', 'ru', 'ma', 'ka']",4
+954,Darmanitan,"['Dar', 'ma', 'ni', 'tan']",4
+955,Darmanitan,"['Dar', 'ma', 'ni', 'tan']",4
+956,Yamask,"['Ya', 'mask']",2
+957,Zorua,"['Zo', 'rua']",2
+958,Zoroark,"['Zo', 'roark']",2
+959,Stunfisk,"['Stun', 'fisk']",2
+960,Braviary,"['Bra', 'via', 'ry']",3
+961,Sliggoo,"['Slig', 'goo']",2
+962,Goodra,"['Goo', 'dra']",2
+963,Avalugg,"['Ava', 'lugg']",2
+964,Decidueye,"['De', 'ci', 'due', 'y', 'e']",5
+965,Grookey,"['Groo', 'key']",2
+966,Thwackey,"['Thwac', 'key']",2
+967,Rillaboom,"['Ril', 'la', 'boom']",3
+968,Scorbunny,"['Scor', 'bun', 'ny']",3
+969,Raboot,"['Ra', 'boot']",2
+970,Cinderace,"['Cin', 'de', 'ra', 'ce']",4
+971,Sobble,"['Sob', 'ble']",2
+972,Drizzile,"['Driz', 'zi', 'le']",3
+973,Inteleon,"['Inte', 'leon']",2
+974,Skwovet,"['Skwo', 'vet']",2
+975,Greedent,"['Gree', 'dent']",2
+976,Rookidee,"['Roo', 'ki', 'dee']",3
+977,Corvisquire,"['Cor', 'vis', 'qui', 're']",4
+978,Corviknight,"['Cor', 'vi', 'knight']",3
+979,Blipbug,"['Blip', 'bug']",2
+980,Dottler,"['Dot', 'tler']",2
+981,Orbeetle,"['Orbee', 'tle']",2
+982,Nickit,"['Nic', 'kit']",2
+983,Thievul,"['Thie', 'vul']",2
+984,Gossifleur,"['Gos', 'si', 'fleur']",3
+985,Eldegoss,"['Elde', 'goss']",2
+986,Wooloo,"['Woo', 'loo']",2
+987,Dubwool,"['Du', 'bwool']",2
+988,Chewtle,"['Chew', 'tle']",2
+989,Drednaw,"['Dre', 'dnaw']",2
+990,Yamper,"['Yam', 'per']",2
+991,Boltund,"['Bol', 'tund']",2
+992,Rolycoly,"['Ro', 'ly', 'co', 'ly']",4
+993,Carkol,"['Car', 'kol']",2
+994,Coalossal,"['Coa', 'los', 'sal']",3
+995,Applin,['Applin'],1
+996,Flapple,"['Flap', 'ple']",2
+997,Appletun,"['Apple', 'tun']",2
+998,Silicobra,"['Si', 'li', 'co', 'bra']",4
+999,Sandaconda,"['San', 'da', 'con', 'da']",4
+1000,Cramorant,"['Cra', 'mo', 'rant']",3
+1001,Arrokuda,"['Arro', 'ku', 'da']",3
+1002,Barraskewda,"['Bar', 'ras', 'kew', 'da']",4
+1003,Toxel,"['To', 'xel']",2
+1004,Toxtricity,"['Tox', 'tri', 'ci', 'ty']",4
+1005,Toxtricity,"['Tox', 'tri', 'ci', 'ty']",4
+1006,Sizzlipede,"['Siz', 'zli', 'pe', 'de']",4
+1007,Centiskorch,"['Cen', 'tis', 'korch']",3
+1008,Clobbopus,"['Clob', 'bo', 'pus']",3
+1009,Grapploct,"['Grap', 'ploct']",2
+1010,Sinistea,"['Si', 'nis', 'tea']",3
+1011,Polteageist,"['Pol', 'tea', 'geist']",3
+1012,Hatenna,"['Ha', 'ten', 'na']",3
+1013,Hattrem,"['Hat', 'trem']",2
+1014,Hatterene,"['Hat', 'te', 're', 'ne']",4
+1015,Impidimp,"['Impi', 'dimp']",2
+1016,Morgrem,"['Mor', 'grem']",2
+1017,Grimmsnarl,"['Grimm', 'snarl']",2
+1018,Obstagoon,"['Obsta', 'goon']",2
+1019,Perrserker,"['Perr', 'ser', 'ker']",3
+1020,Cursola,"['Cur', 'so', 'la']",3
+1021,Sirfetch 'd,"['Sir', ""fetch'd""]",2
+1022,Mister Rime,"['Mis', 'ter', 'Ri', 'me']",4
+1023,Runerigus,"['Ru', 'ne', 'ri', 'gus']",4
+1024,Milcery,"['Mil', 'ce', 'ry']",3
+1025,Alcremie,"['Alcre', 'mie']",2
+1026,Falinks,"['Fa', 'links']",2
+1027,Pincurchin,"['Pin', 'curc', 'hin']",3
+1028,Snom,['Snom'],1
+1029,Frosmoth,"['Fro', 'smoth']",2
+1030,Stonjourner,"['Ston', 'jour', 'ner']",3
+1031,Eiscue,"['Eis', 'cue']",2
+1032,Eiscue,"['Eis', 'cue']",2
+1033,Indeedee,"['Indee', 'dee']",2
+1034,Indeedee,"['Indee', 'dee']",2
+1035,Morpeko,"['Mor', 'pe', 'ko']",3
+1036,Morpeko,"['Mor', 'pe', 'ko']",3
+1037,Cufant,"['Cu', 'fant']",2
+1038,Copperajah,"['Cop', 'pe', 'ra', 'jah']",4
+1039,Dracozolt,"['Dra', 'co', 'zolt']",3
+1040,Arctozolt,"['Arcto', 'zolt']",2
+1041,Dracovish,"['Dra', 'co', 'vish']",3
+1042,Arctovish,"['Arcto', 'vish']",2
+1043,Duraludon,"['Du', 'ra', 'lu', 'don']",4
+1044,Dreepy,"['Dree', 'py']",2
+1045,Drakloak,"['Dra', 'kloak']",2
+1046,Dragapult,"['Dra', 'ga', 'pult']",3
+1047,Zacian,"['Za', 'cian']",2
+1048,Zacian,"['Za', 'cian']",2
+1049,Zamazenta,"['Za', 'ma', 'zen', 'ta']",4
+1050,Zamazenta,"['Za', 'ma', 'zen', 'ta']",4
+1051,Eternatus,"['Eter', 'na', 'tus']",3
+1052,Eternatus,"['Eter', 'na', 'tus']",3
+1053,Kubfu,"['Ku', 'bfu']",2
+1054,Urshifu,"['Urshi', 'fu']",2
+1055,Urshifu,"['Urshi', 'fu']",2
+1056,Zarude,"['Za', 'ru', 'de']",3
+1057,Regieleki,"['Re', 'gie', 'le', 'ki']",4
+1058,Regidrago,"['Re', 'gi', 'dra', 'go']",4
+1059,Glastrier,"['Glas', 'trier']",2
+1060,Spectrier,"['Spec', 'trier']",2
+1061,Calyrex,"['Ca', 'ly', 'rex']",3
+1062,Calyrex,"['Ca', 'ly', 'rex']",3
+1063,Calyrex,"['Ca', 'ly', 'rex']",3
+1064,Wyrdeer,"['Wyr', 'deer']",2
+1065,Kleavor,"['Klea', 'vor']",2
+1066,Ursaluna,"['Ursa', 'lu', 'na']",3
+1067,Basculegion,"['Bas', 'cu', 'le', 'gion']",4
+1068,Basculegion,"['Bas', 'cu', 'le', 'gion']",4
+1069,Sneasler,"['Snea', 'sler']",2
+1070,Overqwil,"['Over', 'qwil']",2
+1071,Enamorus,"['Ena', 'mo', 'rus']",3
+1072,Enamorus,"['Ena', 'mo', 'rus']",3
+1073,Tauros,"['Tau', 'ros']",2
+1074,Tauros,"['Tau', 'ros']",2
+1075,Tauros,"['Tau', 'ros']",2
+1076,Wooper,"['Woo', 'per']",2
+1077,Sprigatito,"['Spri', 'ga', 'ti', 'to']",4
+1078,Floragato,"['Flo', 'ra', 'ga', 'to']",4
+1079,Meowscarada,"['Meows', 'ca', 'ra', 'da']",4
+1080,Fuecoco,"['Fue', 'co', 'co']",3
+1081,Crocalor,"['Cro', 'ca', 'lor']",3
+1082,Skeledirge,"['Ske', 'le', 'dir', 'ge']",4
+1083,Quaxly,"['Qua', 'xly']",2
+1084,Quaxwell,"['Qua', 'xwell']",2
+1085,Quaquaval,"['Qua', 'qua', 'val']",3
+1086,Lechonk,"['Lec', 'honk']",2
+1087,Oinkologne,"['Oin', 'ko', 'lo', 'gne']",4
+1088,Oinkologne,"['Oin', 'ko', 'lo', 'gne']",4
+1089,Tarountula,"['Ta', 'roun', 'tu', 'la']",4
+1090,Spidops,"['Spi', 'dops']",2
+1091,Nymble,"['Nym', 'ble']",2
+1092,Lokix,"['Lo', 'kix']",2
+1093,Pawmi,"['Paw', 'mi']",2
+1094,Pawmo,"['Paw', 'mo']",2
+1095,Pawmot,"['Paw', 'mot']",2
+1096,Tandemaus,"['Tan', 'de', 'maus']",3
+1097,Maushold,"['Maus', 'hold']",2
+1098,Maushold,"['Maus', 'hold']",2
+1099,Fidough,"['Fi', 'dough']",2
+1100,Dachsbun,"['Dachs', 'bun']",2
+1101,Smoliv,"['Smo', 'liv']",2
+1102,Dolliv,"['Dol', 'liv']",2
+1103,Arboliva,"['Arbo', 'li', 'va']",3
+1104,Squawkabilly,"['Squaw', 'ka', 'bil', 'ly']",4
+1105,Squawkabilly,"['Squaw', 'ka', 'bil', 'ly']",4
+1106,Squawkabilly,"['Squaw', 'ka', 'bil', 'ly']",4
+1107,Squawkabilly,"['Squaw', 'ka', 'bil', 'ly']",4
+1108,Nacli,"['Na', 'cli']",2
+1109,Naclstack,"['Nacls', 'tack']",2
+1110,Garganacl,"['Gar', 'ga', 'nacl']",3
+1111,Charcadet,"['Char', 'ca', 'det']",3
+1112,Armarouge,"['Arma', 'rou', 'ge']",3
+1113,Ceruledge,"['Ce', 'ru', 'led', 'ge']",4
+1114,Tadbulb,"['Tad', 'bulb']",2
+1115,Bellibolt,"['Bel', 'li', 'bolt']",3
+1116,Wattrel,"['Wat', 'trel']",2
+1117,Kilowattrel,"['Ki', 'lo', 'wat', 'trel']",4
+1118,Maschiff,"['Masc', 'hiff']",2
+1119,Mabosstiff,"['Ma', 'boss', 'tiff']",3
+1120,Shroodle,"['Shroo', 'dle']",2
+1121,Grafaiai,"['Gra', 'fai', 'a', 'i']",4
+1122,Bramblin,"['Bram', 'blin']",2
+1123,Brambleghast,"['Bram', 'bleg', 'hast']",3
+1124,Toedscool,"['Toeds', 'cool']",2
+1125,Toedscruel,"['Toeds', 'cruel']",2
+1126,Klawf,['Klawf'],1
+1127,Capsakid,"['Ca', 'psa', 'kid']",3
+1128,Scovillain,"['Sco', 'vil', 'lain']",3
+1129,Rellor,"['Rel', 'lor']",2
+1130,Rabsca,"['Rabs', 'ca']",2
+1131,Flittle,"['Flit', 'tle']",2
+1132,Espathra,"['Espat', 'hra']",2
+1133,Tinkatink,"['Tin', 'ka', 'tink']",3
+1134,Tinkatuff,"['Tin', 'ka', 'tuff']",3
+1135,Tinkaton,"['Tin', 'ka', 'ton']",3
+1136,Wiglett,"['Wi', 'glett']",2
+1137,Wugtrio,"['Wug', 'trio']",2
+1138,Bombirdier,"['Bom', 'bir', 'dier']",3
+1139,Finizen,"['Fi', 'ni', 'zen']",3
+1140,Palafin,"['Pa', 'la', 'fin']",3
+1141,Palafin,"['Pa', 'la', 'fin']",3
+1142,Varoom,"['Va', 'room']",2
+1143,Revavroom,"['Re', 'va', 'vroom']",3
+1144,Cyclizar,"['Cy', 'cli', 'zar']",3
+1145,Orthworm,['Orthworm'],1
+1146,Glimmet,"['Glim', 'met']",2
+1147,Glimmora,"['Glim', 'mo', 'ra']",3
+1148,Greavard,"['Grea', 'vard']",2
+1149,Houndstone,"['Hounds', 'to', 'ne']",3
+1150,Flamigo,"['Fla', 'mi', 'go']",3
+1151,Cetoddle,"['Ce', 'tod', 'dle']",3
+1152,Cetitan,"['Ce', 'ti', 'tan']",3
+1153,Veluza,"['Ve', 'lu', 'za']",3
+1154,Dondozo,"['Don', 'do', 'zo']",3
+1155,Tatsugiri,"['Ta', 'tsu', 'gi', 'ri']",4
+1156,Tatsugiri,"['Ta', 'tsu', 'gi', 'ri']",4
+1157,Tatsugiri,"['Ta', 'tsu', 'gi', 'ri']",4
+1158,Annihilape,"['Anni', 'hi', 'la', 'pe']",4
+1159,Clodsire,"['Clo', 'dsi', 're']",3
+1160,Farigiraf,"['Fa', 'ri', 'gi', 'raf']",4
+1161,Dudunsparce,"['Du', 'duns', 'par', 'ce']",4
+1162,Dudunsparce,"['Du', 'duns', 'par', 'ce']",4
+1163,Kingambit,"['Kin', 'gam', 'bit']",3
+1164,Great Tusk,"['Great', 'Tusk']",2
+1165,Scream Tail,"['Scream', 'Tail']",2
+1166,Brute Bonnet,"['Bru', 'te', 'Bon', 'net']",4
+1167,Flutter Mane,"['Flut', 'ter', 'Ma', 'ne']",4
+1168,Slither Wing,"['Slit', 'her', 'Wing']",3
+1169,Sandy Shocks,"['San', 'dy', 'Shocks']",3
+1170,Iron Treads,"['Iron', 'Treads']",2
+1171,Iron Bundle,"['Iron', 'Bun', 'dle']",3
+1172,Iron Hands,"['Iron', 'Hands']",2
+1173,Iron Jugulis,"['Iron', 'Ju', 'gu', 'lis']",4
+1174,Iron Moth,"['Iron', 'Moth']",2
+1175,Iron Thorns,"['Iron', 'Thorns']",2
+1176,Frigibax,"['Fri', 'gi', 'bax']",3
+1177,Arctibax,"['Arcti', 'bax']",2
+1178,Baxcalibur,"['Bax', 'ca', 'li', 'bur']",4
+1179,Gimmighoul,"['Gim', 'mig', 'houl']",3
+1180,Gimmighoul,"['Gim', 'mig', 'houl']",3
+1181,Gholdengo,"['Ghol', 'den', 'go']",3
+1182,Wo-Chien,"['Wo', 'Chien']",2
+1183,Chien-Pao,"['Chien', 'Pao']",2
+1184,Ting-Lu,"['Ting', 'Lu']",2
+1185,Chi-Yu,"['Chi', 'Yu']",2
+1186,Roaring Moon,"['Roa', 'ring', 'Moon']",3
+1187,Iron Valiant,"['Iron', 'Va', 'liant']",3
+1188,Koraidon,"['Ko', 'rai', 'don']",3
+1189,Miraidon,"['Mi', 'rai', 'don']",3
+1190,Walking Wake,"['Wal', 'king', 'Wa', 'ke']",4
+1191,Iron Leaves,"['Iron', 'Lea', 'ves']",3

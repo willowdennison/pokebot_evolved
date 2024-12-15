@@ -1,0 +1,27 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pokebot_evolved"
+version = "0.0.1"
+authors = [
+  { name="Willow Dennison", email="dennisonwillow@gmail.com" },
+]
+description = "A bot that uses several machine learning models to generate new pokemon."
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+keywords = ["pokemon", "textgen", "neural network"]
+
+[project.urls]
+Homepage = ""
+Issues = ""
+
+[tool.hatch.build.targets.wheel]
+packages = ["namegen", "statgen", "type_classifier"]

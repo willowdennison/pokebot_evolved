@@ -1,0 +1,962 @@
+,name_en,syllables,syllable_count,forms,category,height_m,weight_kg,has_gender,female_percent,is_breedable,catch_rate,leveling_rate,base_hp,base_atk,base_def,base_spatk,base_spdef,base_speed,base_stat_total,egg_group_0,egg_group_1,type_0,type_1,ability_0,ability_1,hidden_ability,is_legendary,is_mythical,is_part_of_evolution,stage,evolution_level
+0,Bulbasaur,"['Bul', 'ba', 'saur']",3,1,Seed Pokemon,0.7,6.9,True,12.5,True,45,Medium Slow,45,49,49,65,65,45,318,Monster,Grass,Grass,Poison,Overgrow,,Chlorophyll,False,False,True,1,16.0
+1,Ivysaur,"['Ivy', 'saur']",2,1,Seed Pokemon,1.0,13.0,True,12.5,True,45,Medium Slow,60,62,63,80,80,60,405,Monster,Grass,Grass,Poison,Overgrow,,Chlorophyll,False,False,True,2,32.0
+2,Venusaur,"['Ve', 'nu', 'saur']",3,1,Seed Pokemon,2.0,100.0,True,12.5,True,45,Medium Slow,80,82,83,100,100,80,525,Monster,Grass,Grass,Poison,Overgrow,,Chlorophyll,False,False,True,3,
+3,Charmander,"['Char', 'man', 'der']",3,1,Lizard Pokemon,0.6,8.5,True,12.5,True,45,Medium Slow,39,52,43,60,50,65,309,Monster,Dragon,Fire,,Blaze,,Solar Power,False,False,True,1,16.0
+4,Charmeleon,"['Char', 'me', 'leon']",3,1,Flame Pokemon,1.1,19.0,True,12.5,True,45,Medium Slow,58,64,58,80,65,80,405,Monster,Dragon,Fire,,Blaze,,Solar Power,False,False,True,2,36.0
+5,Charizard,"['Cha', 'ri', 'zard']",3,1,Flame Pokemon,1.7,90.5,True,12.5,True,45,Medium Slow,78,84,78,109,85,100,534,Monster,Dragon,Fire,Flying,Blaze,,Solar Power,False,False,True,3,
+6,Squirtle,"['Squir', 'tle']",2,1,Tiny Turtle Pokemon,0.5,9.0,True,12.5,True,45,Medium Slow,44,48,65,50,64,43,314,Monster,Water 1,Water,,Torrent,,Rain Dish,False,False,True,1,16.0
+7,Wartortle,"['War', 'tor', 'tle']",3,1,Turtle Pokemon,1.0,22.5,True,12.5,True,45,Medium Slow,59,63,80,65,80,58,405,Monster,Water 1,Water,,Torrent,,Rain Dish,False,False,True,2,36.0
+8,Blastoise,"['Blas', 'toi', 'se']",3,1,Shellfish Pokemon,1.6,85.5,True,12.5,True,45,Medium Slow,79,83,100,85,105,78,530,Monster,Water 1,Water,,Torrent,,Rain Dish,False,False,True,3,
+9,Caterpie,"['Ca', 'ter', 'pie']",3,1,Worm Pokemon,0.3,2.9,True,50.0,True,255,Medium Fast,45,30,35,20,20,45,195,Bug,,Bug,,Shield Dust,,Run Away,False,False,True,1,7.0
+10,Metapod,"['Me', 'ta', 'pod']",3,1,Cocoon Pokemon,0.7,9.9,True,50.0,True,120,Medium Fast,50,20,55,25,25,30,205,Bug,,Bug,,Shed Skin,,,False,False,True,2,10.0
+11,Butterfree,"['But', 'ter', 'free']",3,1,Butterfly Pokemon,1.1,32.0,True,50.0,True,45,Medium Fast,60,45,50,80,80,70,385,Bug,,Bug,Flying,Compound Eyes,,Tinted Lens,False,False,True,3,
+12,Weedle,"['Wee', 'dle']",2,1,Hairy Bug Pokemon,0.3,3.2,True,50.0,True,255,Medium Fast,40,35,30,20,20,50,195,Bug,,Bug,Poison,Shield Dust,,Run Away,False,False,True,1,7.0
+13,Kakuna,"['Ka', 'ku', 'na']",3,1,Cocoon Pokemon,0.6,10.0,True,50.0,True,120,Medium Fast,45,25,50,25,25,35,205,Bug,,Bug,Poison,Shed Skin,,,False,False,True,2,10.0
+14,Beedrill,"['Bee', 'drill']",2,1,Poison Bee Pokemon,1.0,29.5,True,50.0,True,45,Medium Fast,65,80,40,45,80,75,385,Bug,,Bug,Poison,Swarm,,Sniper,False,False,True,3,
+15,Pidgey,"['Pid', 'gey']",2,1,Tiny Bird Pokemon,0.3,1.8,True,50.0,True,255,Medium Slow,40,45,40,35,35,56,251,Flying,,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,False,False,True,1,18.0
+16,Pidgeotto,"['Pid', 'geot', 'to']",3,1,Bird Pokemon,1.1,30.0,True,50.0,True,120,Medium Slow,63,60,55,50,50,71,349,Flying,,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,False,False,True,2,36.0
+17,Pidgeot,"['Pid', 'geot']",2,1,Bird Pokemon,1.5,39.5,True,50.0,True,45,Medium Slow,83,80,75,70,70,91,469,Flying,,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,False,False,True,3,
+18,Rattata,"['Rat', 'ta', 'ta']",3,2,Mouse Pokemon,0.3,3.5,True,50.0,True,255,Medium Fast,30,56,35,25,35,72,253,Field,,Normal,,Run Away,Guts,Hustle,False,False,True,1,20.0
+19,Raticate,"['Ra', 'ti', 'ca', 'te']",4,2,Mouse Pokemon,0.7,18.5,True,50.0,True,127,Medium Fast,55,81,60,50,70,97,413,Field,,Normal,,Run Away,Guts,Hustle,False,False,True,2,
+20,Spearow,"['Spea', 'row']",2,1,Tiny Bird Pokemon,0.3,2.0,True,50.0,True,255,Medium Fast,40,60,30,31,31,70,262,Flying,,Normal,Flying,Keen Eye,,Sniper,False,False,True,1,20.0
+21,Fearow,"['Fea', 'row']",2,1,Beak Pokemon,1.2,38.0,True,50.0,True,90,Medium Fast,65,90,65,61,61,100,442,Flying,,Normal,Flying,Keen Eye,,Sniper,False,False,True,2,
+22,Ekans,['Ekans'],1,1,Snake Pokemon,2.0,6.9,True,50.0,True,255,Medium Fast,35,60,44,40,54,55,288,Field,Dragon,Poison,,Intimidate,Shed Skin,Unnerve,False,False,True,1,22.0
+23,Arbok,['Arbok'],1,1,Cobra Pokemon,3.5,65.0,True,50.0,True,90,Medium Fast,60,85,69,65,79,80,438,Field,Dragon,Poison,,Intimidate,Shed Skin,Unnerve,False,False,True,2,
+24,Pikachu,"['Pi', 'kac', 'hu']",3,1,Mouse Pokemon,0.4,6.0,True,50.0,True,190,Medium Fast,35,55,30,50,40,90,300,Field,Fairy,Electric,,Static,,Lightning Rod,False,False,True,2,
+25,Raichu,"['Raic', 'hu']",2,2,Mouse Pokemon,0.8,30.0,True,50.0,True,75,Medium Fast,60,90,55,90,80,100,475,Field,Fairy,Electric,,Static,,Lightning Rod,False,False,True,3,
+26,Sandshrew,"['Sands', 'hrew']",2,2,Mouse Pokemon,0.6,12.0,True,50.0,True,255,Medium Fast,50,75,85,20,30,40,300,Field,,Ground,,Sand Veil,,Sand Rush,False,False,True,1,22.0
+27,Sandslash,"['San', 'dslash']",2,2,Mouse Pokemon,1.0,29.5,True,50.0,True,90,Medium Fast,75,100,110,45,55,65,450,Field,,Ground,,Sand Veil,,Sand Rush,False,False,True,2,
+28,Nidorina,"['Ni', 'do', 'ri', 'na']",4,1,Poison Pin Pokemon,0.8,20.0,True,100.0,True,120,Medium Slow,70,62,67,55,55,56,365,No Eggs Discovered,,Poison,,Poison Point,Rivalry,Hustle,False,False,True,2,
+29,Nidoqueen,"['Ni', 'do', 'que', 'en']",4,1,Drill Pokemon,1.3,60.0,True,100.0,True,45,Medium Slow,90,82,87,75,85,76,495,No Eggs Discovered,,Poison,Ground,Poison Point,Rivalry,Sheer Force,False,False,True,3,
+30,Nidorino,"['Ni', 'do', 'ri', 'no']",4,1,Poison Pin Pokemon,0.9,19.5,True,0.0,True,120,Medium Slow,61,72,57,55,55,65,365,Monster,Field,Poison,,Poison Point,Rivalry,Hustle,False,False,True,2,
+31,Nidoking,"['Ni', 'do', 'king']",3,1,Drill Pokemon,1.4,62.0,True,0.0,True,45,Medium Slow,81,92,77,85,75,85,495,Monster,Field,Poison,Ground,Poison Point,Rivalry,Sheer Force,False,False,True,3,
+32,Clefairy,"['Cle', 'fai', 'ry']",3,1,Fairy Pokemon,0.6,7.5,True,75.0,True,150,Fast,70,45,48,60,65,35,323,Fairy,,Fairy,,Cute Charm,Magic Guard,Friend Guard,False,False,True,2,
+33,Clefable,"['Cle', 'fa', 'ble']",3,1,Fairy Pokemon,1.3,40.0,True,75.0,True,25,Fast,95,70,73,85,90,60,473,Fairy,,Fairy,,Cute Charm,Magic Guard,Unaware,False,False,True,3,
+34,Vulpix,"['Vul', 'pix']",2,2,Fox Pokemon,0.6,9.9,True,75.0,True,190,Medium Fast,38,41,40,50,65,65,299,Field,,Fire,,Flash Fire,,Drought,False,False,True,1,
+35,Ninetales,"['Ni', 'ne', 'ta', 'les']",4,2,Fox Pokemon,1.1,19.9,True,75.0,True,75,Medium Fast,73,76,75,81,100,100,505,Field,,Fire,,Flash Fire,,Drought,False,False,True,2,
+36,Jigglypuff,"['Jig', 'gly', 'puff']",3,1,Balloon Pokemon,0.5,5.5,True,75.0,True,170,Fast,115,45,20,45,25,20,270,Fairy,,Normal,Fairy,Cute Charm,Competitive,Friend Guard,False,False,True,2,
+37,Wigglytuff,"['Wig', 'gly', 'tuff']",3,1,Balloon Pokemon,1.0,12.0,True,75.0,True,50,Fast,140,70,45,75,50,45,425,Fairy,,Normal,Fairy,Cute Charm,Competitive,Frisk,False,False,True,3,
+38,Zubat,"['Zu', 'bat']",2,1,Bat Pokemon,0.8,7.5,True,50.0,True,255,Medium Fast,40,45,35,30,40,55,245,Flying,,Poison,Flying,Inner Focus,,Infiltrator,False,False,True,1,22.0
+39,Golbat,"['Gol', 'bat']",2,1,Bat Pokemon,1.6,55.0,True,50.0,True,90,Medium Fast,75,80,70,65,75,90,455,Flying,,Poison,Flying,Inner Focus,,Infiltrator,False,False,True,2,
+40,Oddish,['Oddish'],1,1,Weed Pokemon,0.5,5.4,True,50.0,True,255,Medium Slow,45,50,55,75,65,30,320,Grass,,Grass,Poison,Chlorophyll,,Run Away,False,False,True,1,21.0
+41,Gloom,['Gloom'],1,1,Weed Pokemon,0.8,8.6,True,50.0,True,120,Medium Slow,60,65,70,85,75,40,395,Grass,,Grass,Poison,Chlorophyll,,Stench,False,False,True,2,
+42,Vileplume,"['Vi', 'le', 'plu', 'me']",4,1,Flower Pokemon,1.2,18.6,True,50.0,True,45,Medium Slow,75,80,85,100,90,50,480,Grass,,Grass,Poison,Chlorophyll,,Effect Spore,False,False,True,3,
+43,Paras,"['Pa', 'ras']",2,1,Mushroom Pokemon,0.3,5.4,True,50.0,True,190,Medium Fast,35,70,55,45,55,25,285,Bug,Grass,Bug,Grass,Effect Spore,Dry Skin,Damp,False,False,True,1,24.0
+44,Parasect,"['Pa', 'ra', 'sect']",3,1,Mushroom Pokemon,1.0,29.5,True,50.0,True,75,Medium Fast,60,95,80,60,80,30,405,Bug,Grass,Bug,Grass,Effect Spore,Dry Skin,Damp,False,False,True,2,
+45,Venonat,"['Ve', 'no', 'nat']",3,1,Insect Pokemon,1.0,30.0,True,50.0,True,190,Medium Fast,60,55,50,40,55,45,305,Bug,,Bug,Poison,Compound Eyes,Tinted Lens,Run Away,False,False,True,1,31.0
+46,Venomoth,"['Ve', 'no', 'moth']",3,1,Poison Moth Pokemon,1.5,12.5,True,50.0,True,75,Medium Fast,70,65,60,90,75,90,450,Bug,,Bug,Poison,Shield Dust,Tinted Lens,Wonder Skin,False,False,True,2,
+47,Diglett,"['Di', 'glett']",2,2,Mole Pokemon,0.2,0.8,True,50.0,True,255,Medium Fast,10,55,25,35,45,95,265,Field,,Ground,,Sand Veil,Arena Trap,Sand Force,False,False,True,1,26.0
+48,Dugtrio,"['Dug', 'trio']",2,2,Mole Pokemon,0.7,33.3,True,50.0,True,50,Medium Fast,35,80,50,50,70,120,405,Field,,Ground,,Sand Veil,Arena Trap,Sand Force,False,False,True,2,
+49,Meowth,['Meowth'],1,3,Scratch Cat Pokemon,0.4,4.2,True,50.0,True,255,Medium Fast,40,45,35,40,40,90,290,Field,,Normal,,Pickup,Technician,Unnerve,False,False,True,1,28.0
+50,Persian,"['Per', 'sian']",2,2,Classy Cat Pokemon,1.0,32.0,True,50.0,True,90,Medium Fast,65,70,60,65,65,115,440,Field,,Normal,,Limber,Technician,Unnerve,False,False,True,2,
+51,Psyduck,"['Psy', 'duck']",2,1,Duck Pokemon,0.8,19.6,True,50.0,True,190,Medium Fast,50,52,48,65,50,55,320,Water 1,Field,Water,,Damp,Cloud Nine,Swift Swim,False,False,True,1,33.0
+52,Golduck,"['Gol', 'duck']",2,1,Duck Pokemon,1.7,76.6,True,50.0,True,75,Medium Fast,80,82,78,95,80,85,500,Water 1,Field,Water,,Damp,Cloud Nine,Swift Swim,False,False,True,2,
+53,Mankey,"['Man', 'key']",2,1,Pig Monkey Pokemon,0.5,28.0,True,50.0,True,190,Medium Fast,40,80,35,35,45,70,305,Field,,Fighting,,Vital Spirit,Anger Point,Defiant,False,False,True,1,28.0
+54,Primeape,"['Pri', 'mea', 'pe']",3,1,Pig Monkey Pokemon,1.0,32.0,True,50.0,True,75,Medium Fast,65,105,60,60,70,95,455,Field,,Fighting,,Vital Spirit,Anger Point,Defiant,False,False,True,2,
+55,Growlithe,"['Grow', 'lit', 'he']",3,2,Puppy Pokemon,0.7,19.0,True,25.0,True,190,Slow,55,70,45,70,50,60,350,Field,,Fire,,Intimidate,Flash Fire,Justified,False,False,True,1,
+56,Arcanine,"['Arca', 'ni', 'ne']",3,2,Legendary Pokemon,1.9,155.0,True,25.0,True,75,Slow,90,110,80,100,80,95,555,Field,,Fire,,Intimidate,Flash Fire,Justified,False,False,True,2,
+57,Poliwag,"['Po', 'li', 'wag']",3,1,Tadpole Pokemon,0.6,12.4,True,50.0,True,255,Medium Slow,40,50,40,40,40,90,300,Water 1,,Water,,Water Absorb,Damp,Swift Swim,False,False,True,1,25.0
+58,Poliwhirl,"['Po', 'liw', 'hirl']",3,1,Tadpole Pokemon,1.0,20.0,True,50.0,True,120,Medium Slow,65,65,65,50,50,90,385,Water 1,,Water,,Water Absorb,Damp,Swift Swim,False,False,True,2,
+59,Poliwrath,"['Po', 'liw', 'rath']",3,1,Tadpole Pokemon,1.3,54.0,True,50.0,True,45,Medium Slow,90,85,95,70,90,70,500,Water 1,,Water,Fighting,Water Absorb,Damp,Swift Swim,False,False,True,3,
+60,Abra,['Abra'],1,1,Psi Pokemon,0.9,19.5,True,25.0,True,200,Medium Slow,25,20,15,105,55,90,310,Human-Like,,Psychic,,Synchronize,Inner Focus,Magic Guard,False,False,True,1,16.0
+61,Kadabra,"['Ka', 'da', 'bra']",3,1,Psi Pokemon,1.3,56.5,True,25.0,True,100,Medium Slow,40,35,30,120,70,105,400,Human-Like,,Psychic,,Synchronize,Inner Focus,Magic Guard,False,False,True,2,
+62,Alakazam,"['Ala', 'ka', 'zam']",3,1,Psi Pokemon,1.5,48.0,True,25.0,True,50,Medium Slow,55,50,45,135,85,120,490,Human-Like,,Psychic,,Synchronize,Inner Focus,Magic Guard,False,False,True,3,
+63,Machop,"['Mac', 'hop']",2,1,Superpower Pokemon,0.8,19.5,True,25.0,True,180,Medium Slow,70,80,50,35,35,35,305,Human-Like,,Fighting,,Guts,No Guard,Steadfast,False,False,True,1,28.0
+64,Machoke,"['Mac', 'ho', 'ke']",3,1,Superpower Pokemon,1.5,70.5,True,25.0,True,90,Medium Slow,80,100,70,50,60,45,405,Human-Like,,Fighting,,Guts,No Guard,Steadfast,False,False,True,2,
+65,Machamp,"['Mac', 'hamp']",2,1,Superpower Pokemon,1.6,130.0,True,25.0,True,45,Medium Slow,90,130,80,65,85,55,505,Human-Like,,Fighting,,Guts,No Guard,Steadfast,False,False,True,3,
+66,Bellsprout,"['Bells', 'prout']",2,1,Flower Pokemon,0.7,4.0,True,50.0,True,255,Medium Slow,50,75,35,70,30,40,300,Grass,,Grass,Poison,Chlorophyll,,Gluttony,False,False,True,1,21.0
+67,Weepinbell,"['Wee', 'pin', 'bell']",3,1,Flycatcher Pokemon,1.0,6.4,True,50.0,True,120,Medium Slow,65,90,50,85,45,55,390,Grass,,Grass,Poison,Chlorophyll,,Gluttony,False,False,True,2,
+68,Victreebel,"['Vic', 'tree', 'bel']",3,1,Flycatcher Pokemon,1.7,15.5,True,50.0,True,45,Medium Slow,80,105,65,100,60,70,480,Grass,,Grass,Poison,Chlorophyll,,Gluttony,False,False,True,3,
+69,Tentacool,"['Ten', 'ta', 'cool']",3,1,Jellyfish Pokemon,0.9,45.5,True,50.0,True,190,Slow,40,40,35,50,100,70,335,Water 3,,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,False,False,True,1,30.0
+70,Tentacruel,"['Ten', 'ta', 'cruel']",3,1,Jellyfish Pokemon,1.6,55.0,True,50.0,True,60,Slow,80,70,65,80,120,100,515,Water 3,,Water,Poison,Clear Body,Liquid Ooze,Rain Dish,False,False,True,2,
+71,Geodude,"['Geo', 'du', 'de']",3,2,Rock Pokemon,0.4,20.0,True,50.0,True,255,Medium Slow,40,80,100,30,30,20,300,Mineral,,Rock,Ground,Rock Head,Sturdy,Sand Veil,False,False,True,1,25.0
+72,Graveler,"['Gra', 've', 'ler']",3,2,Rock Pokemon,1.0,105.0,True,50.0,True,120,Medium Slow,55,95,115,45,45,35,390,Mineral,,Rock,Ground,Rock Head,Sturdy,Sand Veil,False,False,True,2,
+73,Golem,"['Go', 'lem']",2,2,Megaton Pokemon,1.4,300.0,True,50.0,True,45,Medium Slow,80,110,130,55,65,45,485,Mineral,,Rock,Ground,Rock Head,Sturdy,Sand Veil,False,False,True,3,
+74,Ponyta,"['Po', 'ny', 'ta']",3,2,Fire Horse Pokemon,1.0,30.0,True,50.0,True,190,Medium Fast,50,85,55,65,65,90,410,Field,,Fire,,Run Away,Flash Fire,Flame Body,False,False,True,1,40.0
+75,Rapidash,"['Ra', 'pi', 'dash']",3,2,Fire Horse Pokemon,1.7,95.0,True,50.0,True,60,Medium Fast,65,100,70,80,80,105,500,Field,,Fire,,Run Away,Flash Fire,Flame Body,False,False,True,2,
+76,Slowpoke,"['Slow', 'po', 'ke']",3,2,Dopey Pokemon,1.2,36.0,True,50.0,True,190,Medium Fast,90,65,65,40,40,15,315,Monster,Water 1,Water,Psychic,Oblivious,Own Tempo,Regenerator,False,False,True,1,37.0
+77,Slowbro,"['Slow', 'bro']",2,2,Hermit Crab Pokemon,1.6,78.5,True,50.0,True,75,Medium Fast,95,75,110,100,80,30,490,Monster,Water 1,Water,Psychic,Oblivious,Own Tempo,Regenerator,False,False,True,2,
+78,Magnemite,"['Ma', 'gne', 'mi', 'te']",4,1,Magnet Pokemon,0.3,6.0,False,0.0,True,190,Medium Fast,25,35,70,95,55,45,325,Mineral,,Electric,Steel,Magnet Pull,Sturdy,Analytic,False,False,True,1,30.0
+79,Magneton,"['Ma', 'gne', 'ton']",3,1,Magnet Pokemon,1.0,60.0,False,0.0,True,60,Medium Fast,50,60,95,120,70,70,465,Mineral,,Electric,Steel,Magnet Pull,Sturdy,Analytic,False,False,True,2,
+80,Doduo,"['Do', 'duo']",2,1,Twin Bird Pokemon,1.4,39.2,True,50.0,True,190,Medium Fast,35,85,45,35,35,75,310,Flying,,Normal,Flying,Run Away,Early Bird,Tangled Feet,False,False,True,1,31.0
+81,Dodrio,"['Do', 'drio']",2,1,Triple Bird Pokemon,1.8,85.2,True,50.0,True,45,Medium Fast,60,110,70,60,60,100,460,Flying,,Normal,Flying,Run Away,Early Bird,Tangled Feet,False,False,True,2,
+82,Seel,['Seel'],1,1,Sea Lion Pokemon,1.1,90.0,True,50.0,True,190,Medium Fast,65,45,55,45,70,45,325,Water 1,Field,Water,,Thick Fat,Hydration,Ice Body,False,False,True,1,34.0
+83,Dewgong,"['Dew', 'gong']",2,1,Sea Lion Pokemon,1.7,120.0,True,50.0,True,75,Medium Fast,90,70,80,70,95,70,475,Water 1,Field,Water,Ice,Thick Fat,Hydration,Ice Body,False,False,True,2,
+84,Grimer,"['Gri', 'mer']",2,2,Sludge Pokemon,0.9,30.0,True,50.0,True,190,Medium Fast,80,80,50,40,50,25,325,Amorphous,,Poison,,Stench,Sticky Hold,Poison Touch,False,False,True,1,38.0
+85,Muk,['Muk'],1,2,Sludge Pokemon,1.2,30.0,True,50.0,True,75,Medium Fast,105,105,75,65,100,50,500,Amorphous,,Poison,,Stench,Sticky Hold,Poison Touch,False,False,True,2,
+86,Shellder,"['Shell', 'der']",2,1,Bivalve Pokemon,0.3,4.0,True,50.0,True,190,Slow,30,65,100,45,25,40,305,Water 3,,Water,,Shell Armor,Skill Link,Overcoat,False,False,True,1,
+87,Cloyster,"['Cloys', 'ter']",2,1,Bivalve Pokemon,1.5,132.5,True,50.0,True,60,Slow,50,95,180,85,45,70,525,Water 3,,Water,Ice,Shell Armor,Skill Link,Overcoat,False,False,True,2,
+88,Gastly,"['Gas', 'tly']",2,1,Gas Pokemon,1.3,0.1,True,50.0,True,190,Medium Slow,30,35,30,100,35,80,310,Amorphous,,Ghost,Poison,Levitate,,,False,False,True,1,25.0
+89,Haunter,"['Haun', 'ter']",2,1,Gas Pokemon,1.6,0.1,True,50.0,True,90,Medium Slow,45,50,45,115,55,95,405,Amorphous,,Ghost,Poison,Levitate,,,False,False,True,2,
+90,Gengar,"['Gen', 'gar']",2,1,Shadow Pokemon,1.5,40.5,True,50.0,True,45,Medium Slow,60,65,60,130,75,110,500,Amorphous,,Ghost,Poison,Cursed Body,,,False,False,True,3,
+91,Onix,['Onix'],1,1,Rock Snake Pokemon,8.8,210.0,True,50.0,True,45,Medium Fast,35,45,160,30,45,70,385,Mineral,,Rock,Ground,Rock Head,Sturdy,Weak Armor,False,False,True,1,
+92,Drowzee,"['Drow', 'zee']",2,1,Hypnosis Pokemon,1.0,32.4,True,50.0,True,190,Medium Fast,60,48,45,43,90,42,328,Human-Like,,Psychic,,Insomnia,Forewarn,Inner Focus,False,False,True,1,26.0
+93,Hypno,"['Hy', 'pno']",2,1,Hypnosis Pokemon,1.6,75.6,True,50.0,True,75,Medium Fast,85,73,70,73,115,67,483,Human-Like,,Psychic,,Insomnia,Forewarn,Inner Focus,False,False,True,2,
+94,Krabby,"['Krab', 'by']",2,1,River Crab Pokemon,0.4,6.5,True,50.0,True,225,Medium Fast,30,105,90,25,25,50,325,Water 3,,Water,,Hyper Cutter,Shell Armor,Sheer Force,False,False,True,1,28.0
+95,Kingler,"['Kin', 'gler']",2,1,Pincer Pokemon,1.3,60.0,True,50.0,True,60,Medium Fast,55,130,115,50,50,75,475,Water 3,,Water,,Hyper Cutter,Shell Armor,Sheer Force,False,False,True,2,
+96,Voltorb,"['Vol', 'torb']",2,2,Ball Pokemon,0.5,10.4,False,0.0,True,190,Medium Fast,40,30,50,55,55,100,330,Mineral,,Electric,,Soundproof,Static,Aftermath,False,False,True,1,30.0
+97,Electrode,"['Elec', 'tro', 'de']",3,2,Ball Pokemon,1.2,66.6,False,0.0,True,60,Medium Fast,60,50,70,80,80,140,480,Mineral,,Electric,,Soundproof,Static,Aftermath,False,False,True,2,
+98,Exeggcute,"['Exegg', 'cu', 'te']",3,1,Egg Pokemon,0.4,2.5,True,50.0,True,90,Slow,60,40,80,60,45,40,325,Grass,,Grass,Psychic,Chlorophyll,,Harvest,False,False,True,1,
+99,Exeggutor,"['Exeg', 'gu', 'tor']",3,2,Coconut Pokemon,2.0,120.0,True,50.0,True,45,Slow,95,95,85,125,65,55,520,Grass,,Grass,Psychic,Chlorophyll,,Harvest,False,False,True,2,
+100,Cubone,"['Cu', 'bo', 'ne']",3,1,Lonely Pokemon,0.4,6.5,True,50.0,True,190,Medium Fast,50,50,95,40,50,35,320,Monster,,Ground,,Rock Head,Lightning Rod,Battle Armor,False,False,True,1,28.0
+101,Marowak,"['Ma', 'ro', 'wak']",3,2,Bone Keeper Pokemon,1.0,45.0,True,50.0,True,75,Medium Fast,60,80,110,50,80,45,425,Monster,,Ground,,Rock Head,Lightning Rod,Battle Armor,False,False,True,2,
+102,Hitmonlee,"['Hi', 'tmon', 'lee']",3,1,Kicking Pokemon,1.5,49.8,True,0.0,True,45,Medium Fast,50,120,53,35,110,87,455,Human-Like,,Fighting,,Limber,Reckless,Unburden,False,False,True,2,
+103,Hitmonchan,"['Hi', 'tmonc', 'han']",3,1,Punching Pokemon,1.4,50.2,True,0.0,True,45,Medium Fast,50,105,79,35,110,76,455,Human-Like,,Fighting,,Keen Eye,Iron Fist,Inner Focus,False,False,True,2,
+104,Lickitung,"['Lic', 'ki', 'tung']",3,1,Licking Pokemon,1.2,65.5,True,50.0,True,45,Medium Fast,90,55,75,60,75,30,385,Monster,,Normal,,Own Tempo,Oblivious,Cloud Nine,False,False,True,1,
+105,Koffing,"['Kof', 'fing']",2,1,Poison Gas Pokemon,0.6,1.0,True,50.0,True,190,Medium Fast,40,65,95,60,45,35,340,Amorphous,,Poison,,Levitate,Neutralizing Gas,Stench,False,False,True,1,35.0
+106,Weezing,"['Wee', 'zing']",2,2,Poison Gas Pokemon,1.2,9.5,True,50.0,True,60,Medium Fast,65,90,120,85,70,60,490,Amorphous,,Poison,,Levitate,Neutralizing Gas,Stench,False,False,True,2,
+107,Rhyhorn,"['Rhy', 'horn']",2,1,Spikes Pokemon,1.0,115.0,True,50.0,True,120,Slow,80,85,95,30,30,25,345,Monster,Field,Ground,Rock,Lightning Rod,Rock Head,Reckless,False,False,True,1,42.0
+108,Rhydon,"['Rhy', 'don']",2,1,Drill Pokemon,1.9,120.0,True,50.0,True,60,Slow,105,130,120,45,45,40,485,Monster,Field,Ground,Rock,Lightning Rod,Rock Head,Reckless,False,False,True,2,
+109,Chansey,"['Chan', 'sey']",2,1,Egg Pokemon,1.1,34.6,True,100.0,True,30,Fast,250,5,5,35,105,50,450,Fairy,,Normal,,Natural Cure,Serene Grace,Healer,False,False,True,2,
+110,Tangela,"['Tan', 'ge', 'la']",3,1,Vine Pokemon,1.0,35.0,True,50.0,True,45,Medium Fast,65,55,115,100,40,60,435,Grass,,Grass,,Chlorophyll,Leaf Guard,Regenerator,False,False,True,1,
+111,Kangaskhan,"['Kan', 'gask', 'han']",3,1,Parent Pokemon,2.2,80.0,True,100.0,True,45,Medium Fast,105,95,80,40,80,90,490,Monster,,Normal,,Early Bird,Scrappy,Inner Focus,False,False,False,1,
+112,Horsea,"['Hor', 'sea']",2,1,Dragon Pokemon,0.4,8.0,True,50.0,True,225,Medium Fast,30,40,70,70,25,60,295,Water 1,Dragon,Water,,Swift Swim,Sniper,Damp,False,False,True,1,32.0
+113,Seadra,"['Sea', 'dra']",2,1,Dragon Pokemon,1.2,25.0,True,50.0,True,75,Medium Fast,55,65,95,95,45,85,440,Water 1,Dragon,Water,,Poison Point,Sniper,Damp,False,False,True,2,
+114,Goldeen,"['Gol', 'deen']",2,1,Goldfish Pokemon,0.6,15.0,True,50.0,True,225,Medium Fast,45,67,60,35,50,63,320,Water 2,,Water,,Swift Swim,Water Veil,Lightning Rod,False,False,True,1,33.0
+115,Seaking,"['Sea', 'king']",2,1,Goldfish Pokemon,1.3,39.0,True,50.0,True,60,Medium Fast,80,92,65,65,80,68,450,Water 2,,Water,,Swift Swim,Water Veil,Lightning Rod,False,False,True,2,
+116,Staryu,"['Sta', 'ryu']",2,1,Star Shape Pokemon,0.8,34.5,False,0.0,True,225,Slow,30,45,55,70,55,85,340,Water 3,,Water,,Illuminate,Natural Cure,Analytic,False,False,True,1,
+117,Starmie,"['Star', 'mie']",2,1,Mysterious Pokemon,1.1,80.0,False,0.0,True,60,Slow,60,75,85,100,85,115,520,Water 3,,Water,Psychic,Illuminate,Natural Cure,Analytic,False,False,True,2,
+118,Scyther,"['Scyt', 'her']",2,1,Mantis Pokemon,1.5,56.0,True,50.0,True,45,Medium Fast,70,110,80,55,80,105,500,Bug,,Bug,Flying,Swarm,Technician,Steadfast,False,False,True,1,
+119,Jynx,['Jynx'],1,1,Human Shape Pokemon,1.4,40.6,True,100.0,True,45,Medium Fast,65,50,35,115,95,95,455,Human-Like,,Ice,Psychic,Oblivious,Forewarn,Dry Skin,False,False,True,2,
+120,Electabuzz,"['Elec', 'ta', 'buzz']",3,1,Electric Pokemon,1.1,30.0,True,25.0,True,45,Medium Fast,65,83,57,95,85,105,490,Human-Like,,Electric,,Static,,Vital Spirit,False,False,True,2,
+121,Magmar,"['Ma', 'gmar']",2,1,Spitfire Pokemon,1.3,44.5,True,25.0,True,45,Medium Fast,65,95,57,100,85,93,495,Human-Like,,Fire,,Flame Body,,Vital Spirit,False,False,True,2,
+122,Pinsir,"['Pin', 'sir']",2,1,Stag Beetle Pokemon,1.5,55.0,True,50.0,True,45,Slow,65,125,100,55,70,85,500,Bug,,Bug,,Hyper Cutter,Mold Breaker,Moxie,False,False,False,1,
+123,Tauros,"['Tau', 'ros']",2,4,Wild Bull Pokemon,1.4,88.4,True,0.0,True,45,Slow,75,100,95,40,70,110,490,Field,,Normal,,Intimidate,Anger Point,Sheer Force,False,False,False,1,
+124,Magikarp,"['Ma', 'gi', 'karp']",3,1,Fish Pokemon,0.9,10.0,True,50.0,True,255,Slow,20,10,55,15,20,80,200,Water 2,Dragon,Water,,Swift Swim,,Rattled,False,False,True,1,20.0
+125,Gyarados,"['Gya', 'ra', 'dos']",3,1,Atrocious Pokemon,6.5,235.0,True,50.0,True,45,Slow,95,125,79,60,100,81,540,Water 2,Dragon,Water,Flying,Intimidate,,Moxie,False,False,True,2,
+126,Lapras,"['La', 'pras']",2,1,Transport Pokemon,2.5,220.0,True,50.0,True,45,Slow,130,85,80,85,95,60,535,Monster,Water 1,Water,Ice,Water Absorb,Shell Armor,Hydration,False,False,False,1,
+127,Ditto,"['Dit', 'to']",2,1,Transform Pokemon,0.3,4.0,False,0.0,True,35,Medium Fast,48,48,48,48,48,48,288,Ditto,,Normal,,Limber,,Imposter,False,False,False,1,
+128,Eevee,"['Ee', 'vee']",2,1,Evolution Pokemon,0.3,6.5,True,12.5,True,45,Medium Fast,55,55,50,45,65,55,325,Field,,Normal,,Run Away,Adaptability,Anticipation,False,False,True,1,
+129,Vaporeon,"['Va', 'po', 'reon']",3,1,Bubble Jet Pokemon,1.0,29.0,True,12.5,True,45,Medium Fast,130,65,60,110,95,65,525,Field,,Water,,Water Absorb,,Hydration,False,False,True,2,
+130,Jolteon,"['Jol', 'teon']",2,1,Lightning Pokemon,0.8,24.5,True,12.5,True,45,Medium Fast,65,65,60,110,95,130,525,Field,,Electric,,Volt Absorb,,Quick Feet,False,False,True,2,
+131,Flareon,"['Fla', 'reon']",2,1,Flame Pokemon,0.9,25.0,True,12.5,True,45,Medium Fast,65,130,60,95,110,65,525,Field,,Fire,,Flash Fire,,Guts,False,False,True,2,
+132,Porygon,"['Po', 'ry', 'gon']",3,1,Virtual Pokemon,0.8,36.5,False,0.0,True,45,Medium Fast,65,60,70,85,75,40,395,Mineral,,Normal,,Trace,Download,Analytic,False,False,True,1,
+133,Omanyte,"['Oma', 'ny', 'te']",3,1,Spiral Pokemon,0.4,7.5,True,12.5,True,45,Medium Fast,35,40,100,90,55,35,355,Water 1,Water 3,Rock,Water,Swift Swim,Shell Armor,Weak Armor,False,False,True,1,40.0
+134,Omastar,"['Omas', 'tar']",2,1,Spiral Pokemon,1.0,35.0,True,12.5,True,45,Medium Fast,70,60,125,115,70,55,495,Water 1,Water 3,Rock,Water,Swift Swim,Shell Armor,Weak Armor,False,False,True,2,
+135,Kabuto,"['Ka', 'bu', 'to']",3,1,Shellfish Pokemon,0.5,11.5,True,12.5,True,45,Medium Fast,30,80,90,55,45,55,355,Water 1,Water 3,Rock,Water,Swift Swim,Battle Armor,Weak Armor,False,False,True,1,40.0
+136,Kabutops,"['Ka', 'bu', 'tops']",3,1,Shellfish Pokemon,1.3,40.5,True,12.5,True,45,Medium Fast,60,115,105,65,70,80,495,Water 1,Water 3,Rock,Water,Swift Swim,Battle Armor,Weak Armor,False,False,True,2,
+137,Aerodactyl,"['Ae', 'ro', 'dac', 'tyl']",4,1,Fossil Pokemon,1.8,59.0,True,12.5,True,45,Slow,80,105,65,60,75,130,515,Flying,,Rock,Flying,Rock Head,Pressure,Unnerve,False,False,False,1,
+138,Snorlax,"['Snor', 'lax']",2,1,Sleeping Pokemon,2.1,460.0,True,12.5,True,25,Slow,160,110,65,65,110,30,540,Monster,,Normal,,Immunity,Thick Fat,Gluttony,False,False,True,2,
+139,Articuno,"['Arti', 'cu', 'no']",3,2,Freeze Pokemon,1.7,55.4,True,0.0,False,3,Slow,90,85,100,95,125,85,580,No Eggs Discovered,,Ice,Flying,Pressure,,Snow Cloak,True,False,False,1,
+140,Zapdos,"['Zap', 'dos']",2,2,Electric Pokemon,1.6,52.6,False,0.0,False,3,Slow,90,90,85,125,90,100,580,No Eggs Discovered,,Electric,Flying,Pressure,,Static,True,False,False,1,
+141,Moltres,"['Mol', 'tres']",2,2,Flame Pokemon,2.0,60.0,True,0.0,False,3,Slow,90,100,90,125,85,90,580,No Eggs Discovered,,Fire,Flying,Pressure,,Flame Body,True,False,False,1,
+142,Dratini,"['Dra', 'ti', 'ni']",3,1,Dragon Pokemon,1.8,3.3,True,50.0,True,45,Slow,41,64,45,50,50,50,300,Water 1,Dragon,Dragon,,Shed Skin,,Marvel Scale,False,False,True,1,30.0
+143,Dragonair,"['Dra', 'go', 'nair']",3,1,Dragon Pokemon,4.0,16.5,True,50.0,True,45,Slow,61,84,65,70,70,70,420,Water 1,Dragon,Dragon,,Shed Skin,,Marvel Scale,False,False,True,2,55.0
+144,Dragonite,"['Dra', 'go', 'ni', 'te']",4,1,Dragon Pokemon,2.2,210.0,True,50.0,True,45,Slow,91,134,95,100,100,80,600,Water 1,Dragon,Dragon,Flying,Inner Focus,,Multiscale,False,False,True,3,
+145,Mewtwo,"['Mew', 'two']",2,1,Genetic Pokemon,2.0,122.0,False,0.0,False,3,Slow,106,110,90,154,90,130,680,No Eggs Discovered,,Psychic,,Pressure,,Unnerve,True,False,False,1,
+146,Mew,['Mew'],1,1,New Species Pokemon,0.4,4.0,False,0.0,False,45,Medium Slow,100,100,100,100,100,100,600,No Eggs Discovered,,Psychic,,Synchronize,,,False,True,False,1,
+147,Chikorita,"['Chi', 'ko', 'ri', 'ta']",4,1,Leaf Pokemon,0.9,6.4,True,12.5,True,45,Medium Slow,45,49,65,49,65,45,318,Monster,Grass,Grass,,Overgrow,,Leaf Guard,False,False,True,1,16.0
+148,Bayleef,"['Bay', 'leef']",2,1,Leaf Pokemon,1.2,15.8,True,12.5,True,45,Medium Slow,60,62,80,63,80,60,405,Monster,Grass,Grass,,Overgrow,,Leaf Guard,False,False,True,2,32.0
+149,Meganium,"['Me', 'ga', 'nium']",3,1,Herb Pokemon,1.8,100.5,True,12.5,True,45,Medium Slow,80,82,100,83,100,80,525,Monster,Grass,Grass,,Overgrow,,Leaf Guard,False,False,True,3,
+150,Cyndaquil,"['Cyn', 'da', 'quil']",3,1,Fire Mouse Pokemon,0.5,7.9,True,12.5,True,45,Medium Slow,39,52,43,60,50,65,309,Field,,Fire,,Blaze,,Flash Fire,False,False,True,1,14.0
+151,Quilava,"['Qui', 'la', 'va']",3,1,Volcano Pokemon,0.9,19.0,True,12.5,True,45,Medium Slow,58,64,58,80,65,80,405,Field,,Fire,,Blaze,,Flash Fire,False,False,True,2,36.0
+152,Typhlosion,"['Typ', 'hlo', 'sion']",3,2,VolcanoPokemon,1.7,79.5,True,12.5,True,45,Medium Slow,78,84,78,109,85,100,534,Field,,Fire,,Blaze,,Flash Fire,False,False,True,3,
+153,Totodile,"['To', 'to', 'di', 'le']",4,1,Big Jaw Pokemon,0.6,9.5,True,12.5,True,45,Medium Slow,50,65,64,44,48,43,314,Monster,Water 1,Water,,Torrent,,Sheer Force,False,False,True,1,18.0
+154,Croconaw,"['Cro', 'co', 'naw']",3,1,Big Jaw Pokemon,1.1,25.0,True,12.5,True,45,Medium Slow,65,80,80,59,63,58,405,Monster,Water 1,Water,,Torrent,,Sheer Force,False,False,True,2,30.0
+155,Feraligatr,"['Fe', 'ra', 'li', 'gatr']",4,1,Big Jaw Pokemon,2.3,88.8,True,12.5,True,45,Medium Slow,85,105,100,79,83,78,530,Monster,Water 1,Water,,Torrent,,Sheer Force,False,False,True,3,
+156,Sentret,"['Sen', 'tret']",2,1,Scout Pokemon,0.8,6.0,True,50.0,True,255,Medium Fast,35,46,34,35,45,20,215,Field,,Normal,,Run Away,Keen Eye,Frisk,False,False,True,1,15.0
+157,Furret,"['Fur', 'ret']",2,1,Long Body Pokemon,1.8,32.5,True,50.0,True,90,Medium Fast,85,76,64,45,55,90,415,Field,,Normal,,Run Away,Keen Eye,Frisk,False,False,True,2,
+158,Hoothoot,"['Hoot', 'hoot']",2,1,Owl Pokemon,0.7,21.2,True,50.0,True,255,Medium Fast,60,30,30,36,56,50,262,Flying,,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,False,False,True,1,20.0
+159,Noctowl,"['Noc', 'towl']",2,1,Owl Pokemon,1.6,40.8,True,50.0,True,90,Medium Fast,100,50,50,76,96,70,442,Flying,,Normal,Flying,Insomnia,Keen Eye,Tinted Lens,False,False,True,2,
+160,Ledyba,"['Le', 'dy', 'ba']",3,1,Five Star Pokemon,1.0,10.8,True,50.0,True,255,Fast,40,20,30,40,80,55,265,Bug,,Bug,Flying,Swarm,Early Bird,Rattled,False,False,True,1,18.0
+161,Ledian,"['Le', 'dian']",2,1,Five Star Pokemon,1.4,35.6,True,50.0,True,90,Fast,55,35,50,55,110,85,390,Bug,,Bug,Flying,Swarm,Early Bird,Iron Fist,False,False,True,2,
+162,Spinarak,"['Spi', 'na', 'rak']",3,1,String Spit Pokemon,0.5,8.5,True,50.0,True,255,Fast,40,60,40,40,40,30,250,Bug,,Bug,Poison,Swarm,Insomnia,Sniper,False,False,True,1,22.0
+163,Ariados,"['Aria', 'dos']",2,1,Long Leg Pokemon,1.1,33.5,True,50.0,True,90,Fast,70,90,70,60,60,40,390,Bug,,Bug,Poison,Swarm,Insomnia,Sniper,False,False,True,2,
+164,Crobat,"['Cro', 'bat']",2,1,Bat Pokemon,1.8,75.0,True,50.0,True,90,Medium Fast,85,90,80,70,80,130,535,Flying,,Poison,Flying,Inner Focus,,Infiltrator,False,False,True,3,
+165,Chinchou,"['Chinc', 'hou']",2,1,Angler Pokemon,0.5,12.0,True,50.0,True,190,Slow,75,38,38,56,56,67,330,Water 2,,Water,Electric,Volt Absorb,Illuminate,Water Absorb,False,False,True,1,27.0
+166,Lanturn,"['Lan', 'turn']",2,1,Light Pokemon,1.2,22.5,True,50.0,True,75,Slow,125,58,58,76,76,67,460,Water 2,,Water,Electric,Volt Absorb,Illuminate,Water Absorb,False,False,True,2,
+167,Pichu,"['Pic', 'hu']",2,1,Tiny Mouse Pokemon,0.3,2.0,True,50.0,True,190,Medium Fast,20,40,15,35,35,60,205,No Eggs Discovered,,Electric,,Static,,Lightning Rod,False,False,True,1,
+168,Cleffa,"['Clef', 'fa']",2,1,Star Shape Pokemon,0.3,3.0,True,75.0,True,150,Fast,50,25,28,45,55,15,218,No Eggs Discovered,,Fairy,,Cute Charm,Magic Guard,Friend Guard,False,False,True,1,
+169,Igglybuff,"['Iggly', 'buff']",2,1,Balloon Pokemon,0.3,1.0,True,75.0,True,170,Fast,90,30,15,40,20,15,210,No Eggs Discovered,,Normal,Fairy,Cute Charm,Competitive,Friend Guard,False,False,True,1,
+170,Togepi,"['To', 'ge', 'pi']",3,1,Spike Ball Pokemon,0.3,1.5,True,12.5,True,190,Fast,35,20,65,40,65,20,245,No Eggs Discovered,,Fairy,,Hustle,Serene Grace,Super Luck,False,False,True,1,
+171,Togetic,"['To', 'ge', 'tic']",3,1,Happiness Pokemon,0.6,3.2,True,12.5,True,75,Fast,55,40,85,80,105,40,405,Flying,Fairy,Fairy,Flying,Hustle,Serene Grace,Super Luck,False,False,True,2,
+172,Natu,"['Na', 'tu']",2,1,Tiny Bird Pokemon,0.2,2.0,True,50.0,True,190,Medium Fast,40,50,45,70,45,70,320,Flying,,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,False,False,True,1,25.0
+173,Xatu,"['Xa', 'tu']",2,1,Mystic Pokemon,1.5,15.0,True,50.0,True,75,Medium Fast,65,75,70,95,70,95,470,Flying,,Psychic,Flying,Synchronize,Early Bird,Magic Bounce,False,False,True,2,
+174,Mareep,"['Ma', 'reep']",2,1,Wool Pokemon,0.6,7.8,True,50.0,True,235,Medium Slow,55,40,40,65,45,35,280,Monster,Field,Electric,,Static,,Plus,False,False,True,1,15.0
+175,Flaaffy,"['Flaaf', 'fy']",2,1,Wool Pokemon,0.8,13.3,True,50.0,True,120,Medium Slow,70,55,55,80,60,45,365,Monster,Field,Electric,,Static,,Plus,False,False,True,2,30.0
+176,Ampharos,"['Ampha', 'ros']",2,1,Light Pokemon,1.4,61.5,True,50.0,True,45,Medium Slow,90,75,75,115,90,55,500,Monster,Field,Electric,,Static,,Plus,False,False,True,3,
+177,Bellossom,"['Bel', 'los', 'som']",3,1,Flower Pokemon,0.4,5.8,True,50.0,True,45,Medium Slow,75,80,85,90,100,50,480,Grass,,Grass,,Chlorophyll,,Healer,False,False,True,3,
+178,Marill,"['Ma', 'rill']",2,1,Aqua Mouse Pokemon,0.4,8.5,True,50.0,True,190,Fast,70,20,50,20,50,40,250,Water 1,Fairy,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,False,False,True,2,18.0
+179,Azumarill,"['Azu', 'ma', 'rill']",3,1,Aqua Rabbit Pokemon,0.8,28.5,True,50.0,True,75,Fast,100,50,80,50,80,50,410,Water 1,Fairy,Water,Fairy,Thick Fat,Huge Power,Sap Sipper,False,False,True,3,
+180,Sudowoodo,"['Su', 'do', 'woo', 'do']",4,1,Imitation Pokemon,1.2,38.0,True,50.0,True,65,Medium Fast,70,100,115,30,65,30,410,Mineral,,Rock,,Sturdy,Rock Head,Rattled,False,False,True,2,
+181,Politoed,"['Po', 'li', 'toed']",3,1,Frog Pokemon,1.1,33.9,True,50.0,True,45,Medium Slow,90,75,75,90,100,70,500,Water 1,,Water,,Water Absorb,Damp,Drizzle,False,False,True,3,
+182,Hoppip,"['Hop', 'pip']",2,1,Cottonweed Pokemon,0.4,0.5,True,50.0,True,255,Medium Slow,35,35,40,35,55,50,250,Fairy,Grass,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,False,False,True,1,18.0
+183,Skiploom,"['Ski', 'ploom']",2,1,Cottonweed Pokemon,0.6,1.0,True,50.0,True,120,Medium Slow,55,45,50,45,65,80,340,Fairy,Grass,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,False,False,True,2,27.0
+184,Jumpluff,"['Jum', 'pluff']",2,1,Cottonweed Pokemon,0.8,3.0,True,50.0,True,45,Medium Slow,75,55,70,55,85,110,450,Fairy,Grass,Grass,Flying,Chlorophyll,Leaf Guard,Infiltrator,False,False,True,3,
+185,Aipom,"['Ai', 'pom']",2,1,Long Tail Pokemon,0.8,11.5,True,50.0,True,45,Fast,55,70,55,40,55,85,360,Field,,Normal,,Run Away,Pickup,Skill Link,False,False,True,1,
+186,Sunkern,"['Sun', 'kern']",2,1,Seed Pokemon,0.3,1.8,True,50.0,True,235,Medium Slow,30,30,30,30,30,30,180,Grass,,Grass,,Chlorophyll,Solar Power,Early Bird,False,False,True,1,
+187,Sunflora,"['Sun', 'flo', 'ra']",3,1,Sun Pokemon,0.8,8.5,True,50.0,True,120,Medium Slow,75,75,55,105,85,30,425,Grass,,Grass,,Chlorophyll,Solar Power,Early Bird,False,False,True,2,
+188,Yanma,"['Yan', 'ma']",2,1,Clear Wing Pokemon,1.2,38.0,True,50.0,True,75,Medium Fast,65,65,45,75,45,95,390,Bug,,Bug,Flying,Speed Boost,Compound Eyes,Frisk,False,False,True,1,
+189,Wooper,"['Woo', 'per']",2,2,Water Fish Pokemon,0.4,8.5,True,50.0,True,255,Medium Fast,55,45,45,25,25,15,210,Water 1,Field,Water,Ground,Damp,Water Absorb,Unaware,False,False,True,1,20.0
+190,Quagsire,"['Qua', 'gsi', 're']",3,1,Water Fish Pokemon,1.4,75.0,True,50.0,True,90,Medium Fast,95,85,85,65,65,35,430,Water 1,Field,Water,Ground,Damp,Water Absorb,Unaware,False,False,True,2,
+191,Espeon,['Espeon'],1,1,Sun Pokemon,0.9,26.5,True,12.5,True,45,Medium Fast,65,65,60,130,95,110,525,Field,,Psychic,,Synchronize,,Magic Bounce,False,False,True,2,
+192,Umbreon,['Umbreon'],1,1,Moonlight Pokemon,1.0,27.0,True,12.5,True,45,Medium Fast,95,65,110,60,130,65,525,Field,,Dark,,Synchronize,,Inner Focus,False,False,True,2,
+193,Murkrow,"['Mur', 'krow']",2,1,Darkness Pokemon,0.5,2.1,True,50.0,True,30,Medium Slow,60,85,42,85,42,91,405,Flying,,Dark,Flying,Insomnia,Super Luck,Prankster,False,False,True,1,
+194,Slowking,"['Slow', 'king']",2,2,Royal Pokemon,2.0,79.5,True,50.0,True,70,Medium Fast,95,75,80,100,110,30,490,Monster,Water 1,Water,Psychic,Oblivious,Own Tempo,Regenerator,False,False,True,2,
+195,Misdreavus,"['Mis', 'drea', 'vus']",3,1,Screech Pokemon,0.7,1.0,True,50.0,True,45,Fast,60,60,60,85,85,85,435,Amorphous,,Ghost,,Levitate,,,False,False,True,1,
+196,Unown,['Unown'],1,1,Symbol Pokemon,0.5,5.0,False,0.0,False,225,Medium Fast,48,72,48,72,48,48,336,No Eggs Discovered,,Psychic,,Levitate,,,False,False,False,1,
+197,Wobbuffet,"['Wob', 'buf', 'fet']",3,1,Patient Pokemon,1.3,28.5,True,50.0,True,45,Medium Fast,190,33,58,33,58,33,405,Amorphous,,Psychic,,Shadow Tag,,Telepathy,False,False,True,2,
+198,Girafarig,"['Gi', 'ra', 'fa', 'rig']",4,1,Long Neck Pokemon,1.5,41.5,True,50.0,True,60,Medium Fast,70,80,65,90,65,85,455,Field,,Normal,Psychic,Inner Focus,Early Bird,Sap Sipper,False,False,True,1,
+199,Pineco,"['Pi', 'ne', 'co']",3,1,Bagworm Pokemon,0.6,7.2,True,50.0,True,190,Medium Fast,50,65,90,35,35,15,290,Bug,,Bug,,Sturdy,,Overcoat,False,False,True,1,31.0
+200,Forretress,"['For', 're', 'tress']",3,1,Bagworm Pokemon,1.2,125.8,True,50.0,True,75,Medium Fast,75,90,140,60,60,40,465,Bug,,Bug,Steel,Sturdy,,Overcoat,False,False,True,2,
+201,Dunsparce,"['Duns', 'par', 'ce']",3,1,Land Snake Pokemon,1.5,14.0,True,50.0,True,190,Medium Fast,100,70,70,65,65,45,415,Field,,Normal,,Serene Grace,Run Away,Rattled,False,False,True,1,
+202,Gligar,"['Gli', 'gar']",2,1,Fly Scorpion Pokemon,1.1,64.8,True,50.0,True,60,Medium Slow,65,75,105,35,65,85,430,Bug,,Ground,Flying,Hyper Cutter,Sand Veil,Immunity,False,False,True,1,
+203,Steelix,"['Stee', 'lix']",2,1,Iron Snake Pokemon,9.2,400.0,True,50.0,True,25,Medium Fast,75,85,200,55,65,30,510,Mineral,,Steel,Ground,Rock Head,Sturdy,Sheer Force,False,False,True,2,
+204,Snubbull,"['Snub', 'bull']",2,1,Fairy Pokemon,0.6,7.8,True,75.0,True,190,Fast,60,80,50,40,40,30,300,Field,Fairy,Fairy,,Intimidate,Run Away,Rattled,False,False,True,1,23.0
+205,Granbull,"['Gran', 'bull']",2,1,Fairy Pokemon,1.4,48.7,True,75.0,True,75,Fast,90,120,75,60,60,45,450,Field,Fairy,Fairy,,Intimidate,Quick Feet,Rattled,False,False,True,2,
+206,Qwilfish,"['Qwil', 'fish']",2,2,Balloon Pokemon,0.5,3.9,True,50.0,True,45,Medium Fast,65,95,75,55,55,85,430,Water 2,,Water,Poison,Poison Point,Swift Swim,Intimidate,False,False,False,1,
+207,Scizor,"['Sci', 'zor']",2,1,Pincer Pokemon,1.8,118.0,True,50.0,True,25,Medium Fast,70,130,100,55,80,65,500,Bug,,Bug,Steel,Swarm,Technician,Light Metal,False,False,True,2,
+208,Shuckle,"['Shuc', 'kle']",2,1,Mold Pokemon,0.6,20.5,True,50.0,True,190,Medium Slow,20,10,230,10,230,5,505,Bug,,Bug,Rock,Sturdy,Gluttony,Contrary,False,False,False,1,
+209,Heracross,"['He', 'ra', 'cross']",3,1,Single Horn Pokemon,1.5,54.0,True,50.0,True,45,Slow,80,125,75,40,95,85,500,Bug,,Bug,Fighting,Swarm,Guts,Moxie,False,False,False,1,
+210,Sneasel,"['Snea', 'sel']",2,2,Sharp Claw Pokemon,0.9,28.0,True,50.0,True,60,Medium Slow,55,95,55,35,75,115,430,Field,,Dark,Ice,Inner Focus,Keen Eye,Pickpocket,False,False,True,1,
+211,Teddiursa,"['Ted', 'diur', 'sa']",3,1,Little Bear Pokemon,0.6,8.8,True,50.0,True,120,Medium Fast,60,80,50,50,50,40,330,Field,,Normal,,Pickup,Quick Feet,Honey Gather,False,False,True,1,30.0
+212,Ursaring,"['Ursa', 'ring']",2,1,Hibernator Pokemon,1.8,125.8,True,50.0,True,60,Medium Fast,90,130,75,75,75,55,500,Field,,Normal,,Guts,Quick Feet,Unnerve,False,False,True,2,
+213,Slugma,"['Slu', 'gma']",2,1,Lava Pokemon,0.7,35.0,True,50.0,True,190,Medium Fast,40,40,40,70,40,20,250,Amorphous,,Fire,,Magma Armor,Flame Body,Weak Armor,False,False,True,1,38.0
+214,Magcargo,"['Mag', 'car', 'go']",3,1,Lava Pokemon,0.8,55.0,True,50.0,True,75,Medium Fast,50,50,120,80,80,30,410,Amorphous,,Fire,Rock,Magma Armor,Flame Body,Weak Armor,False,False,True,2,
+215,Swinub,"['Swi', 'nub']",2,1,Pig Pokemon,0.4,6.5,True,50.0,True,225,Slow,50,50,40,30,30,50,250,Field,,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,False,False,True,1,33.0
+216,Piloswine,"['Pi', 'lo', 'swi', 'ne']",4,1,Swine Pokemon,1.1,55.8,True,50.0,True,75,Slow,100,100,80,60,60,50,450,Field,,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,False,False,True,2,
+217,Corsola,"['Cor', 'so', 'la']",3,2,Coral Pokemon,0.6,5.0,True,75.0,True,60,Fast,55,55,85,65,85,35,380,Water 1,Water 3,Water,Rock,Hustle,Natural Cure,Regenerator,False,False,False,1,38.0
+218,Remoraid,"['Re', 'mo', 'raid']",3,1,Jet Pokemon,0.6,12.0,True,50.0,True,190,Medium Fast,35,65,35,65,35,65,300,Water 1,Water 2,Water,,Hustle,Sniper,Moody,False,False,True,1,25.0
+219,Octillery,"['Octil', 'le', 'ry']",3,1,Jet Pokemon,0.9,28.5,True,50.0,True,75,Medium Fast,75,105,75,105,75,45,480,Water 1,Water 2,Water,,Suction Cups,Sniper,Moody,False,False,True,2,
+220,Delibird,"['De', 'li', 'bird']",3,1,Delivery Pokemon,0.9,16.0,True,50.0,True,45,Fast,45,55,45,65,45,75,330,Water 1,Field,Ice,Flying,Vital Spirit,Hustle,Insomnia,False,False,False,1,
+221,Mantine,"['Man', 'ti', 'ne']",3,1,Kite Pokemon,2.1,220.0,True,50.0,True,25,Slow,65,40,70,80,140,70,465,Water 1,,Water,Flying,Swift Swim,Water Absorb,Water Veil,False,False,True,2,
+222,Skarmory,"['Skar', 'mo', 'ry']",3,1,Armor Bird Pokemon,1.7,50.5,True,50.0,True,25,Slow,65,80,140,40,70,70,465,Flying,,Steel,Flying,Keen Eye,Sturdy,Weak Armor,False,False,False,1,
+223,Houndour,"['Houn', 'dour']",2,1,Dark Pokemon,0.6,10.8,True,50.0,True,120,Slow,45,60,30,80,50,65,330,Field,,Dark,Fire,Early Bird,Flash Fire,Unnerve,False,False,True,1,24.0
+224,Houndoom,"['Houn', 'doom']",2,1,Dark Pokemon,1.4,35.0,True,50.0,True,45,Slow,75,90,50,110,80,95,500,Field,,Dark,Fire,Early Bird,Flash Fire,Unnerve,False,False,True,2,
+225,Kingdra,"['King', 'dra']",2,1,Dragon Pokemon,1.8,152.0,True,50.0,True,45,Medium Fast,75,95,95,95,95,85,540,Water 1,Dragon,Water,Dragon,Swift Swim,Sniper,Damp,False,False,True,3,
+226,Phanpy,"['Phan', 'py']",2,1,Long Nose Pokemon,0.5,33.5,True,50.0,True,120,Medium Fast,90,60,60,40,40,40,330,Field,,Ground,,Pickup,,Sand Veil,False,False,True,1,25.0
+227,Donphan,"['Donp', 'han']",2,1,Armor Pokemon,1.1,120.0,True,50.0,True,60,Medium Fast,90,120,120,60,60,50,500,Field,,Ground,,Sturdy,,Sand Veil,False,False,True,2,
+228,Porygon2,"['Po', 'ry', 'gon2']",3,1,Virtual Pokemon,0.6,32.5,False,0.0,True,45,Medium Fast,85,80,90,105,95,60,515,Mineral,,Normal,,Trace,Download,Analytic,False,False,True,2,
+229,Stantler,"['Stan', 'tler']",2,1,Big Horn Pokemon,1.4,71.2,True,50.0,True,45,Slow,73,95,62,85,65,85,465,Field,,Normal,,Intimidate,Frisk,Sap Sipper,False,False,True,1,
+230,Smeargle,"['Smear', 'gle']",2,1,Painter Pokemon,1.2,58.0,True,50.0,True,45,Fast,55,20,35,20,45,75,250,Field,,Normal,,Own Tempo,Technician,Moody,False,False,False,1,
+231,Tyrogue,"['Ty', 'ro', 'gue']",3,1,Scuffle Pokemon,0.7,21.0,True,0.0,True,75,Medium Fast,35,35,35,35,35,35,210,No Eggs Discovered,,Fighting,,Guts,Steadfast,Vital Spirit,False,False,True,1,20.0
+232,Hitmontop,"['Hi', 'tmon', 'top']",3,1,Handstand Pokemon,1.4,48.0,True,0.0,True,45,Medium Fast,50,95,95,35,110,70,455,Human-Like,,Fighting,,Intimidate,Technician,Steadfast,False,False,True,2,
+233,Smoochum,"['Smooc', 'hum']",2,1,Kiss Pokemon,0.4,6.0,True,100.0,True,45,Medium Fast,45,30,15,85,65,65,305,No Eggs Discovered,,Ice,Psychic,Oblivious,Forewarn,Hydration,False,False,True,1,30.0
+234,Elekid,"['Ele', 'kid']",2,1,Electric Pokemon,0.6,23.5,True,25.0,True,45,Medium Fast,45,63,37,65,55,95,360,No Eggs Discovered,,Electric,,Static,,Vital Spirit,False,False,True,1,30.0
+235,Magby,"['Mag', 'by']",2,1,Live Coal Pokemon,0.7,21.4,True,25.0,True,45,Medium Fast,45,75,37,70,55,83,365,No Eggs Discovered,,Fire,,Flame Body,,Vital Spirit,False,False,True,1,30.0
+236,Miltank,"['Mil', 'tank']",2,1,Milk Cow Pokemon,1.2,75.5,True,100.0,True,45,Slow,95,80,105,40,70,100,490,Field,,Normal,,Thick Fat,Scrappy,Sap Sipper,False,False,False,1,
+237,Blissey,"['Blis', 'sey']",2,1,Happiness Pokemon,1.5,46.8,True,100.0,True,30,Fast,255,10,10,75,135,55,540,Fairy,,Normal,,Natural Cure,Serene Grace,Healer,False,False,True,3,
+238,Raikou,"['Rai', 'kou']",2,1,Thunder Pokemon,1.9,178.0,False,0.0,False,3,Slow,90,85,75,115,100,115,580,No Eggs Discovered,,Electric,,Pressure,,Inner Focus,True,False,False,1,
+239,Entei,['Entei'],1,1,Volcano Pokemon,2.1,198.0,False,0.0,False,3,Slow,115,115,85,90,75,100,580,No Eggs Discovered,,Fire,,Pressure,,Inner Focus,True,False,False,1,
+240,Suicune,"['Sui', 'cu', 'ne']",3,1,Aurora Pokemon,2.0,187.0,False,0.0,False,3,Slow,100,75,115,90,115,85,580,No Eggs Discovered,,Water,,Pressure,,Inner Focus,True,False,False,1,
+241,Larvitar,"['Lar', 'vi', 'tar']",3,1,Rock Skin Pokemon,0.6,72.0,True,50.0,True,45,Slow,50,64,50,45,50,41,300,Monster,,Rock,Ground,Guts,,Sand Veil,False,False,True,1,30.0
+242,Pupitar,"['Pu', 'pi', 'tar']",3,1,Hard Shell Pokemon,1.2,152.0,True,50.0,True,45,Slow,70,84,70,65,70,51,410,Monster,,Rock,Ground,Shed Skin,,,False,False,True,2,55.0
+243,Tyranitar,"['Ty', 'ra', 'ni', 'tar']",4,1,Armor Pokemon,2.0,202.0,True,50.0,True,45,Slow,100,134,110,95,100,61,600,Monster,,Rock,Dark,Sand Stream,,Unnerve,False,False,True,3,
+244,Lugia,"['Lu', 'gia']",2,1,Diving Pokemon,5.2,216.0,False,0.0,False,3,Slow,106,90,130,90,154,110,680,No Eggs Discovered,,Psychic,Flying,Pressure,,Multiscale,True,False,False,1,
+245,Ho-Oh,['Ho-Oh'],1,1,Rainbow Pokemon,3.8,199.0,False,0.0,False,3,Slow,106,130,90,110,154,90,680,No Eggs Discovered,,Fire,Flying,Pressure,,Regenerator,True,False,False,1,
+246,Celebi,"['Ce', 'le', 'bi']",3,1,Time Travel Pokemon,0.6,5.0,False,0.0,False,45,Medium Slow,100,100,100,100,100,100,600,No Eggs Discovered,,Psychic,Grass,Natural Cure,,,False,True,False,1,
+247,Treecko,"['Treec', 'ko']",2,1,Wood Gecko Pokemon,0.5,5.0,True,12.5,True,45,Medium Slow,40,45,35,65,55,70,310,Monster,Dragon,Grass,,Overgrow,,Unburden,False,False,True,1,16.0
+248,Grovyle,"['Gro', 'vy', 'le']",3,1,Wood Gecko Pokemon,0.9,21.6,True,12.5,True,45,Medium Slow,50,65,45,85,65,95,405,Monster,Dragon,Grass,,Overgrow,,Unburden,False,False,True,2,36.0
+249,Sceptile,"['Scep', 'ti', 'le']",3,1,Forest Pokemon,1.7,52.2,True,12.5,True,45,Medium Slow,70,85,65,105,85,120,530,Monster,Dragon,Grass,,Overgrow,,Unburden,False,False,True,3,
+250,Torchic,"['Torc', 'hic']",2,1,Chick Pokemon,0.4,2.5,True,12.5,True,45,Medium Slow,45,60,40,70,50,45,310,Field,,Fire,,Blaze,,Speed Boost,False,False,True,1,16.0
+251,Combusken,"['Com', 'bus', 'ken']",3,1,Young Fowl Pokemon,0.9,19.5,True,12.5,True,45,Medium Slow,60,85,60,85,60,55,405,Field,,Fire,Fighting,Blaze,,Speed Boost,False,False,True,2,36.0
+252,Blaziken,"['Bla', 'zi', 'ken']",3,1,Blaze Pokemon,1.9,52.0,True,12.5,True,45,Medium Slow,80,120,70,110,70,80,530,Field,,Fire,Fighting,Blaze,,Speed Boost,False,False,True,3,
+253,Mudkip,"['Mud', 'kip']",2,1,Mud Fish Pokemon,0.4,7.6,True,12.5,True,45,Medium Slow,50,70,50,50,50,40,310,Monster,Water 1,Water,,Torrent,,Damp,False,False,True,1,16.0
+254,Marshtomp,"['Marsh', 'tomp']",2,1,Mud Fish Pokemon,0.7,28.0,True,12.5,True,45,Medium Slow,70,85,70,60,70,50,405,Monster,Water 1,Water,Ground,Torrent,,Damp,False,False,True,2,36.0
+255,Swampert,"['Swam', 'pert']",2,1,Mud Fish Pokemon,1.5,81.9,True,12.5,True,45,Medium Slow,100,110,90,85,90,60,535,Monster,Water 1,Water,Ground,Torrent,,Damp,False,False,True,3,
+256,Poochyena,"['Pooc', 'hye', 'na']",3,1,Bite Pokemon,0.5,13.6,True,50.0,True,255,Medium Fast,35,55,35,30,30,35,220,Field,,Dark,,Run Away,Quick Feet,Rattled,False,False,True,1,18.0
+257,Mightyena,"['Migh', 'tye', 'na']",3,1,Bite Pokemon,1.0,37.0,True,50.0,True,127,Medium Fast,70,90,70,60,60,70,420,Field,,Dark,,Intimidate,Quick Feet,Moxie,False,False,True,2,
+258,Zigzagoon,"['Zi', 'gza', 'goon']",3,2,Tiny Raccoon Pokemon,0.4,17.5,True,50.0,True,255,Medium Fast,38,30,41,30,41,60,240,Field,,Normal,,Pickup,Gluttony,Quick Feet,False,False,True,1,20.0
+259,Linoone,"['Li', 'noo', 'ne']",3,2,Rushing Pokemon,0.5,32.5,True,50.0,True,90,Medium Fast,78,70,61,50,61,100,420,Field,,Normal,,Pickup,Gluttony,Quick Feet,False,False,True,2,35.0
+260,Wurmple,"['Wurm', 'ple']",2,1,Worm Pokemon,0.3,3.6,True,50.0,True,255,Medium Fast,45,45,35,20,30,20,195,Bug,,Bug,,Shield Dust,,Run Away,False,False,True,1,7.0
+261,Silcoon,"['Sil', 'coon']",2,1,Cocoon Pokemon,0.6,10.0,True,50.0,True,120,Medium Fast,50,35,55,25,25,15,205,Bug,,Bug,,Shed Skin,,,False,False,True,2,10.0
+262,Beautifly,"['Bea', 'u', 'ti', 'fly']",4,1,Butterfly Pokemon,1.0,28.4,True,50.0,True,45,Medium Fast,60,70,50,90,50,65,385,Bug,,Bug,Flying,Swarm,,Rivalry,False,False,True,3,
+263,Cascoon,"['Cas', 'coon']",2,1,Cocoon Pokemon,0.7,11.5,True,50.0,True,120,Medium Fast,50,35,55,25,25,15,205,Bug,,Bug,,Shed Skin,,,False,False,True,2,10.0
+264,Dustox,"['Dus', 'tox']",2,1,Poison Moth Pokemon,1.2,31.6,True,50.0,True,45,Medium Fast,60,50,70,50,90,65,385,Bug,,Bug,Poison,Shield Dust,,Compound Eyes,False,False,True,3,
+265,Lotad,"['Lo', 'tad']",2,1,Water Weed Pokemon,0.5,2.6,True,50.0,True,255,Medium Slow,40,30,30,40,50,30,220,Water 1,Grass,Water,Grass,Swift Swim,Rain Dish,Own Tempo,False,False,True,1,14.0
+266,Lombre,"['Lom', 'bre']",2,1,Jolly Pokemon,1.2,32.5,True,50.0,True,120,Medium Slow,60,50,50,60,70,50,340,Water 1,Grass,Water,Grass,Swift Swim,Rain Dish,Own Tempo,False,False,True,2,
+267,Ludicolo,"['Lu', 'di', 'co', 'lo']",4,1,Carefree Pokemon,1.5,55.0,True,50.0,True,45,Medium Slow,80,70,70,90,100,70,480,Water 1,Grass,Water,Grass,Swift Swim,Rain Dish,Own Tempo,False,False,True,3,
+268,Seedot,"['See', 'dot']",2,1,Acorn Pokemon,0.5,4.0,True,50.0,True,255,Medium Slow,40,40,50,30,30,30,220,Field,Grass,Grass,,Chlorophyll,Early Bird,Pickpocket,False,False,True,1,14.0
+269,Nuzleaf,"['Nu', 'zleaf']",2,1,Wily Pokemon,1.0,28.0,True,50.0,True,120,Medium Slow,70,70,40,60,40,60,340,Field,Grass,Grass,Dark,Chlorophyll,Early Bird,Pickpocket,False,False,True,2,
+270,Shiftry,"['Shif', 'try']",2,1,Wicked Pokemon,1.3,59.6,True,50.0,True,45,Medium Slow,90,100,60,90,60,80,480,Field,Grass,Grass,Dark,Chlorophyll,Wind Rider,Pickpocket,False,False,True,3,
+271,Taillow,"['Tail', 'low']",2,1,Tiny Swallow Pokemon,0.3,2.3,True,50.0,True,200,Medium Slow,40,55,30,30,30,85,270,Flying,,Normal,Flying,Guts,,Scrappy,False,False,True,1,22.0
+272,Swellow,"['Swel', 'low']",2,1,Swallow Pokemon,0.7,19.8,True,50.0,True,45,Medium Slow,60,85,60,50,50,125,430,Flying,,Normal,Flying,Guts,,Scrappy,False,False,True,2,
+273,Wingull,"['Win', 'gull']",2,1,Seagull Pokemon,0.6,9.5,True,50.0,True,190,Medium Fast,40,30,30,55,30,85,270,Water 1,Flying,Water,Flying,Keen Eye,Hydration,Rain Dish,False,False,True,1,25.0
+274,Pelipper,"['Pe', 'lip', 'per']",3,1,Water Bird Pokemon,1.2,28.0,True,50.0,True,45,Medium Fast,60,50,100,85,70,65,430,Water 1,Flying,Water,Flying,Keen Eye,Drizzle,Rain Dish,False,False,True,2,
+275,Ralts,['Ralts'],1,1,Feeling Pokemon,0.4,6.6,True,50.0,True,235,Slow,28,25,25,45,35,40,198,Human-Like,Gen VIII+,Psychic,Fairy,Synchronize,Trace,Telepathy,False,False,True,1,20.0
+276,Kirlia,"['Kir', 'lia']",2,1,Emotion Pokemon,0.8,20.2,True,50.0,True,120,Slow,38,35,35,65,55,50,278,Human-Like,Gen VIII+,Psychic,Fairy,Synchronize,Trace,Telepathy,False,False,True,2,30.0
+277,Gardevoir,"['Gar', 'de', 'voir']",3,1,Embrace Pokemon,1.6,48.4,True,50.0,True,45,Slow,68,65,65,125,115,80,518,Human-Like,Gen VIII+,Psychic,Fairy,Synchronize,Trace,Telepathy,False,False,True,3,
+278,Surskit,"['Surs', 'kit']",2,1,Pond Skater Pokemon,0.5,1.7,True,50.0,True,200,Medium Fast,40,30,32,50,52,65,269,Water 1,Bug,Bug,Water,Swift Swim,,Rain Dish,False,False,True,1,22.0
+279,Masquerain,"['Mas', 'que', 'rain']",3,1,Eyeball Pokemon,0.8,3.6,True,50.0,True,75,Medium Fast,70,60,62,80,82,60,414,Water 1,Bug,Bug,Flying,Intimidate,,Unnerve,False,False,True,2,
+280,Shroomish,"['Shroo', 'mish']",2,1,Mushroom Pokemon,0.4,4.5,True,50.0,True,255,Fluctuating,60,40,60,40,60,35,295,Fairy,Grass,Grass,,Effect Spore,Poison Heal,Quick Feet,False,False,True,1,23.0
+281,Breloom,"['Bre', 'loom']",2,1,Mushroom Pokemon,1.2,39.2,True,50.0,True,90,Fluctuating,60,130,80,60,60,70,460,Fairy,Grass,Grass,Fighting,Effect Spore,Poison Heal,Technician,False,False,True,2,
+282,Slakoth,"['Sla', 'koth']",2,1,Slacker Pokemon,0.8,24.0,True,50.0,True,255,Slow,60,60,60,35,35,30,280,Field,,Normal,,Truant,,,False,False,True,1,18.0
+283,Vigoroth,"['Vi', 'go', 'roth']",3,1,Wild Monkey Pokemon,1.4,46.5,True,50.0,True,120,Slow,80,80,80,55,55,90,440,Field,,Normal,,Vital Spirit,,,False,False,True,2,36.0
+284,Slaking,"['Sla', 'king']",2,1,Lazy Pokemon,2.0,130.5,True,50.0,True,45,Slow,150,160,100,95,65,100,670,Field,,Normal,,Truant,,,False,False,True,3,
+285,Nincada,"['Nin', 'ca', 'da']",3,1,Trainee Pokemon,0.5,5.5,True,50.0,True,255,Erratic,31,45,90,30,30,40,266,Bug,,Bug,Ground,Compound Eyes,,Run Away,False,False,True,1,20.0
+286,Ninjask,"['Nin', 'jask']",2,1,Ninja Pokemon,0.8,12.0,True,50.0,True,120,Erratic,61,90,45,50,50,160,456,Bug,,Bug,Flying,Speed Boost,,Infiltrator,False,False,True,2,
+287,Shedinja,"['She', 'din', 'ja']",3,1,Shed Pokemon,0.8,1.2,False,0.0,True,45,Erratic,1,90,45,30,30,40,236,Mineral,,Bug,Ghost,Wonder Guard,,,False,False,True,2,
+288,Whismur,"['Whi', 'smur']",2,1,Whisper Pokemon,0.6,16.3,True,50.0,True,190,Medium Slow,64,51,23,51,23,28,240,Monster,Field,Normal,,Soundproof,,Rattled,False,False,True,1,20.0
+289,Loudred,"['Lou', 'dred']",2,1,Big Voice Pokemon,1.0,40.5,True,50.0,True,120,Medium Slow,84,71,43,71,43,48,360,Monster,Field,Normal,,Soundproof,,Scrappy,False,False,True,2,40.0
+290,Exploud,['Exploud'],1,1,Loud Noise Pokemon,1.5,84.0,True,50.0,True,45,Medium Slow,104,91,63,91,63,68,480,Monster,Field,Normal,,Soundproof,,Scrappy,False,False,True,3,
+291,Makuhita,"['Ma', 'ku', 'hi', 'ta']",4,1,Guts Pokemon,1.0,86.4,True,25.0,True,180,Fluctuating,72,60,30,20,30,25,237,Human-Like,,Fighting,,Thick Fat,Guts,Sheer Force,False,False,True,1,24.0
+292,Hariyama,"['Ha', 'riy', 'a', 'ma']",4,1,Arm Thrust Pokemon,2.3,253.8,True,25.0,True,200,Fluctuating,144,120,60,40,60,50,474,Human-Like,,Fighting,,Thick Fat,Guts,Sheer Force,False,False,True,2,
+293,Azurill,"['Azu', 'rill']",2,1,Polka Dot Pokemon,0.2,2.0,True,75.0,True,150,Fast,50,20,40,20,40,20,190,No Eggs Discovered,,Normal,Fairy,Thick Fat,Huge Power,Sap Sipper,False,False,True,1,
+294,Nosepass,"['No', 'se', 'pass']",3,1,Compass Pokemon,1.0,97.0,True,50.0,True,255,Medium Fast,30,45,135,45,90,30,375,Mineral,,Rock,,Sturdy,Magnet Pull,Sand Force,False,False,True,1,
+295,Skitty,"['Skit', 'ty']",2,1,Kitten Pokemon,0.6,11.0,True,75.0,True,255,Fast,50,45,45,35,35,50,260,Field,Fairy,Normal,,Cute Charm,Normalize,Wonder Skin,False,False,True,1,
+296,Delcatty,"['Del', 'cat', 'ty']",3,1,Prim Pokemon,1.1,32.6,True,75.0,True,60,Fast,70,65,65,55,55,70,380,Field,Fairy,Normal,,Cute Charm,Normalize,Wonder Skin,False,False,True,2,
+297,Sableye,"['Sa', 'bley', 'e']",3,1,Darkness Pokemon,0.5,11.0,True,50.0,True,45,Medium Slow,50,75,75,65,65,50,380,Human-Like,,Dark,Ghost,Keen Eye,Stall,Prankster,False,False,False,1,
+298,Mawile,"['Ma', 'wi', 'le']",3,1,Deceiver Pokemon,0.6,11.5,True,50.0,True,45,Fast,50,85,85,55,55,50,380,Field,Fairy,Steel,Fairy,Hyper Cutter,Intimidate,Sheer Force,False,False,False,1,
+299,Aron,['Aron'],1,1,Iron Armor Pokemon,0.4,60.0,True,50.0,True,180,Slow,50,70,100,40,40,30,330,Monster,,Steel,Rock,Sturdy,Rock Head,Heavy Metal,False,False,True,1,32.0
+300,Lairon,"['Lai', 'ron']",2,1,Iron Armor Pokemon,0.9,120.0,True,50.0,True,90,Slow,60,90,140,50,50,40,430,Monster,,Steel,Rock,Sturdy,Rock Head,Heavy Metal,False,False,True,2,42.0
+301,Aggron,['Aggron'],1,1,Iron Armor Pokemon,2.1,360.0,True,50.0,True,45,Slow,70,110,180,60,60,50,530,Monster,,Steel,Rock,Sturdy,Rock Head,Heavy Metal,False,False,True,3,
+302,Meditite,"['Me', 'di', 'ti', 'te']",4,1,Meditate Pokemon,0.6,11.2,True,50.0,True,180,Medium Fast,30,40,55,40,55,60,280,Human-Like,,Fighting,Psychic,Pure Power,,Telepathy,False,False,True,1,37.0
+303,Medicham,"['Me', 'dic', 'ham']",3,1,Meditate Pokemon,1.3,31.5,True,50.0,True,90,Medium Fast,60,60,75,60,75,80,410,Human-Like,,Fighting,Psychic,Pure Power,,Telepathy,False,False,True,2,
+304,Electrike,"['Elec', 'tri', 'ke']",3,1,Lightning Pokemon,0.6,15.2,True,50.0,True,120,Slow,40,45,40,65,40,65,295,Field,,Electric,,Static,Lightning Rod,Minus,False,False,True,1,26.0
+305,Manectric,"['Ma', 'nec', 'tric']",3,1,Discharge Pokemon,1.5,40.2,True,50.0,True,45,Slow,70,75,60,105,60,105,475,Field,,Electric,,Static,Lightning Rod,Minus,False,False,True,2,
+306,Plusle,"['Plu', 'sle']",2,1,Cheering Pokemon,0.4,4.2,True,50.0,True,200,Medium Fast,60,50,40,85,75,95,405,Fairy,,Electric,,Plus,,Lightning Rod,False,False,False,1,
+307,Minun,"['Mi', 'nun']",2,1,Cheering Pokemon,0.4,4.2,True,50.0,True,200,Medium Fast,60,40,50,75,85,95,405,Fairy,,Electric,,Minus,,Volt Absorb,False,False,False,1,
+308,Volbeat,"['Vol', 'beat']",2,1,Firefly Pokemon,0.7,17.7,True,0.0,True,150,Erratic,65,73,55,47,75,85,400,Bug,Human-Like,Bug,,Illuminate,Swarm,Prankster,False,False,False,1,
+309,Illumise,"['Illu', 'mi', 'se']",3,1,Firefly Pokemon,0.6,17.7,True,100.0,True,150,Fluctuating,65,47,55,73,75,85,400,Bug,Human-Like,Bug,,Oblivious,Tinted Lens,Prankster,False,False,False,1,
+310,Roselia,"['Ro', 'se', 'lia']",3,1,Thorn Pokemon,0.3,2.0,True,50.0,True,150,Medium Slow,50,60,45,100,80,65,400,Fairy,Grass,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,False,False,True,2,
+311,Gulpin,"['Gul', 'pin']",2,1,Stomach Pokemon,0.4,10.3,True,50.0,True,225,Fluctuating,70,43,53,43,53,40,302,Amorphous,,Poison,,Liquid Ooze,Sticky Hold,Gluttony,False,False,True,1,26.0
+312,Swalot,"['Swa', 'lot']",2,1,Poison Bag Pokemon,1.7,80.0,True,50.0,True,75,Fluctuating,100,73,83,73,83,55,467,Amorphous,,Poison,,Liquid Ooze,Sticky Hold,Gluttony,False,False,True,2,
+313,Carvanha,"['Car', 'van', 'ha']",3,1,Savage Pokemon,0.8,20.8,True,50.0,True,225,Slow,45,90,20,65,20,65,305,Water 2,,Water,Dark,Rough Skin,,Speed Boost,False,False,True,1,30.0
+314,Sharpedo,"['Shar', 'pe', 'do']",3,1,Brutal Pokemon,1.8,88.8,True,50.0,True,60,Slow,70,120,40,95,40,95,460,Water 2,,Water,Dark,Rough Skin,,Speed Boost,False,False,True,2,
+315,Wailmer,"['Wail', 'mer']",2,1,Ball Whale Pokemon,2.0,130.0,True,50.0,True,125,Fluctuating,130,70,35,70,35,60,400,Field,Water 2,Water,,Water Veil,Oblivious,Pressure,False,False,True,1,40.0
+316,Wailord,"['Wai', 'lord']",2,1,Float Whale Pokemon,14.5,398.0,True,50.0,True,60,Fluctuating,170,90,45,90,45,60,500,Field,Water 2,Water,,Water Veil,Oblivious,Pressure,False,False,True,2,
+317,Numel,"['Nu', 'mel']",2,1,Numb Pokemon,0.7,24.0,True,50.0,True,255,Medium Fast,60,60,40,65,45,35,305,Field,,Fire,Ground,Oblivious,Simple,Own Tempo,False,False,True,1,33.0
+318,Camerupt,"['Ca', 'me', 'rupt']",3,1,Eruption Pokemon,1.9,220.0,True,50.0,True,150,Medium Fast,70,100,70,105,75,40,460,Field,,Fire,Ground,Magma Armor,Solid Rock,Anger Point,False,False,True,2,
+319,Torkoal,"['Tor', 'koal']",2,1,Coal Pokemon,0.5,80.4,True,50.0,True,90,Medium Fast,70,85,140,85,70,20,470,Field,,Fire,,White Smoke,Drought,Shell Armor,False,False,False,1,
+320,Spoink,['Spoink'],1,1,Bounce Pokemon,0.7,30.6,True,50.0,True,255,Fast,60,25,35,70,80,60,330,Field,,Psychic,,Thick Fat,Own Tempo,Gluttony,False,False,True,1,32.0
+321,Grumpig,"['Grum', 'pig']",2,1,Manipulate Pokemon,0.9,71.5,True,50.0,True,60,Fast,80,45,65,90,110,80,470,Field,,Psychic,,Thick Fat,Own Tempo,Gluttony,False,False,True,2,
+322,Spinda,"['Spin', 'da']",2,1,Spot Panda Pokemon,1.1,5.0,True,50.0,True,255,Fast,60,60,60,60,60,60,360,Field,Human-Like,Normal,,Own Tempo,Tangled Feet,Contrary,False,False,False,1,
+323,Trapinch,"['Tra', 'pinch']",2,1,Ant Pit Pokemon,0.7,15.0,True,50.0,True,255,Medium Slow,45,100,45,45,45,10,290,Bug,Dragon,Ground,,Hyper Cutter,Arena Trap,Sheer Force,False,False,True,1,35.0
+324,Vibrava,"['Vi', 'bra', 'va']",3,1,Vibration Pokemon,1.1,15.3,True,50.0,True,120,Medium Slow,50,70,50,50,50,70,340,Bug,Dragon,Ground,Dragon,Levitate,,,False,False,True,2,45.0
+325,Flygon,"['Fly', 'gon']",2,1,Mystic Pokemon,2.0,82.0,True,50.0,True,45,Medium Slow,80,100,80,80,80,100,520,Bug,Dragon,Ground,Dragon,Levitate,,,False,False,True,3,
+326,Cacnea,"['Ca', 'cnea']",2,1,Cactus Pokemon,0.4,51.3,True,50.0,True,190,Medium Slow,50,85,40,85,40,35,335,Grass,Human-Like,Grass,,Sand Veil,,Water Absorb,False,False,True,1,32.0
+327,Cacturne,"['Cac', 'tur', 'ne']",3,1,Scarecrow Pokemon,1.3,77.4,True,50.0,True,60,Medium Slow,70,115,60,115,60,55,475,Grass,Human-Like,Grass,Dark,Sand Veil,,Water Absorb,False,False,True,2,
+328,Swablu,"['Swa', 'blu']",2,1,Cotton Bird Pokemon,0.4,1.2,True,50.0,True,255,Erratic,45,40,60,40,75,50,310,Flying,Dragon,Normal,Flying,Natural Cure,,Cloud Nine,False,False,True,1,35.0
+329,Altaria,"['Alta', 'ria']",2,1,Humming Pokemon,1.1,20.6,True,50.0,True,45,Erratic,75,70,90,70,105,80,490,Flying,Dragon,Dragon,Flying,Natural Cure,,Cloud Nine,False,False,True,2,
+330,Zangoose,"['Zan', 'goo', 'se']",3,1,Cat Ferret Pokemon,1.3,40.3,True,50.0,True,90,Erratic,73,115,60,60,60,90,458,Field,,Normal,,Immunity,,Toxic Boost,False,False,False,1,
+331,Seviper,"['Se', 'vi', 'per']",3,1,Fang Snake Pokemon,2.7,52.5,True,50.0,True,90,Fluctuating,73,100,60,100,60,65,458,Field,Dragon,Poison,,Shed Skin,,Infiltrator,False,False,False,1,
+332,Lunatone,"['Lu', 'na', 'to', 'ne']",4,1,Meteorite Pokemon,1.0,168.0,False,0.0,True,45,Fast,70,55,65,95,85,70,440,Mineral,,Rock,Psychic,Levitate,,,False,False,False,1,
+333,Solrock,"['Sol', 'rock']",2,1,Meteorite Pokemon,1.2,154.0,False,0.0,True,45,Fast,70,95,85,55,65,70,440,Mineral,,Rock,Psychic,Levitate,,,False,False,False,1,
+334,Barboach,"['Bar', 'boach']",2,1,Whiskers Pokemon,0.4,1.9,True,50.0,True,190,Medium Fast,50,48,43,46,41,60,288,Water 2,,Water,Ground,Oblivious,Anticipation,Hydration,False,False,True,1,30.0
+335,Whiscash,"['Whis', 'cash']",2,1,Whiskers Pokemon,0.9,23.6,True,50.0,True,75,Medium Fast,110,78,73,76,71,60,468,Water 2,,Water,Ground,Oblivious,Anticipation,Hydration,False,False,True,2,
+336,Corphish,"['Corp', 'hish']",2,1,Ruffian Pokemon,0.6,11.5,True,50.0,True,205,Fluctuating,43,80,65,50,35,35,308,Water 1,Water 3,Water,,Hyper Cutter,Shell Armor,Adaptability,False,False,True,1,30.0
+337,Crawdaunt,"['Craw', 'daunt']",2,1,Rogue Pokemon,1.1,32.8,True,50.0,True,155,Fluctuating,63,120,85,90,55,55,468,Water 1,Water 3,Water,Dark,Hyper Cutter,Shell Armor,Adaptability,False,False,True,2,
+338,Baltoy,"['Bal', 'toy']",2,1,Clay Doll Pokemon,0.5,21.5,False,0.0,True,255,Medium Fast,40,40,55,40,70,55,300,Mineral,,Ground,Psychic,Levitate,,,False,False,True,1,36.0
+339,Claydol,"['Clay', 'dol']",2,1,Clay Doll Pokemon,1.5,108.0,False,0.0,True,90,Medium Fast,60,70,105,70,120,75,500,Mineral,,Ground,Psychic,Levitate,,,False,False,True,2,
+340,Lileep,"['Li', 'leep']",2,1,Sea Lily Pokemon,1.0,23.8,True,12.5,True,45,Erratic,66,41,77,61,87,23,355,Water 3,,Rock,Grass,Suction Cups,,Storm Drain,False,False,True,1,40.0
+341,Cradily,"['Cra', 'di', 'ly']",3,1,Barnacle Pokemon,1.5,60.4,True,12.5,True,45,Erratic,86,81,97,81,107,43,495,Water 3,,Rock,Grass,Suction Cups,,Storm Drain,False,False,True,2,
+342,Anorith,"['Ano', 'rith']",2,1,Old Shrimp Pokemon,0.7,12.5,True,12.5,True,45,Erratic,45,95,50,40,50,75,355,Water 3,,Rock,Bug,Battle Armor,,Swift Swim,False,False,True,1,40.0
+343,Armaldo,"['Armal', 'do']",2,1,Plate Pokemon,1.5,68.2,True,12.5,True,45,Erratic,75,125,100,70,80,45,495,Water 3,,Rock,Bug,Battle Armor,,Swift Swim,False,False,True,2,
+344,Feebas,"['Fee', 'bas']",2,1,Fish Pokemon,0.6,7.4,True,50.0,True,255,Erratic,20,15,20,10,55,80,200,Water 1,Dragon,Water,,Swift Swim,Oblivious,Adaptability,False,False,True,1,
+345,Milotic,"['Mi', 'lo', 'tic']",3,1,Tender Pokemon,6.2,162.0,True,50.0,True,60,Erratic,95,60,79,100,125,81,540,Water 1,Dragon,Water,,Marvel Scale,Competitive,Cute Charm,False,False,True,2,
+346,Castform,"['Cas', 'tform']",2,4,Weather Pokemon,0.3,0.8,True,50.0,True,45,Medium Fast,70,70,70,70,70,70,420,Fairy,Amorphous,Normal,,Forecast,,,False,False,False,1,
+347,Kecleon,"['Ke', 'cleon']",2,1,Color Swap Pokemon,1.0,22.0,True,50.0,True,200,Medium Slow,60,90,70,60,120,40,440,Field,,Normal,,Color Change,,Protean,False,False,False,1,
+348,Shuppet,"['Shup', 'pet']",2,1,Puppet Pokemon,0.6,2.3,True,50.0,True,225,Fast,44,75,35,63,33,45,295,Amorphous,,Ghost,,Insomnia,Frisk,Cursed Body,False,False,True,1,37.0
+349,Banette,"['Ba', 'net', 'te']",3,1,Marionette Pokemon,1.1,12.5,True,50.0,True,45,Fast,64,115,65,83,63,65,455,Amorphous,,Ghost,,Insomnia,Frisk,Cursed Body,False,False,True,2,
+350,Duskull,"['Dus', 'kull']",2,1,Requiem Pokemon,0.8,15.0,True,50.0,True,190,Fast,20,40,90,30,90,25,295,Amorphous,,Ghost,,Levitate,,Frisk,False,False,True,1,37.0
+351,Dusclops,"['Dus', 'clops']",2,1,Beckon Pokemon,1.6,30.6,True,50.0,True,90,Fast,40,70,130,60,130,25,455,Amorphous,,Ghost,,Pressure,,Frisk,False,False,True,2,
+352,Tropius,"['Tro', 'pius']",2,1,Fruit Pokemon,2.0,100.0,True,50.0,True,200,Slow,99,68,83,72,87,51,460,Monster,Grass,Grass,Flying,Chlorophyll,Solar Power,Harvest,False,False,False,1,
+353,Chimecho,"['Chi', 'mec', 'ho']",3,1,Wind Chime Pokemon,0.6,1.0,True,50.0,True,45,Fast,65,50,70,95,80,65,425,Amorphous,,Psychic,,Levitate,,,False,False,True,2,
+354,Absol,['Absol'],1,1,Disaster Pokemon,1.2,47.0,True,50.0,True,30,Medium Slow,65,130,60,75,60,75,465,Field,,Dark,,Pressure,Super Luck,Justified,False,False,False,1,
+355,Wynaut,"['Wy', 'naut']",2,1,Bright Pokemon,0.6,14.0,True,50.0,True,125,Medium Fast,95,23,48,23,48,23,260,No Eggs Discovered,,Psychic,,Shadow Tag,,Telepathy,False,False,True,1,15.0
+356,Snorunt,"['Sno', 'runt']",2,1,Snow Hat Pokemon,0.7,16.8,True,50.0,True,190,Medium Fast,50,50,50,50,50,50,300,Fairy,Mineral,Ice,,Inner Focus,Ice Body,Moody,False,False,True,1,42.0
+357,Glalie,"['Gla', 'lie']",2,1,Face Pokemon,1.5,256.5,True,50.0,True,75,Medium Fast,80,80,80,80,80,80,480,Fairy,Mineral,Ice,,Inner Focus,Ice Body,Moody,False,False,True,2,
+358,Spheal,['Spheal'],1,1,Clap Pokemon,0.8,39.5,True,50.0,True,255,Medium Slow,70,40,50,55,50,25,290,Water 1,Field,Ice,Water,Thick Fat,Ice Body,Oblivious,False,False,True,1,32.0
+359,Sealeo,"['Sea', 'leo']",2,1,Ball Roll Pokemon,1.1,87.6,True,50.0,True,120,Medium Slow,90,60,70,75,70,45,410,Water 1,Field,Ice,Water,Thick Fat,Ice Body,Oblivious,False,False,True,2,44.0
+360,Walrein,"['Wal', 'rein']",2,1,Ice Break Pokemon,1.4,150.6,True,50.0,True,45,Medium Slow,110,80,90,95,90,65,530,Water 1,Field,Ice,Water,Thick Fat,Ice Body,Oblivious,False,False,True,3,
+361,Clamperl,"['Clam', 'perl']",2,1,Bivalve Pokemon,0.4,52.5,True,50.0,True,255,Erratic,35,64,85,74,55,32,345,Water 1,,Water,,Shell Armor,,Rattled,False,False,True,1,
+362,Huntail,"['Hun', 'tail']",2,1,Deep Sea Pokemon,1.7,27.0,True,50.0,True,60,Erratic,55,104,105,94,75,52,485,Water 1,,Water,,Swift Swim,,Water Veil,False,False,True,2,
+363,Gorebyss,"['Go', 're', 'byss']",3,1,South Sea Pokemon,1.8,22.6,True,50.0,True,60,Erratic,55,84,105,114,75,52,485,Water 1,,Water,,Swift Swim,,Hydration,False,False,True,2,
+364,Relicanth,"['Re', 'li', 'canth']",3,1,Longevity Pokemon,1.0,23.4,True,12.5,True,25,Slow,100,90,130,45,65,55,485,Water 1,Water 2,Water,Rock,Swift Swim,Rock Head,Sturdy,False,False,False,1,
+365,Luvdisc,"['Luv', 'disc']",2,1,Rendezvous Pokemon,0.6,8.7,True,75.0,True,225,Fast,43,30,55,40,65,97,330,Water 2,,Water,,Swift Swim,,Hydration,False,False,False,1,
+366,Bagon,"['Ba', 'gon']",2,1,Rock Head Pokemon,0.6,42.1,True,50.0,True,45,Slow,45,75,60,40,30,50,300,Dragon,,Dragon,,Rock Head,,Sheer Force,False,False,True,1,30.0
+367,Shelgon,"['Shel', 'gon']",2,1,Endurance Pokemon,1.1,110.5,True,50.0,True,45,Slow,65,95,100,60,50,50,420,Dragon,,Dragon,,Rock Head,,Overcoat,False,False,True,2,50.0
+368,Salamence,"['Sa', 'la', 'men', 'ce']",4,1,Dragon Pokemon,1.5,102.6,True,50.0,True,45,Slow,95,135,80,110,80,100,600,Dragon,,Dragon,Flying,Intimidate,,Moxie,False,False,True,3,
+369,Beldum,"['Bel', 'dum']",2,1,Iron Ball Pokemon,0.6,95.2,False,0.0,True,3,Slow,40,55,80,35,60,30,300,Mineral,,Steel,Psychic,Clear Body,,Light Metal,False,False,True,1,20.0
+370,Metang,"['Me', 'tang']",2,1,Iron Claw Pokemon,1.2,202.5,False,0.0,True,3,Slow,60,75,100,55,80,50,420,Mineral,,Steel,Psychic,Clear Body,,Light Metal,False,False,True,2,45.0
+371,Metagross,"['Me', 'ta', 'gross']",3,1,Iron Leg Pokemon,1.6,550.0,False,0.0,True,3,Slow,80,135,130,95,90,70,600,Mineral,,Steel,Psychic,Clear Body,,Light Metal,False,False,True,3,
+372,Regirock,"['Re', 'gi', 'rock']",3,1,Rock Peak Pokemon,1.7,230.0,False,0.0,False,3,Slow,80,100,200,50,100,50,580,No Eggs Discovered,,Rock,,Clear Body,,Sturdy,True,False,False,1,
+373,Regice,"['Re', 'gi', 'ce']",3,1,Iceberg Pokemon,1.8,175.0,False,0.0,False,3,Slow,80,50,100,100,200,50,580,No Eggs Discovered,,Ice,,Clear Body,,Ice Body,True,False,False,1,
+374,Registeel,"['Re', 'gis', 'teel']",3,1,Iron Pokemon,1.9,205.0,False,0.0,False,3,Slow,80,75,150,75,150,50,580,No Eggs Discovered,,Steel,,Clear Body,,Light Metal,True,False,False,1,
+375,Latias,"['La', 'tias']",2,1,Eon Pokemon,1.4,40.0,True,100.0,False,3,Slow,80,80,90,110,130,110,600,No Eggs Discovered,,Dragon,Psychic,Levitate,,,True,False,False,1,
+376,Latios,"['La', 'tios']",2,1,Eon Pokemon,2.0,60.0,True,0.0,False,3,Slow,80,90,80,130,110,110,600,No Eggs Discovered,,Dragon,Psychic,Levitate,,,True,False,False,1,
+377,Kyogre,"['Kyo', 'gre']",2,1,Sea Basin Pokemon,4.5,352.0,False,0.0,False,3,Slow,100,100,90,150,140,90,670,No Eggs Discovered,,Water,,Drizzle,,,True,False,False,1,
+378,Groudon,"['Grou', 'don']",2,1,Continent Pokemon,3.5,950.0,False,0.0,False,3,Slow,100,150,140,100,90,90,670,No Eggs Discovered,,Ground,,Drought,,,True,False,False,1,
+379,Rayquaza,"['Ray', 'qua', 'za']",3,1,Sky High Pokemon,7.0,206.5,False,0.0,False,3,Slow,105,150,90,150,90,95,680,No Eggs Discovered,,Dragon,Flying,Air Lock,,,True,False,False,1,
+380,Jirachi,"['Ji', 'rac', 'hi']",3,1,Wish Pokemon,0.3,1.1,False,0.0,False,3,Slow,100,100,100,100,100,100,600,No Eggs Discovered,,Steel,Psychic,Serene Grace,,,False,True,False,1,
+381,Turtwig,"['Tur', 'twig']",2,1,Tiny Leaf Pokemon,0.4,10.2,True,12.5,True,45,Medium Slow,55,68,64,45,55,31,318,Monster,Grass,Grass,,Overgrow,,Shell Armor,False,False,True,1,18.0
+382,Grotle,"['Gro', 'tle']",2,1,Grove Pokemon,1.1,97.0,True,12.5,True,45,Medium Slow,75,89,85,55,65,36,405,Monster,Grass,Grass,,Overgrow,,Shell Armor,False,False,True,2,32.0
+383,Torterra,"['Tor', 'ter', 'ra']",3,1,Continent Pokemon,2.2,310.0,True,12.5,True,45,Medium Slow,95,109,105,75,85,56,525,Monster,Grass,Grass,Ground,Overgrow,,Shell Armor,False,False,True,3,
+384,Chimchar,"['Chimc', 'har']",2,1,Chimp Pokemon,0.5,6.2,True,12.5,True,45,Medium Slow,44,58,44,58,44,61,309,Field,Human-Like,Fire,,Blaze,,Iron Fist,False,False,True,1,14.0
+385,Monferno,"['Mon', 'fer', 'no']",3,1,Playful Pokemon,0.9,22.0,True,12.5,True,45,Medium Slow,64,78,52,78,52,81,405,Field,Human-Like,Fire,Fighting,Blaze,,Iron Fist,False,False,True,2,36.0
+386,Infernape,"['Infer', 'na', 'pe']",3,1,Flame Pokemon,1.2,55.0,True,12.5,True,45,Medium Slow,76,104,71,104,71,108,534,Field,Human-Like,Fire,Fighting,Blaze,,Iron Fist,False,False,True,3,
+387,Piplup,"['Pi', 'plup']",2,1,Penguin Pokemon,0.4,5.2,True,12.5,True,45,Medium Slow,53,51,53,61,56,40,314,Water 1,Field,Water,,Torrent,,Competitive,False,False,True,1,16.0
+388,Prinplup,"['Prin', 'plup']",2,1,Penguin Pokemon,0.8,23.0,True,12.5,True,45,Medium Slow,64,66,68,81,76,50,405,Water 1,Field,Water,,Torrent,,Competitive,False,False,True,2,36.0
+389,Empoleon,"['Empo', 'leon']",2,1,Emperor Pokemon,1.7,84.5,True,12.5,True,45,Medium Slow,84,86,88,111,101,60,530,Water 1,Field,Water,Steel,Torrent,,Competitive,False,False,True,3,
+390,Starly,"['Star', 'ly']",2,1,Starling Pokemon,0.3,2.0,True,50.0,True,255,Medium Slow,40,55,30,30,30,60,245,Flying,,Normal,Flying,Keen Eye,,Reckless,False,False,True,1,14.0
+391,Staravia,"['Sta', 'ra', 'via']",3,1,Starling Pokemon,0.6,15.5,True,50.0,True,120,Medium Slow,55,75,50,40,40,80,340,Flying,,Normal,Flying,Intimidate,,Reckless,False,False,True,2,34.0
+392,Staraptor,"['Sta', 'rap', 'tor']",3,1,Predator Pokemon,1.2,24.9,True,50.0,True,45,Medium Slow,85,120,70,50,50,100,475,Flying,,Normal,Flying,Intimidate,,Reckless,False,False,True,3,
+393,Bidoof,"['Bi', 'doof']",2,1,Plump Mouse Pokemon,0.5,20.0,True,50.0,True,255,Medium Fast,59,45,40,35,40,31,250,Water 1,Field,Normal,,Simple,Unaware,Moody,False,False,True,1,15.0
+394,Bibarel,"['Bi', 'ba', 'rel']",3,1,Beaver Pokemon,1.0,31.5,True,50.0,True,127,Medium Fast,79,85,60,55,60,71,410,Water 1,Field,Normal,Water,Simple,Unaware,Moody,False,False,True,2,
+395,Kricketot,"['Kric', 'ke', 'tot']",3,1,Cricket Pokemon,0.3,2.2,True,50.0,True,255,Medium Slow,37,25,41,25,41,25,194,Bug,,Bug,,Shed Skin,,Run Away,False,False,True,1,10.0
+396,Kricketune,"['Kric', 'ke', 'tu', 'ne']",4,1,Cricket Pokemon,1.0,25.5,True,50.0,True,45,Medium Slow,77,85,51,55,51,65,384,Bug,,Bug,,Swarm,,Technician,False,False,True,2,
+397,Shinx,['Shinx'],1,1,Flash Pokemon,0.5,9.5,True,50.0,True,235,Medium Slow,45,65,34,40,34,45,263,Field,,Electric,,Rivalry,Intimidate,Guts,False,False,True,1,15.0
+398,Luxio,"['Lu', 'xio']",2,1,Spark Pokemon,0.9,30.5,True,50.0,True,120,Medium Slow,60,85,49,60,49,60,363,Field,,Electric,,Rivalry,Intimidate,Guts,False,False,True,2,30.0
+399,Luxray,"['Lu', 'xray']",2,1,Gleam Eyes Pokemon,1.4,42.0,True,50.0,True,45,Medium Slow,80,120,79,95,79,70,523,Field,,Electric,,Rivalry,Intimidate,Guts,False,False,True,3,
+400,Budew,"['Bu', 'dew']",2,1,Bud Pokemon,0.2,1.2,True,50.0,True,255,Medium Slow,40,30,35,50,70,55,280,No Eggs Discovered,,Grass,Poison,Natural Cure,Poison Point,Leaf Guard,False,False,True,1,
+401,Roserade,"['Ro', 'se', 'ra', 'de']",4,1,Bouquet Pokemon,0.9,14.5,True,50.0,True,75,Medium Slow,60,70,55,125,105,90,505,Fairy,Grass,Grass,Poison,Natural Cure,Poison Point,Technician,False,False,True,3,
+402,Cranidos,"['Cra', 'ni', 'dos']",3,1,Head Butt Pokemon,0.9,31.5,True,12.5,True,45,Erratic,67,125,40,30,30,58,350,Monster,,Rock,,Mold Breaker,,Sheer Force,False,False,True,1,30.0
+403,Rampardos,"['Ram', 'par', 'dos']",3,1,Head Butt Pokemon,1.6,102.5,True,12.5,True,45,Erratic,97,165,60,65,50,58,495,Monster,,Rock,,Mold Breaker,,Sheer Force,False,False,True,2,
+404,Shieldon,"['Shiel', 'don']",2,1,Shield Pokemon,0.5,57.0,True,12.5,True,45,Erratic,30,42,118,42,88,30,350,Monster,,Rock,Steel,Sturdy,,Soundproof,False,False,True,1,30.0
+405,Bastiodon,"['Bas', 'tio', 'don']",3,1,Shield Pokemon,1.3,149.5,True,12.5,True,45,Erratic,60,52,168,47,138,30,495,Monster,,Rock,Steel,Sturdy,,Soundproof,False,False,True,2,
+406,Mothim,"['Mot', 'him']",2,1,Moth Pokemon,0.9,23.3,True,0.0,True,45,Medium Fast,70,94,50,94,50,66,424,Bug,,Bug,Flying,Swarm,,Tinted Lens,False,False,True,2,
+407,Combee,"['Com', 'bee']",2,1,Tiny Bee Pokemon,0.3,5.5,True,12.5,True,120,Medium Slow,30,30,42,30,42,70,244,Bug,,Bug,Flying,Honey Gather,,Hustle,False,False,True,1,21.0
+408,Vespiquen,"['Ves', 'pi', 'quen']",3,1,Beehive Pokemon,1.2,38.5,True,100.0,True,45,Medium Slow,70,80,102,80,102,40,474,Bug,,Bug,Flying,Pressure,,Unnerve,False,False,True,2,
+409,Pachirisu,"['Pac', 'hi', 'ri', 'su']",4,1,EleSquirrel Pokemon,0.4,3.9,True,50.0,True,200,Medium Fast,60,45,70,45,90,95,405,Field,Fairy,Electric,,Run Away,Pickup,Volt Absorb,False,False,False,1,
+410,Buizel,"['Bui', 'zel']",2,1,Sea Weasel Pokemon,0.7,29.5,True,50.0,True,190,Medium Fast,55,65,35,60,30,85,330,Water 1,Field,Water,,Swift Swim,,Water Veil,False,False,True,1,26.0
+411,Floatzel,"['Floa', 'tzel']",2,1,Sea Weasel Pokemon,1.1,33.5,True,50.0,True,75,Medium Fast,85,105,55,85,50,115,495,Water 1,Field,Water,,Swift Swim,,Water Veil,False,False,True,2,
+412,Cherubi,"['Che', 'ru', 'bi']",3,1,Cherry Pokemon,0.4,3.3,True,50.0,True,190,Medium Fast,45,35,45,62,53,35,275,Fairy,Grass,Grass,,Chlorophyll,,,False,False,True,1,25.0
+413,Ambipom,"['Ambi', 'pom']",2,1,Long Tail Pokemon,1.2,20.3,True,50.0,True,45,Fast,75,100,66,60,66,115,482,Field,,Normal,,Technician,Pickup,Skill Link,False,False,True,2,
+414,Drifloon,"['Dri', 'floon']",2,1,Balloon Pokemon,0.4,1.2,True,50.0,True,125,Fluctuating,90,50,34,60,44,70,348,Amorphous,,Ghost,Flying,Aftermath,Unburden,Flare Boost,False,False,True,1,28.0
+415,Drifblim,"['Drif', 'blim']",2,1,Blimp Pokemon,1.2,15.0,True,50.0,True,60,Fluctuating,150,80,44,90,54,80,498,Amorphous,,Ghost,Flying,Aftermath,Unburden,Flare Boost,False,False,True,2,
+416,Buneary,"['Bu', 'nea', 'ry']",3,1,Rabbit Pokemon,0.4,5.5,True,50.0,True,190,Medium Fast,55,66,44,44,56,85,350,Field,Human-Like,Normal,,Run Away,Klutz,Limber,False,False,True,1,
+417,Lopunny,"['Lo', 'pun', 'ny']",3,1,Rabbit Pokemon,1.2,33.3,True,50.0,True,60,Medium Fast,65,76,84,54,96,105,480,Field,Human-Like,Normal,,Cute Charm,Klutz,Limber,False,False,True,2,
+418,Mismagius,"['Mi', 'sma', 'gius']",3,1,Magical Pokemon,0.9,4.4,True,50.0,True,45,Fast,60,60,60,105,105,105,495,Amorphous,,Ghost,,Levitate,,,False,False,True,2,
+419,Honchkrow,"['Honch', 'krow']",2,1,Big Boss Pokemon,0.9,27.3,True,50.0,True,30,Medium Slow,100,125,52,105,52,71,505,Flying,,Dark,Flying,Insomnia,Super Luck,Moxie,False,False,True,2,
+420,Glameow,"['Gla', 'meow']",2,1,Catty Pokemon,0.5,3.9,True,75.0,True,190,Fast,49,55,42,42,37,85,310,Field,,Normal,,Limber,Own Tempo,Keen Eye,False,False,True,1,38.0
+421,Purugly,"['Pu', 'ru', 'gly']",3,1,Tiger Cat Pokemon,1.0,43.8,True,75.0,True,75,Fast,71,82,64,64,59,112,452,Field,,Normal,,Thick Fat,Own Tempo,Defiant,False,False,True,2,
+422,Chingling,"['Chin', 'gling']",2,1,Bell Pokemon,0.2,0.6,True,50.0,True,120,Fast,45,30,50,65,50,45,285,No Eggs Discovered,,Psychic,,Levitate,,,False,False,True,1,
+423,Stunky,"['Stun', 'ky']",2,1,Skunk Pokemon,0.4,19.2,True,50.0,True,225,Medium Fast,63,63,47,41,41,74,329,Field,,Poison,Dark,Stench,Aftermath,Keen Eye,False,False,True,1,34.0
+424,Skuntank,"['Skun', 'tank']",2,1,Skunk Pokemon,1.0,38.0,True,50.0,True,60,Medium Fast,103,93,67,71,61,84,479,Field,,Poison,Dark,Stench,Aftermath,Keen Eye,False,False,True,2,
+425,Bronzor,"['Bron', 'zor']",2,1,Bronze Pokemon,0.5,60.5,False,0.0,True,255,Medium Fast,57,24,86,24,86,23,300,Mineral,,Steel,Psychic,Levitate,Heatproof,Heavy Metal,False,False,True,1,33.0
+426,Bronzong,"['Bron', 'zong']",2,1,Bronze Bell Pokemon,1.3,187.0,False,0.0,True,90,Medium Fast,67,89,116,79,116,33,500,Mineral,,Steel,Psychic,Levitate,Heatproof,Heavy Metal,False,False,True,2,
+427,Bonsly,"['Bon', 'sly']",2,1,Bonsai Pokemon,0.5,15.0,True,50.0,True,255,Medium Fast,50,80,95,10,45,10,290,No Eggs Discovered,,Rock,,Sturdy,Rock Head,Rattled,False,False,True,1,
+428,Happiny,"['Hap', 'pi', 'ny']",3,1,Playhouse Pokemon,0.6,24.4,True,100.0,True,130,Fast,100,5,5,15,65,30,220,No Eggs Discovered,,Normal,,Natural Cure,Serene Grace,Friend Guard,False,False,True,1,
+429,Chatot,"['Cha', 'tot']",2,1,Music Note Pokemon,0.5,1.9,True,50.0,True,30,Medium Slow,76,65,45,92,42,91,411,Flying,,Normal,Flying,Keen Eye,Tangled Feet,Big Pecks,False,False,False,1,
+430,Spiritomb,"['Spi', 'ri', 'tomb']",3,1,Forbidden Pokemon,1.0,108.0,True,50.0,True,100,Medium Fast,50,92,108,92,108,35,485,Amorphous,,Ghost,Dark,Pressure,,Infiltrator,False,False,False,1,
+431,Gible,"['Gi', 'ble']",2,1,Land Shark Pokemon,0.7,20.5,True,50.0,True,45,Slow,58,70,45,40,45,42,300,Monster,Dragon,Dragon,Ground,Sand Veil,,Rough Skin,False,False,True,1,24.0
+432,Gabite,"['Ga', 'bi', 'te']",3,1,Cave Pokemon,1.4,56.0,True,50.0,True,45,Slow,68,90,65,50,55,82,410,Monster,Dragon,Dragon,Ground,Sand Veil,,Rough Skin,False,False,True,2,48.0
+433,Garchomp,"['Garc', 'homp']",2,1,Mach Pokemon,1.9,95.0,True,50.0,True,45,Slow,108,130,95,80,85,102,600,Monster,Dragon,Dragon,Ground,Sand Veil,,Rough Skin,False,False,True,3,
+434,Munchlax,"['Munc', 'hlax']",2,1,Big Eater Pokemon,0.6,105.0,True,12.5,True,50,Slow,135,85,40,40,85,5,390,No Eggs Discovered,,Normal,,Pickup,Thick Fat,Gluttony,False,False,True,1,
+435,Riolu,"['Rio', 'lu']",2,1,Emanation Pokemon,0.7,20.2,True,12.5,True,75,Medium Slow,40,70,40,35,40,60,285,No Eggs Discovered,,Fighting,,Steadfast,Inner Focus,Prankster,False,False,True,1,
+436,Lucario,"['Lu', 'ca', 'rio']",3,1,Aura Pokemon,1.2,54.0,True,12.5,True,45,Medium Slow,70,110,70,115,70,90,525,Field,Human-Like,Fighting,Steel,Steadfast,Inner Focus,Justified,False,False,True,2,
+437,Hippopotas,"['Hip', 'po', 'po', 'tas']",4,1,Hippo Pokemon,0.8,49.5,True,50.0,True,140,Slow,68,72,78,38,42,32,330,Field,,Ground,,Sand Stream,,Sand Force,False,False,True,1,34.0
+438,Hippowdon,"['Hip', 'pow', 'don']",3,1,Heavyweight Pokemon,2.0,300.0,True,50.0,True,60,Slow,108,112,118,68,72,47,525,Field,,Ground,,Sand Stream,,Sand Force,False,False,True,2,
+439,Skorupi,"['Sko', 'ru', 'pi']",3,1,Scorpion Pokemon,0.8,12.0,True,50.0,True,120,Slow,40,50,90,30,55,65,330,Bug,Water 3,Poison,Bug,Battle Armor,Sniper,Keen Eye,False,False,True,1,40.0
+440,Drapion,"['Dra', 'pion']",2,1,Ogre Scorpion Pokemon,1.3,61.5,True,50.0,True,45,Slow,70,90,110,60,75,95,500,Bug,Water 3,Poison,Dark,Battle Armor,Sniper,Keen Eye,False,False,True,2,
+441,Croagunk,"['Croa', 'gunk']",2,1,Toxic Mouth Pokemon,0.7,23.0,True,50.0,True,140,Medium Fast,48,61,40,61,40,50,300,Human-Like,,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,False,False,True,1,37.0
+442,Toxicroak,"['To', 'xi', 'croak']",3,1,Toxic Mouth Pokemon,1.3,44.4,True,50.0,True,75,Medium Fast,83,106,65,86,65,85,490,Human-Like,,Poison,Fighting,Anticipation,Dry Skin,Poison Touch,False,False,True,2,
+443,Carnivine,"['Car', 'ni', 'vi', 'ne']",4,1,Bug Catcher Pokemon,1.4,27.0,True,50.0,True,200,Slow,74,100,72,90,72,46,454,Grass,,Grass,,Levitate,,,False,False,False,1,
+444,Finneon,"['Fin', 'neon']",2,1,Wing Fish Pokemon,0.4,7.0,True,50.0,True,190,Erratic,49,49,56,49,61,66,330,Water 2,,Water,,Swift Swim,Storm Drain,Water Veil,False,False,True,1,31.0
+445,Lumineon,"['Lu', 'mi', 'neon']",3,1,Neon Pokemon,1.2,24.0,True,50.0,True,75,Erratic,69,69,76,69,86,91,460,Water 2,,Water,,Swift Swim,Storm Drain,Water Veil,False,False,True,2,
+446,Mantyke,"['Man', 'ty', 'ke']",3,1,Kite Pokemon,1.0,65.0,True,50.0,True,25,Slow,45,20,50,60,120,50,345,No Eggs Discovered,,Water,Flying,Swift Swim,Water Absorb,Water Veil,False,False,True,1,
+447,Snover,"['Sno', 'ver']",2,1,Frost Tree Pokemon,1.0,50.5,True,50.0,True,120,Slow,60,62,50,62,60,40,334,Monster,Grass,Grass,Ice,Snow Warning,,Soundproof,False,False,True,1,40.0
+448,Abomasnow,"['Abo', 'ma', 'snow']",3,1,Frost Tree Pokemon,2.2,135.5,True,50.0,True,60,Slow,90,92,75,92,85,60,494,Monster,Grass,Grass,Ice,Snow Warning,,Soundproof,False,False,True,2,
+449,Weavile,"['Wea', 'vi', 'le']",3,1,Sharp Claw Pokemon,1.1,34.0,True,50.0,True,45,Medium Slow,70,120,65,45,85,125,510,Field,,Dark,Ice,Pressure,,Pickpocket,False,False,True,2,
+450,Magnezone,"['Ma', 'gne', 'zo', 'ne']",4,1,Magnet Area Pokemon,1.2,180.0,False,0.0,True,30,Medium Fast,70,70,115,130,90,60,535,Mineral,,Electric,Steel,Magnet Pull,Sturdy,Analytic,False,False,True,3,
+451,Lickilicky,"['Lic', 'ki', 'lic', 'ky']",4,1,Licking Pokemon,1.7,140.0,True,50.0,True,30,Medium Fast,110,85,95,80,95,50,515,Monster,,Normal,,Own Tempo,Oblivious,Cloud Nine,False,False,True,2,
+452,Rhyperior,"['Rhy', 'pe', 'rior']",3,1,Drill Pokemon,2.4,282.8,True,50.0,True,30,Slow,115,140,130,55,55,40,535,Monster,Field,Ground,Rock,Lightning Rod,Solid Rock,Reckless,False,False,True,3,
+453,Tangrowth,"['Tan', 'growth']",2,1,Vine Pokemon,2.0,128.6,True,50.0,True,30,Medium Fast,100,100,125,110,50,50,535,Grass,,Grass,,Chlorophyll,Leaf Guard,Regenerator,False,False,True,2,
+454,Electivire,"['Elec', 'ti', 'vi', 're']",4,1,Thunderbolt Pokemon,1.8,138.6,True,25.0,True,30,Medium Fast,75,123,67,95,85,95,540,Human-Like,,Electric,,Motor Drive,,Vital Spirit,False,False,True,3,
+455,Magmortar,"['Ma', 'gmor', 'tar']",3,1,Blast Pokemon,1.6,68.0,True,25.0,True,30,Medium Fast,75,95,67,125,95,83,540,Human-Like,,Fire,,Flame Body,,Vital Spirit,False,False,True,3,
+456,Togekiss,"['To', 'ge', 'kiss']",3,1,Jubilee Pokemon,1.5,38.0,True,12.5,True,30,Fast,85,50,95,120,115,80,545,Flying,Fairy,Fairy,Flying,Hustle,Serene Grace,Super Luck,False,False,True,3,
+457,Yanmega,"['Yan', 'me', 'ga']",3,1,Ogre Darner Pokemon,1.9,51.5,True,50.0,True,30,Medium Fast,86,76,86,116,56,95,515,Bug,,Bug,Flying,Speed Boost,Tinted Lens,Frisk,False,False,True,2,
+458,Leafeon,"['Lea', 'feon']",2,1,Verdant Pokemon,1.0,25.5,True,12.5,True,45,Medium Fast,65,110,130,60,65,95,525,Field,,Grass,,Leaf Guard,,Chlorophyll,False,False,True,2,
+459,Glaceon,"['Gla', 'ceon']",2,1,Fresh Snow Pokemon,0.8,25.9,True,12.5,True,45,Medium Fast,65,60,110,130,95,65,525,Field,,Ice,,Snow Cloak,,Ice Body,False,False,True,2,
+460,Gliscor,"['Glis', 'cor']",2,1,Fang Scorpion Pokemon,2.0,42.5,True,50.0,True,30,Medium Slow,75,95,125,45,75,95,510,Bug,,Ground,Flying,Hyper Cutter,Sand Veil,Poison Heal,False,False,True,2,
+461,Mamoswine,"['Ma', 'mo', 'swi', 'ne']",4,1,Twin Tusk Pokemon,2.5,291.0,True,50.0,True,50,Slow,110,130,80,70,60,80,530,Field,,Ice,Ground,Oblivious,Snow Cloak,Thick Fat,False,False,True,3,
+462,Porygon-Z,"['Po', 'ry', 'gon-Z']",3,1,Virtual Pokemon,0.9,34.0,False,0.0,True,30,Medium Fast,85,80,70,135,75,90,535,Mineral,,Normal,,Adaptability,Download,Analytic,False,False,True,3,
+463,Gallade,"['Gal', 'la', 'de']",3,1,Blade Pokemon,1.6,52.0,True,0.0,True,45,Slow,68,125,65,65,115,80,518,Human-Like,Gen VIII+,Psychic,Fighting,Steadfast,Sharpness,Justified,False,False,True,3,
+464,Probopass,"['Pro', 'bo', 'pass']",3,1,Compass Pokemon,1.4,340.0,True,50.0,True,60,Medium Fast,60,55,145,75,150,40,525,Mineral,,Rock,Steel,Sturdy,Magnet Pull,Sand Force,False,False,True,2,
+465,Dusknoir,"['Dus', 'knoir']",2,1,Gripper Pokemon,2.2,106.6,True,50.0,True,45,Fast,45,100,135,65,135,45,525,Amorphous,,Ghost,,Pressure,,Frisk,False,False,True,3,
+466,Froslass,"['Fro', 'slass']",2,1,Snow Land Pokemon,1.3,26.6,True,100.0,True,75,Medium Fast,70,80,70,80,70,110,480,Fairy,Mineral,Ice,Ghost,Snow Cloak,,Cursed Body,False,False,True,2,
+467,Uxie,['Uxie'],1,1,Knowledge Pokemon,0.3,0.3,False,0.0,False,3,Slow,75,75,130,75,130,95,580,No Eggs Discovered,,Psychic,,Levitate,,,True,False,False,1,
+468,Mesprit,"['Mes', 'prit']",2,1,Emotion Pokemon,0.3,0.3,False,0.0,False,3,Slow,80,105,105,105,105,80,580,No Eggs Discovered,,Psychic,,Levitate,,,True,False,False,1,
+469,Azelf,['Azelf'],1,1,Willpower Pokemon,0.3,0.3,False,0.0,False,3,Slow,75,125,70,125,70,115,580,No Eggs Discovered,,Psychic,,Levitate,,,True,False,False,1,
+470,Dialga,"['Dial', 'ga']",2,2,Temporal Pokemon,5.4,683.0,False,0.0,False,3,Slow,100,120,120,150,100,90,680,No Eggs Discovered,,Steel,Dragon,Pressure,,Telepathy,True,False,False,1,
+471,Palkia,"['Pal', 'kia']",2,2,Spatial Pokemon,4.2,336.0,False,0.0,False,3,Slow,90,120,100,150,120,100,680,No Eggs Discovered,,Water,Dragon,Pressure,,Telepathy,True,False,False,1,
+472,Heatran,"['Hea', 'tran']",2,1,Lava Dome Pokemon,1.7,430.0,True,50.0,False,3,Slow,91,90,106,130,106,77,600,No Eggs Discovered,,Fire,Steel,Flash Fire,,Flame Body,True,False,False,1,
+473,Regigigas,"['Re', 'gi', 'gi', 'gas']",4,1,Colossal Pokemon,3.7,420.0,False,0.0,False,3,Slow,110,160,110,80,110,100,670,No Eggs Discovered,,Normal,,Slow Start,,,True,False,False,1,
+474,Cresselia,"['Cres', 'se', 'lia']",3,1,Lunar Pokemon,1.5,85.6,True,100.0,False,3,Slow,120,70,120,75,130,85,600,No Eggs Discovered,,Psychic,,Levitate,,,True,False,False,1,
+475,Phione,"['Phio', 'ne']",2,1,Sea Drifter Pokemon,0.4,3.1,False,0.0,True,30,Slow,80,80,80,80,80,80,480,Water 1,Fairy,Water,,Hydration,,,False,True,False,1,
+476,Manaphy,"['Ma', 'nap', 'hy']",3,1,Seafaring Pokemon,0.3,1.4,False,0.0,True,3,Slow,100,100,100,100,100,100,600,Water 1,Fairy,Water,,Hydration,,,False,True,False,1,
+477,Darkrai,"['Dar', 'krai']",2,1,Pitch-Black Pokemon,1.5,50.5,False,0.0,False,3,Slow,70,90,90,135,90,125,600,No Eggs Discovered,,Dark,,Bad Dreams,,,False,True,False,1,
+478,Victini,"['Vic', 'ti', 'ni']",3,1,Victory Pokemon,0.4,4.0,False,0.0,False,3,Slow,100,100,100,100,100,100,600,No Eggs Discovered,,Psychic,Fire,Victory Star,,,False,True,False,1,
+479,Snivy,"['Sni', 'vy']",2,1,Grass Snake Pokemon,0.6,8.1,True,12.5,True,45,Medium Slow,45,45,55,45,55,63,308,Field,Grass,Grass,,Overgrow,,Contrary,False,False,True,1,17.0
+480,Servine,"['Ser', 'vi', 'ne']",3,1,Grass Snake Pokemon,0.8,16.0,True,12.5,True,45,Medium Slow,60,60,75,60,75,83,413,Field,Grass,Grass,,Overgrow,,Contrary,False,False,True,2,36.0
+481,Serperior,"['Ser', 'pe', 'rior']",3,1,Regal Pokemon,3.3,63.0,True,12.5,True,45,Medium Slow,75,75,95,75,95,113,528,Field,Grass,Grass,,Overgrow,,Contrary,False,False,True,3,
+482,Tepig,"['Te', 'pig']",2,1,Fire Pig Pokemon,0.5,9.9,True,12.5,True,45,Medium Slow,65,63,45,45,45,45,308,Field,,Fire,,Blaze,,Thick Fat,False,False,True,1,17.0
+483,Pignite,"['Pi', 'gni', 'te']",3,1,Fire Pig Pokemon,1.0,55.5,True,12.5,True,45,Medium Slow,90,93,55,70,55,55,418,Field,,Fire,Fighting,Blaze,,Thick Fat,False,False,True,2,36.0
+484,Emboar,['Emboar'],1,1,Mega Fire Pig Pokemon,1.6,150.0,True,12.5,True,45,Medium Slow,110,123,65,100,65,65,528,Field,,Fire,Fighting,Blaze,,Reckless,False,False,True,3,
+485,Oshawott,"['Osha', 'wott']",2,1,Sea Otter Pokemon,0.5,5.9,True,12.5,True,45,Medium Slow,55,55,45,63,45,45,308,Field,,Water,,Torrent,,Shell Armor,False,False,True,1,17.0
+486,Dewott,"['De', 'wott']",2,1,Discipline Pokemon,0.8,24.5,True,12.5,True,45,Medium Slow,75,75,60,83,60,60,413,Field,,Water,,Torrent,,Shell Armor,False,False,True,2,36.0
+487,Samurott,"['Sa', 'mu', 'rott']",3,2,Formidable Pokemon,1.5,94.6,True,12.5,True,45,Medium Slow,95,100,85,108,70,70,528,Field,,Water,,Torrent,,Shell Armor,False,False,True,3,
+488,Patrat,"['Pa', 'trat']",2,1,Scout Pokemon,0.5,11.6,True,50.0,True,255,Medium Fast,45,55,39,35,39,42,255,Field,,Normal,,Run Away,Keen Eye,Analytic,False,False,True,1,20.0
+489,Watchog,"['Watc', 'hog']",2,1,Lookout Pokemon,1.1,27.0,True,50.0,True,255,Medium Fast,60,85,69,60,69,77,420,Field,,Normal,,Illuminate,Keen Eye,Analytic,False,False,True,2,
+490,Lillipup,"['Lil', 'li', 'pup']",3,1,Puppy Pokemon,0.4,4.1,True,50.0,True,255,Medium Slow,45,60,45,25,45,55,275,Field,,Normal,,Vital Spirit,Pickup,Run Away,False,False,True,1,16.0
+491,Herdier,"['Her', 'dier']",2,1,Loyal Dog Pokemon,0.9,14.7,True,50.0,True,120,Medium Slow,65,80,65,35,65,60,370,Field,,Normal,,Intimidate,Sand Rush,Scrappy,False,False,True,2,32.0
+492,Stoutland,"['Stou', 'tland']",2,1,Big-Hearted Pokemon,1.2,61.0,True,50.0,True,45,Medium Slow,85,100,90,45,90,80,490,Field,,Normal,,Intimidate,Sand Rush,Scrappy,False,False,True,3,
+493,Purrloin,"['Purr', 'loin']",2,1,Devious Pokemon,0.4,10.1,True,50.0,True,255,Medium Fast,41,50,37,50,37,66,281,Field,,Dark,,Limber,Unburden,Prankster,False,False,True,1,20.0
+494,Liepard,"['Lie', 'pard']",2,1,Cruel Pokemon,1.1,37.5,True,50.0,True,90,Medium Fast,64,88,50,88,50,106,446,Field,,Dark,,Limber,Unburden,Prankster,False,False,True,2,
+495,Pansage,"['Pan', 'sa', 'ge']",3,1,Grass Monkey Pokemon,0.6,10.5,True,12.5,True,190,Medium Fast,50,53,48,53,48,64,316,Field,,Grass,,Gluttony,,Overgrow,False,False,True,1,
+496,Simisage,"['Si', 'mi', 'sa', 'ge']",4,1,Thorn Monkey Pokemon,1.1,30.5,True,12.5,True,75,Medium Fast,75,98,63,98,63,101,498,Field,,Grass,,Gluttony,,Overgrow,False,False,True,2,
+497,Pansear,"['Pan', 'sear']",2,1,High Temp Pokemon,0.6,11.0,True,12.5,True,190,Medium Fast,50,53,48,53,48,64,316,Field,,Fire,,Gluttony,,Blaze,False,False,True,1,
+498,Simisear,"['Si', 'mi', 'sear']",3,1,Ember Pokemon,1.0,28.0,True,12.5,True,75,Medium Fast,75,98,63,98,63,101,498,Field,,Fire,,Gluttony,,Blaze,False,False,True,2,
+499,Panpour,"['Pan', 'pour']",2,1,Spray Pokemon,0.6,13.5,True,12.5,True,190,Medium Fast,50,53,48,53,48,64,316,Field,,Water,,Gluttony,,Torrent,False,False,True,1,
+500,Simipour,"['Si', 'mi', 'pour']",3,1,Geyser Pokemon,1.0,29.0,True,12.5,True,75,Medium Fast,75,98,63,98,63,101,498,Field,,Water,,Gluttony,,Torrent,False,False,True,2,
+501,Munna,"['Mun', 'na']",2,1,Dream Eater Pokemon,0.6,23.3,True,50.0,True,190,Fast,76,25,45,67,55,24,292,Field,,Psychic,,Forewarn,Synchronize,Telepathy,False,False,True,1,
+502,Musharna,"['Mus', 'har', 'na']",3,1,Drowsing Pokemon,1.1,60.5,True,50.0,True,75,Fast,116,55,85,107,95,29,487,Field,,Psychic,,Forewarn,Synchronize,Telepathy,False,False,True,2,
+503,Pidove,"['Pi', 'do', 've']",3,1,Tiny Pigeon Pokemon,0.3,2.1,True,50.0,True,255,Medium Slow,50,55,50,36,30,43,264,Flying,,Normal,Flying,Big Pecks,Super Luck,Rivalry,False,False,True,1,21.0
+504,Tranquill,"['Tran', 'quill']",2,1,Wild Pigeon Pokemon,0.6,15.0,True,50.0,True,120,Medium Slow,62,77,62,50,42,65,358,Flying,,Normal,Flying,Big Pecks,Super Luck,Rivalry,False,False,True,2,32.0
+505,Unfezant,"['Unfe', 'zant']",2,1,Proud Pokemon,1.2,29.0,True,50.0,True,45,Medium Slow,80,105,80,65,55,93,478,Flying,,Normal,Flying,Big Pecks,Super Luck,Rivalry,False,False,True,3,
+506,Blitzle,"['Bli', 'tzle']",2,1,Electrified Pokemon,0.8,29.8,True,50.0,True,190,Medium Fast,45,60,32,50,32,76,295,Field,,Electric,,Lightning Rod,Motor Drive,Sap Sipper,False,False,True,1,27.0
+507,Zebstrika,"['Zebs', 'tri', 'ka']",3,1,Thunderbolt Pokemon,1.6,79.5,True,50.0,True,75,Medium Fast,75,100,63,80,63,116,497,Field,,Electric,,Lightning Rod,Motor Drive,Sap Sipper,False,False,True,2,
+508,Roggenrola,"['Rog', 'gen', 'ro', 'la']",4,1,Mantle Pokemon,0.4,18.0,True,50.0,True,255,Medium Slow,55,75,85,25,25,15,280,Mineral,,Rock,,Sturdy,Weak Armor,Sand Force,False,False,True,1,25.0
+509,Boldore,"['Bol', 'do', 're']",3,1,Ore Pokemon,0.9,102.0,True,50.0,True,120,Medium Slow,70,105,105,50,40,20,390,Mineral,,Rock,,Sturdy,Weak Armor,Sand Force,False,False,True,2,
+510,Gigalith,"['Gi', 'ga', 'lith']",3,1,Compressed Pokemon,1.7,260.0,True,50.0,True,45,Medium Slow,85,135,130,60,70,25,505,Mineral,,Rock,,Sturdy,Sand Stream,Sand Force,False,False,True,3,
+511,Woobat,"['Woo', 'bat']",2,1,Bat Pokemon,0.4,2.1,True,50.0,True,190,Medium Fast,55,45,43,55,43,72,313,Field,Flying,Psychic,Flying,Unaware,Klutz,Simple,False,False,True,1,
+512,Swoobat,"['Swoo', 'bat']",2,1,Courting Pokemon,0.9,10.5,True,50.0,True,45,Medium Fast,67,57,55,77,55,114,425,Field,Flying,Psychic,Flying,Unaware,Klutz,Simple,False,False,True,2,
+513,Drilbur,"['Dril', 'bur']",2,1,Mole Pokemon,0.3,8.5,True,50.0,True,120,Medium Fast,60,85,40,30,45,68,328,Field,,Ground,,Sand Rush,Sand Force,Mold Breaker,False,False,True,1,31.0
+514,Excadrill,"['Exca', 'drill']",2,1,Subterrene Pokemon,0.7,40.4,True,50.0,True,60,Medium Fast,110,135,60,50,65,88,508,Field,,Ground,Steel,Sand Rush,Sand Force,Mold Breaker,False,False,True,2,
+515,Audino,"['Au', 'di', 'no']",3,1,Hearing Pokemon,1.1,31.0,True,50.0,True,255,Fast,103,60,86,60,86,50,445,Fairy,,Normal,,Healer,Regenerator,Klutz,False,False,False,1,
+516,Timburr,"['Tim', 'burr']",2,1,Muscular Pokemon,0.6,12.5,True,25.0,True,180,Medium Slow,75,80,55,25,35,35,305,Human-Like,,Fighting,,Guts,Sheer Force,Iron Fist,False,False,True,1,25.0
+517,Gurdurr,"['Gur', 'durr']",2,1,Muscular Pokemon,1.2,40.0,True,25.0,True,90,Medium Slow,85,105,85,40,50,40,405,Human-Like,,Fighting,,Guts,Sheer Force,Iron Fist,False,False,True,2,
+518,Conkeldurr,"['Con', 'kel', 'durr']",3,1,Muscular Pokemon,1.4,87.0,True,25.0,True,45,Medium Slow,105,140,95,55,65,45,505,Human-Like,,Fighting,,Guts,Sheer Force,Iron Fist,False,False,True,3,
+519,Tympole,"['Tym', 'po', 'le']",3,1,Tadpole Pokemon,0.5,4.5,True,50.0,True,255,Medium Slow,50,50,40,50,40,64,294,Water 1,,Water,,Swift Swim,Hydration,Water Absorb,False,False,True,1,25.0
+520,Palpitoad,"['Pal', 'pi', 'toad']",3,1,Vibration Pokemon,0.8,17.0,True,50.0,True,120,Medium Slow,75,65,55,65,55,69,384,Water 1,,Water,Ground,Swift Swim,Hydration,Water Absorb,False,False,True,2,36.0
+521,Seismitoad,"['Sei', 'smi', 'toad']",3,1,Vibration Pokemon,1.5,62.0,True,50.0,True,45,Medium Slow,105,85,75,85,75,74,499,Water 1,,Water,Ground,Swift Swim,Poison Touch,Water Absorb,False,False,True,3,
+522,Throh,['Throh'],1,1,Judo Pokemon,1.3,55.5,True,0.0,True,45,Medium Fast,120,100,85,30,85,45,465,Human-Like,,Fighting,,Guts,Inner Focus,Mold Breaker,False,False,False,1,
+523,Sawk,['Sawk'],1,1,Karate Pokemon,1.4,51.0,True,0.0,True,45,Medium Fast,75,125,75,30,75,85,465,Human-Like,,Fighting,,Sturdy,Inner Focus,Mold Breaker,False,False,False,1,
+524,Sewaddle,"['Se', 'wad', 'dle']",3,1,Sewing Pokemon,0.3,2.5,True,50.0,True,255,Medium Slow,45,53,70,40,60,42,310,Bug,,Bug,Grass,Swarm,Chlorophyll,Overcoat,False,False,True,1,20.0
+525,Swadloon,"['Swa', 'dloon']",2,1,Leaf-Wrapped Pokemon,0.5,7.3,True,50.0,True,120,Medium Slow,55,63,90,50,80,42,380,Bug,,Bug,Grass,Leaf Guard,Chlorophyll,Overcoat,False,False,True,2,
+526,Leavanny,"['Lea', 'van', 'ny']",3,1,Nurturing Pokemon,1.2,20.5,True,50.0,True,45,Medium Slow,75,103,80,70,70,92,490,Bug,,Bug,Grass,Swarm,Chlorophyll,Overcoat,False,False,True,3,
+527,Venipede,"['Ve', 'ni', 'pe', 'de']",4,1,Centipede Pokemon,0.4,5.3,True,50.0,True,255,Medium Slow,30,45,59,30,39,57,260,Bug,,Bug,Poison,Poison Point,Swarm,Speed Boost,False,False,True,1,22.0
+528,Whirlipede,"['Whir', 'li', 'pe', 'de']",4,1,Curlipede Pokemon,1.2,58.5,True,50.0,True,120,Medium Slow,40,55,99,40,79,47,360,Bug,,Bug,Poison,Poison Point,Swarm,Speed Boost,False,False,True,2,30.0
+529,Scolipede,"['Sco', 'li', 'pe', 'de']",4,1,Megapede Pokemon,2.5,200.5,True,50.0,True,45,Medium Slow,60,90,89,55,69,112,475,Bug,,Bug,Poison,Poison Point,Swarm,Speed Boost,False,False,True,3,
+530,Cottonee,"['Cot', 'to', 'nee']",3,1,Cotton Puff Pokemon,0.3,0.6,True,50.0,True,190,Medium Fast,40,27,60,37,50,66,280,Grass,Fairy,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,False,False,True,1,
+531,Whimsicott,"['Whim', 'si', 'cott']",3,1,Windveiled Pokemon,0.7,6.6,True,50.0,True,75,Medium Fast,60,67,85,77,75,116,480,Grass,Fairy,Grass,Fairy,Prankster,Infiltrator,Chlorophyll,False,False,True,2,
+532,Petilil,"['Pe', 'ti', 'lil']",3,1,Bulb Pokemon,0.5,6.6,True,100.0,True,190,Medium Fast,45,35,50,70,50,30,280,Grass,,Grass,,Chlorophyll,Own Tempo,Leaf Guard,False,False,True,1,
+533,Lilligant,"['Lil', 'li', 'gant']",3,2,Flowering Pokemon,1.1,16.3,True,100.0,True,75,Medium Fast,70,60,75,110,75,90,480,Grass,,Grass,,Chlorophyll,Own Tempo,Leaf Guard,False,False,True,2,
+534,Sandile,"['San', 'di', 'le']",3,1,Desert Croc Pokemon,0.7,15.2,True,50.0,True,180,Medium Slow,50,72,35,35,35,65,292,Field,,Ground,Dark,Intimidate,Moxie,Anger Point,False,False,True,1,29.0
+535,Krokorok,"['Kro', 'ko', 'rok']",3,1,Desert Croc Pokemon,1.0,33.4,True,50.0,True,90,Medium Slow,60,82,45,45,45,74,351,Field,,Ground,Dark,Intimidate,Moxie,Anger Point,False,False,True,2,40.0
+536,Krookodile,"['Kroo', 'ko', 'di', 'le']",4,1,Intimidation Pokemon,1.5,96.3,True,50.0,True,45,Medium Slow,95,117,70,65,70,92,509,Field,,Ground,Dark,Intimidate,Moxie,Anger Point,False,False,True,3,
+537,Darumaka,"['Da', 'ru', 'ma', 'ka']",4,2,Zen Charm Pokemon,0.6,37.5,True,50.0,True,120,Medium Slow,70,90,45,15,45,50,315,Field,,Fire,,Hustle,,Inner Focus,False,False,True,1,35.0
+538,Maractus,"['Ma', 'rac', 'tus']",3,1,Cactus Pokemon,1.0,28.0,True,50.0,True,255,Medium Fast,75,86,67,106,67,60,461,Grass,,Grass,,Water Absorb,Chlorophyll,Storm Drain,False,False,False,1,
+539,Dwebble,"['Dweb', 'ble']",2,1,Rock Inn Pokemon,0.3,14.5,True,50.0,True,190,Medium Fast,50,65,85,35,35,55,325,Bug,Mineral,Bug,Rock,Sturdy,Shell Armor,Weak Armor,False,False,True,1,34.0
+540,Crustle,"['Crus', 'tle']",2,1,Stone Home Pokemon,1.4,200.0,True,50.0,True,75,Medium Fast,70,95,125,65,75,45,475,Bug,Mineral,Bug,Rock,Sturdy,Shell Armor,Weak Armor,False,False,True,2,
+541,Scraggy,"['Scrag', 'gy']",2,1,Shedding Pokemon,0.6,11.8,True,50.0,True,180,Medium Fast,50,75,70,35,70,48,348,Field,Dragon,Dark,Fighting,Shed Skin,Moxie,Intimidate,False,False,True,1,39.0
+542,Scrafty,"['Scraf', 'ty']",2,1,Hoodlum Pokemon,1.1,30.0,True,50.0,True,90,Medium Fast,65,90,115,45,115,58,488,Field,Dragon,Dark,Fighting,Shed Skin,Moxie,Intimidate,False,False,True,2,
+543,Sigilyph,"['Si', 'gi', 'lyph']",3,1,Avianoid Pokemon,1.4,14.0,True,50.0,True,45,Medium Fast,72,58,80,103,80,97,490,Flying,,Psychic,Flying,Wonder Skin,Magic Guard,Tinted Lens,False,False,False,1,
+544,Yamask,"['Ya', 'mask']",2,2,Spirit Pokemon,0.5,1.5,True,50.0,True,190,Medium Fast,38,30,85,55,65,30,303,Mineral,Amorphous,Ghost,,Mummy,,,False,False,True,1,34.0
+545,Cofagrigus,"['Co', 'fa', 'gri', 'gus']",4,1,Coffin Pokemon,1.7,76.5,True,50.0,True,90,Medium Fast,58,50,145,95,105,30,483,Mineral,Amorphous,Ghost,,Mummy,,,False,False,True,2,
+546,Tirtouga,"['Tir', 'tou', 'ga']",3,1,Prototurtle Pokemon,0.7,16.5,True,12.5,True,45,Medium Fast,54,78,103,53,45,22,355,Water 1,Water 3,Water,Rock,Solid Rock,Sturdy,Swift Swim,False,False,True,1,37.0
+547,Carracosta,"['Car', 'ra', 'cos', 'ta']",4,1,Prototurtle Pokemon,1.2,81.0,True,12.5,True,45,Medium Fast,74,108,133,83,65,32,495,Water 1,Water 3,Water,Rock,Solid Rock,Sturdy,Swift Swim,False,False,True,2,
+548,Archen,['Archen'],1,1,First Bird Pokemon,0.5,9.5,True,12.5,True,45,Medium Fast,55,112,45,74,45,70,401,Flying,Water 3,Rock,Flying,Defeatist,,,False,False,True,1,37.0
+549,Archeops,['Archeops'],1,1,First Bird Pokemon,1.4,32.0,True,12.5,True,45,Medium Fast,75,140,65,112,65,110,567,Flying,Water 3,Rock,Flying,Defeatist,,,False,False,True,2,
+550,Trubbish,"['Trub', 'bish']",2,1,Trash Bag Pokemon,0.6,31.0,True,50.0,True,190,Medium Fast,50,50,62,40,62,65,329,Mineral,,Poison,,Stench,Sticky Hold,Aftermath,False,False,True,1,36.0
+551,Garbodor,"['Gar', 'bo', 'dor']",3,1,Trash Heap Pokemon,1.9,107.3,True,50.0,True,60,Medium Fast,80,95,82,60,82,75,474,Mineral,,Poison,,Stench,Weak Armor,Aftermath,False,False,True,2,
+552,Zorua,"['Zo', 'rua']",2,2,Tricky Fox Pokemon,0.7,12.5,True,12.5,True,75,Medium Slow,40,65,40,80,40,65,330,Field,,Dark,,Illusion,,,False,False,True,1,30.0
+553,Zoroark,"['Zo', 'roark']",2,2,Illusion Fox Pokemon,1.6,81.1,True,12.5,True,45,Medium Slow,60,105,60,120,60,105,510,Field,,Dark,,Illusion,,,False,False,True,2,
+554,Minccino,"['Minc', 'ci', 'no']",3,1,Chinchilla Pokemon,0.4,5.8,True,75.0,True,255,Fast,55,50,40,40,40,75,300,Field,,Normal,,Cute Charm,Technician,Skill Link,False,False,True,1,
+555,Cinccino,"['Cinc', 'ci', 'no']",3,1,Scarf Pokemon,0.5,7.5,True,75.0,True,60,Fast,75,95,60,65,60,115,470,Field,,Normal,,Cute Charm,Technician,Skill Link,False,False,True,2,
+556,Gothita,"['Got', 'hi', 'ta']",3,1,Fixation Pokemon,0.4,5.8,True,75.0,True,200,Medium Slow,45,30,50,55,65,45,290,Human-Like,,Psychic,,Frisk,Competitive,Shadow Tag,False,False,True,1,32.0
+557,Gothorita,"['Got', 'ho', 'ri', 'ta']",4,1,Manipulate Pokemon,0.7,18.0,True,75.0,True,100,Medium Slow,60,45,70,75,85,55,390,Human-Like,,Psychic,,Frisk,Competitive,Shadow Tag,False,False,True,2,41.0
+558,Gothitelle,"['Got', 'hi', 'tel', 'le']",4,1,Astral Body Pokemon,1.5,44.0,True,75.0,True,50,Medium Slow,70,55,95,95,110,65,490,Human-Like,,Psychic,,Frisk,Competitive,Shadow Tag,False,False,True,3,
+559,Solosis,"['So', 'lo', 'sis']",3,1,Cell Pokemon,0.3,1.0,True,50.0,True,200,Medium Slow,45,30,40,105,50,20,290,Amorphous,,Psychic,,Overcoat,Magic Guard,Regenerator,False,False,True,1,32.0
+560,Duosion,"['Duo', 'sion']",2,1,Mitosis Pokemon,0.6,8.0,True,50.0,True,100,Medium Slow,65,40,50,125,60,30,370,Amorphous,,Psychic,,Overcoat,Magic Guard,Regenerator,False,False,True,2,41.0
+561,Reuniclus,"['Reu', 'ni', 'clus']",3,1,Multiplying Pokemon,1.0,20.1,True,50.0,True,50,Medium Slow,110,65,75,125,85,30,490,Amorphous,,Psychic,,Overcoat,Magic Guard,Regenerator,False,False,True,3,
+562,Ducklett,"['Duc', 'klett']",2,1,Water Bird Pokemon,0.5,5.5,True,50.0,True,190,Medium Fast,62,44,50,44,50,55,305,Water 1,Flying,Water,Flying,Keen Eye,Big Pecks,Hydration,False,False,True,1,35.0
+563,Swanna,"['Swan', 'na']",2,1,White Bird Pokemon,1.3,24.2,True,50.0,True,45,Medium Fast,75,87,63,87,63,98,473,Water 1,Flying,Water,Flying,Keen Eye,Big Pecks,Hydration,False,False,True,2,
+564,Vanillite,"['Va', 'nil', 'li', 'te']",4,1,Fresh Snow Pokemon,0.4,5.7,True,50.0,True,255,Slow,36,50,50,65,60,44,305,Mineral,,Ice,,Ice Body,Snow Cloak,Weak Armor,False,False,True,1,35.0
+565,Vanillish,"['Va', 'nil', 'lish']",3,1,Icy Snow Pokemon,1.1,41.0,True,50.0,True,120,Slow,51,65,65,80,75,59,395,Mineral,,Ice,,Ice Body,Snow Cloak,Weak Armor,False,False,True,2,47.0
+566,Vanilluxe,"['Va', 'nil', 'lu', 'xe']",4,1,Snowstorm Pokemon,1.3,57.5,True,50.0,True,45,Slow,71,95,85,110,95,79,535,Mineral,,Ice,,Ice Body,Snow Warning,Weak Armor,False,False,True,3,
+567,Emolga,"['Emol', 'ga']",2,1,Sky Squirrel Pokemon,0.4,5.0,True,50.0,True,200,Medium Fast,55,75,60,75,60,103,428,Field,,Electric,Flying,Static,,Motor Drive,False,False,False,1,
+568,Karrablast,"['Kar', 'ra', 'blast']",3,1,Clamping Pokemon,0.5,5.9,True,50.0,True,200,Medium Fast,50,75,45,40,45,60,315,Bug,,Bug,,Swarm,Shed Skin,No Guard,False,False,True,1,
+569,Escavalier,"['Esca', 'va', 'lier']",3,1,Cavalry Pokemon,1.0,33.0,True,50.0,True,75,Medium Fast,70,135,105,60,105,20,495,Bug,,Bug,Steel,Swarm,Shell Armor,Overcoat,False,False,True,2,
+570,Foongus,"['Foon', 'gus']",2,1,Mushroom Pokemon,0.2,1.0,True,50.0,True,190,Medium Fast,69,55,45,55,55,15,294,Grass,,Grass,Poison,Effect Spore,,Regenerator,False,False,True,1,39.0
+571,Amoonguss,"['Amoon', 'guss']",2,1,Mushroom Pokemon,0.6,10.5,True,50.0,True,75,Medium Fast,114,85,70,85,80,30,464,Grass,,Grass,Poison,Effect Spore,,Regenerator,False,False,True,2,
+572,Frillish,"['Fril', 'lish']",2,1,Floating Pokemon,1.2,33.0,True,50.0,True,190,Medium Fast,55,40,50,65,85,40,335,Amorphous,,Water,Ghost,Water Absorb,Cursed Body,Damp,False,False,True,1,40.0
+573,Jellicent,"['Jel', 'li', 'cent']",3,1,Floating Pokemon,2.2,135.0,True,50.0,True,60,Medium Fast,100,60,70,85,105,60,480,Amorphous,,Water,Ghost,Water Absorb,Cursed Body,Damp,False,False,True,2,
+574,Alomomola,"['Alo', 'mo', 'mo', 'la']",4,1,Caring Pokemon,1.2,31.6,True,50.0,True,75,Fast,165,75,80,40,45,65,470,Water 1,Water 2,Water,,Healer,Hydration,Regenerator,False,False,False,1,
+575,Joltik,"['Jol', 'tik']",2,1,Attaching Pokemon,0.1,0.6,True,50.0,True,190,Medium Fast,50,47,50,57,50,65,319,Bug,,Bug,Electric,Compound Eyes,Unnerve,Swarm,False,False,True,1,36.0
+576,Galvantula,"['Gal', 'van', 'tu', 'la']",4,1,EleSpider Pokemon,0.8,14.3,True,50.0,True,75,Medium Fast,70,77,60,97,60,108,472,Bug,,Bug,Electric,Compound Eyes,Unnerve,Swarm,False,False,True,2,
+577,Ferroseed,"['Fer', 'ro', 'seed']",3,1,Thorn Seed Pokemon,0.6,18.8,True,50.0,True,255,Medium Fast,44,50,91,24,86,10,305,Grass,Mineral,Grass,Steel,Iron Barbs,,,False,False,True,1,40.0
+578,Ferrothorn,"['Fer', 'rot', 'horn']",3,1,Thorn Pod Pokemon,1.0,110.0,True,50.0,True,90,Medium Fast,74,94,131,54,116,20,489,Grass,Mineral,Grass,Steel,Iron Barbs,,Anticipation,False,False,True,2,
+579,Klink,['Klink'],1,1,Gear Pokemon,0.3,21.0,False,0.0,True,130,Medium Slow,40,55,70,45,60,30,300,Mineral,,Steel,,Plus,Minus,Clear Body,False,False,True,1,38.0
+580,Klang,['Klang'],1,1,Gear Pokemon,0.6,51.0,False,0.0,True,60,Medium Slow,60,80,95,70,85,50,440,Mineral,,Steel,,Plus,Minus,Clear Body,False,False,True,2,49.0
+581,Klinklang,"['Klin', 'klang']",2,1,Gear Pokemon,0.6,81.0,False,0.0,True,30,Medium Slow,60,100,115,70,85,90,520,Mineral,,Steel,,Plus,Minus,Clear Body,False,False,True,3,
+582,Tynamo,"['Ty', 'na', 'mo']",3,1,EleFish Pokemon,0.2,0.3,True,50.0,True,190,Slow,35,55,40,45,40,60,275,Amorphous,,Electric,,Levitate,,,False,False,True,1,39.0
+583,Eelektrik,"['Ee', 'lek', 'trik']",3,1,EleFish Pokemon,1.2,22.0,True,50.0,True,60,Slow,65,85,70,75,70,40,405,Amorphous,,Electric,,Levitate,,,False,False,True,2,
+584,Eelektross,"['Ee', 'lek', 'tross']",3,1,EleFish Pokemon,2.1,80.5,True,50.0,True,30,Slow,85,115,80,105,80,50,515,Amorphous,,Electric,,Levitate,,,False,False,True,3,
+585,Elgyem,['Elgyem'],1,1,Cerebral Pokemon,0.5,9.0,True,50.0,True,255,Medium Fast,55,55,55,85,55,30,335,Human-Like,,Psychic,,Telepathy,Synchronize,Analytic,False,False,True,1,42.0
+586,Beheeyem,"['Be', 'hee', 'y', 'em']",4,1,Cerebral Pokemon,1.0,34.5,True,50.0,True,90,Medium Fast,75,75,75,125,95,40,485,Human-Like,,Psychic,,Telepathy,Synchronize,Analytic,False,False,True,2,
+587,Litwick,"['Li', 'twick']",2,1,Candle Pokemon,0.3,3.1,True,50.0,True,190,Medium Slow,50,30,55,65,55,20,275,Amorphous,,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,False,False,True,1,41.0
+588,Lampent,"['Lam', 'pent']",2,1,Lamp Pokemon,0.6,13.0,True,50.0,True,90,Medium Slow,60,40,60,95,60,55,370,Amorphous,,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,False,False,True,2,
+589,Chandelure,"['Chan', 'de', 'lu', 're']",4,1,Luring Pokemon,1.0,34.3,True,50.0,True,45,Medium Slow,60,55,90,145,90,80,520,Amorphous,,Ghost,Fire,Flash Fire,Flame Body,Infiltrator,False,False,True,3,
+590,Axew,['Axew'],1,1,Tusk Pokemon,0.6,18.0,True,50.0,True,75,Slow,46,87,60,30,40,57,320,Monster,Dragon,Dragon,,Rivalry,Mold Breaker,Unnerve,False,False,True,1,38.0
+591,Fraxure,"['Fra', 'xu', 're']",3,1,Axe Jaw Pokemon,1.0,36.0,True,50.0,True,60,Slow,66,117,70,40,50,67,410,Monster,Dragon,Dragon,,Rivalry,Mold Breaker,Unnerve,False,False,True,2,48.0
+592,Haxorus,"['Ha', 'xo', 'rus']",3,1,Axe Jaw Pokemon,1.8,105.5,True,50.0,True,45,Slow,76,147,90,60,70,97,540,Monster,Dragon,Dragon,,Rivalry,Mold Breaker,Unnerve,False,False,True,3,
+593,Cubchoo,"['Cubc', 'hoo']",2,1,Chill Pokemon,0.5,8.5,True,50.0,True,120,Medium Fast,55,70,40,60,40,40,305,Field,,Ice,,Snow Cloak,Slush Rush,Rattled,False,False,True,1,37.0
+594,Beartic,"['Bear', 'tic']",2,1,Freezing Pokemon,2.6,260.0,True,50.0,True,60,Medium Fast,95,110,80,70,80,50,485,Field,,Ice,,Snow Cloak,Slush Rush,Swift Swim,False,False,True,2,
+595,Cryogonal,"['Cryo', 'go', 'nal']",3,1,Crystallizing Pokemon,1.1,148.0,False,0.0,True,25,Medium Fast,70,50,30,95,135,105,485,Mineral,,Ice,,Levitate,,,False,False,False,1,
+596,Shelmet,"['Shel', 'met']",2,1,Snail Pokemon,0.4,7.7,True,50.0,True,200,Medium Fast,50,40,85,40,65,25,305,Bug,,Bug,,Hydration,Shell Armor,Overcoat,False,False,True,1,
+597,Accelgor,"['Accel', 'gor']",2,1,Shell Out Pokemon,0.8,25.3,True,50.0,True,75,Medium Fast,80,70,40,100,60,145,495,Bug,,Bug,,Hydration,Sticky Hold,Unburden,False,False,True,2,
+598,Stunfisk,"['Stun', 'fisk']",2,2,Trap Pokemon,0.7,11.0,True,50.0,True,75,Medium Fast,109,66,84,81,99,32,471,Water 1,Amorphous,Ground,Electric,Static,Limber,Sand Veil,False,False,False,1,
+599,Mienfoo,"['Mien', 'foo']",2,1,Martial Arts Pokemon,0.9,20.0,True,50.0,True,180,Medium Slow,45,85,50,55,50,65,350,Field,Human-Like,Fighting,,Inner Focus,Regenerator,Reckless,False,False,True,1,50.0
+600,Mienshao,"['Miens', 'hao']",2,1,Martial Arts Pokemon,1.4,35.5,True,50.0,True,45,Medium Slow,65,125,60,95,60,105,510,Field,Human-Like,Fighting,,Inner Focus,Regenerator,Reckless,False,False,True,2,
+601,Druddigon,"['Drud', 'di', 'gon']",3,1,Cave Pokemon,1.6,139.0,True,50.0,True,45,Medium Fast,77,120,90,60,90,48,485,Dragon,Monster,Dragon,,Rough Skin,Sheer Force,Mold Breaker,False,False,False,1,
+602,Golett,"['Go', 'lett']",2,1,Automaton Pokemon,1.0,92.0,False,0.0,True,190,Medium Fast,59,74,50,35,50,35,303,Mineral,,Ground,Ghost,Iron Fist,Klutz,No Guard,False,False,True,1,43.0
+603,Golurk,"['Go', 'lurk']",2,1,Automaton Pokemon,2.8,330.0,False,0.0,True,90,Medium Fast,89,124,80,55,80,55,483,Mineral,,Ground,Ghost,Iron Fist,Klutz,No Guard,False,False,True,2,
+604,Pawniard,"['Paw', 'niard']",2,1,Sharp Blade Pokemon,0.5,10.2,True,50.0,True,120,Medium Fast,45,85,70,40,40,60,340,Human-Like,,Dark,Steel,Defiant,Inner Focus,Pressure,False,False,True,1,52.0
+605,Bisharp,"['Bis', 'harp']",2,1,Sword Blade Pokemon,1.6,70.0,True,50.0,True,45,Medium Fast,65,125,100,60,70,70,490,Human-Like,,Dark,Steel,Defiant,Inner Focus,Pressure,False,False,True,2,
+606,Bouffalant,"['Bouf', 'fa', 'lant']",3,1,Bash Buffalo Pokemon,1.6,94.6,True,50.0,True,45,Medium Fast,95,110,95,40,95,55,490,Field,,Normal,,Reckless,Sap Sipper,Soundproof,False,False,False,1,
+607,Rufflet,"['Ruf', 'flet']",2,1,Eaglet Pokemon,0.5,10.5,True,0.0,True,190,Slow,70,83,50,37,50,60,350,Flying,,Normal,Flying,Keen Eye,Sheer Force,Hustle,False,False,True,1,54.0
+608,Braviary,"['Bra', 'via', 'ry']",3,2,Valiant Pokemon,1.5,41.0,True,0.0,True,60,Slow,100,123,75,57,75,80,510,Flying,,Normal,Flying,Keen Eye,Sheer Force,Defiant,False,False,True,2,
+609,Vullaby,"['Vul', 'la', 'by']",3,1,Diapered Pokemon,0.5,9.0,True,100.0,True,190,Slow,70,55,75,45,65,60,370,Flying,,Dark,Flying,Big Pecks,Overcoat,Weak Armor,False,False,True,1,54.0
+610,Mandibuzz,"['Man', 'di', 'buzz']",3,1,Bone Vulture Pokemon,1.2,39.5,True,100.0,True,60,Slow,110,65,105,55,95,80,510,Flying,,Dark,Flying,Big Pecks,Overcoat,Weak Armor,False,False,True,2,
+611,Heatmor,"['Hea', 'tmor']",2,1,Anteater Pokemon,1.4,58.0,True,50.0,True,90,Medium Fast,85,97,66,105,66,65,484,Field,,Fire,,Gluttony,Flash Fire,White Smoke,False,False,False,1,
+612,Durant,"['Du', 'rant']",2,1,Iron Ant Pokemon,0.3,33.0,True,50.0,True,90,Medium Fast,58,109,112,48,48,109,484,Bug,,Bug,Steel,Swarm,Hustle,Truant,False,False,False,1,
+613,Deino,"['Dei', 'no']",2,1,Irate Pokemon,0.8,17.3,True,50.0,True,45,Slow,52,65,50,45,50,38,300,Dragon,,Dark,Dragon,Hustle,,,False,False,True,1,50.0
+614,Zweilous,"['Zwei', 'lous']",2,1,Hostile Pokemon,1.4,50.0,True,50.0,True,45,Slow,72,85,70,65,70,58,420,Dragon,,Dark,Dragon,Hustle,,,False,False,True,2,64.0
+615,Hydreigon,"['Hy', 'drei', 'gon']",3,1,Brutal Pokemon,1.8,160.0,True,50.0,True,45,Slow,92,105,90,125,90,98,600,Dragon,,Dark,Dragon,Levitate,,,False,False,True,3,
+616,Larvesta,"['Lar', 'ves', 'ta']",3,1,Torch Pokemon,1.1,28.8,True,50.0,True,45,Slow,55,85,55,50,55,60,360,Bug,,Bug,Fire,Flame Body,,Swarm,False,False,True,1,59.0
+617,Volcarona,"['Vol', 'ca', 'ro', 'na']",4,1,Sun Pokemon,1.6,46.0,True,50.0,True,15,Slow,85,60,65,135,105,100,550,Bug,,Bug,Fire,Flame Body,,Swarm,False,False,True,2,
+618,Cobalion,"['Co', 'ba', 'lion']",3,1,Iron Will Pokemon,2.1,250.0,False,0.0,False,3,Slow,91,90,129,90,72,108,580,No Eggs Discovered,,Steel,Fighting,Justified,,,True,False,False,1,
+619,Terrakion,"['Ter', 'ra', 'kion']",3,1,Cavern Pokemon,1.9,260.0,False,0.0,False,3,Slow,91,129,90,72,90,108,580,No Eggs Discovered,,Rock,Fighting,Justified,,,True,False,False,1,
+620,Virizion,"['Vi', 'ri', 'zion']",3,1,Grassland Pokemon,2.0,200.0,False,0.0,False,3,Slow,91,90,72,90,129,108,580,No Eggs Discovered,,Grass,Fighting,Justified,,,True,False,False,1,
+621,Reshiram,"['Res', 'hi', 'ram']",3,1,Vast White Pokemon,3.2,330.0,False,0.0,False,3,Slow,100,120,100,150,120,90,680,No Eggs Discovered,,Dragon,Fire,Turboblaze,,,True,False,False,1,
+622,Zekrom,"['Ze', 'krom']",2,1,Deep Black Pokemon,2.9,345.0,False,0.0,False,3,Slow,100,150,120,120,100,90,680,No Eggs Discovered,,Dragon,Electric,Teravolt,,,True,False,False,1,
+623,Kyurem,"['Kyu', 'rem']",2,3,Boundary Pokemon,3.0,325.0,False,0.0,False,3,Slow,125,130,90,130,90,95,660,No Eggs Discovered,,Dragon,Ice,Pressure,,,True,False,False,1,
+624,Chespin,"['Ches', 'pin']",2,1,Spiny Nut Pokemon,0.4,9.0,True,12.5,True,45,Medium Slow,56,61,65,48,45,38,313,Field,,Grass,,Overgrow,,Bulletproof,False,False,True,1,16.0
+625,Quilladin,"['Quil', 'la', 'din']",3,1,Spiny Armor Pokemon,0.7,29.0,True,12.5,True,45,Medium Slow,61,78,95,56,58,57,405,Field,,Grass,,Overgrow,,Bulletproof,False,False,True,2,36.0
+626,Chesnaught,"['Che', 'snaught']",2,1,Spiny Armor Pokemon,1.6,90.0,True,12.5,True,45,Medium Slow,88,107,122,74,75,64,530,Field,,Grass,Fighting,Overgrow,,Bulletproof,False,False,True,3,
+627,Fennekin,"['Fen', 'ne', 'kin']",3,1,Fox Pokemon,0.4,9.4,True,12.5,True,45,Medium Slow,40,45,40,62,60,60,307,Field,,Fire,,Blaze,,Magician,False,False,True,1,16.0
+628,Braixen,"['Brai', 'xen']",2,1,Fox Pokemon,1.0,14.5,True,12.5,True,45,Medium Slow,59,59,58,90,70,73,409,Field,,Fire,,Blaze,,Magician,False,False,True,2,36.0
+629,Delphox,"['Delp', 'hox']",2,1,Fox Pokemon,1.5,39.0,True,12.5,True,45,Medium Slow,75,69,72,114,100,104,534,Field,,Fire,Psychic,Blaze,,Magician,False,False,True,3,
+630,Froakie,"['Froa', 'kie']",2,1,Bubble Frog Pokemon,0.3,7.0,True,12.5,True,45,Medium Slow,41,56,40,62,44,71,314,Water 1,,Water,,Torrent,,Protean,False,False,True,1,16.0
+631,Frogadier,"['Fro', 'ga', 'dier']",3,1,Bubble Frog Pokemon,0.6,10.9,True,12.5,True,45,Medium Slow,54,63,52,83,56,97,405,Water 1,,Water,,Torrent,,Protean,False,False,True,2,36.0
+632,Greninja,"['Gre', 'nin', 'ja']",3,1,Ninja Pokemon,1.5,40.0,True,12.5,True,45,Medium Slow,72,95,67,103,71,122,530,Water 1,No Eggs Discovered,Water,Dark,Torrent,,Protean,False,False,True,3,
+633,Bunnelby,"['Bun', 'nel', 'by']",3,1,Digging Pokemon,0.4,5.0,True,50.0,True,255,Medium Fast,38,36,38,32,36,57,237,Field,,Normal,,Pickup,Cheek Pouch,Huge Power,False,False,True,1,20.0
+634,Diggersby,"['Dig', 'gers', 'by']",3,1,Digging Pokemon,1.0,42.4,True,50.0,True,127,Medium Fast,85,56,77,50,77,78,423,Field,,Normal,Ground,Pickup,Cheek Pouch,Huge Power,False,False,True,2,
+635,Fletchling,"['Fletc', 'hling']",2,1,Tiny Robin Pokemon,0.3,1.7,True,50.0,True,255,Medium Slow,45,50,43,40,38,62,278,Flying,,Normal,Flying,Big Pecks,,Gale Wings,False,False,True,1,17.0
+636,Fletchinder,"['Fletc', 'hin', 'der']",3,1,Ember Pokemon,0.7,16.0,True,50.0,True,120,Medium Slow,62,73,55,56,52,84,382,Flying,,Fire,Flying,Flame Body,,Gale Wings,False,False,True,2,35.0
+637,Talonflame,"['Ta', 'lon', 'fla', 'me']",4,1,Scorching Pokemon,1.2,24.5,True,50.0,True,45,Medium Slow,78,81,71,74,69,126,499,Flying,,Fire,Flying,Flame Body,,Gale Wings,False,False,True,3,
+638,Scatterbug,"['Scat', 'ter', 'bug']",3,1,Scatterdust Pokemon,0.3,2.5,True,50.0,True,255,Medium Fast,38,35,40,27,25,35,200,Bug,,Bug,,Shield Dust,Compound Eyes,Friend Guard,False,False,True,1,9.0
+639,Spewpa,"['Spew', 'pa']",2,1,Scatterdust Pokemon,0.3,8.4,True,50.0,True,120,Medium Fast,45,22,60,27,30,29,213,Bug,,Bug,,Shed Skin,,Friend Guard,False,False,True,2,12.0
+640,Litleo,"['Li', 'tleo']",2,1,Lion Cub Pokemon,0.6,13.5,True,87.5,True,220,Medium Slow,62,50,58,73,54,72,369,Field,,Fire,Normal,Rivalry,Unnerve,Moxie,False,False,True,1,35.0
+641,Pyroar,"['Py', 'roar']",2,1,Royal Pokemon,1.5,81.5,True,87.5,True,65,Medium Slow,86,68,72,109,66,106,507,Field,,Fire,Normal,Rivalry,Unnerve,Moxie,False,False,True,2,
+642,Skiddo,"['Skid', 'do']",2,1,Mount Pokemon,0.9,31.0,True,50.0,True,200,Medium Fast,66,65,48,62,57,52,350,Field,,Grass,,Sap Sipper,,Grass Pelt,False,False,True,1,32.0
+643,Gogoat,"['Go', 'goat']",2,1,Mount Pokemon,1.7,91.0,True,50.0,True,45,Medium Fast,123,100,62,97,81,68,531,Field,,Grass,,Sap Sipper,,Grass Pelt,False,False,True,2,
+644,Pancham,"['Panc', 'ham']",2,1,Playful Pokemon,0.6,8.0,True,50.0,True,220,Medium Fast,67,82,62,46,48,43,348,Field,Human-Like,Fighting,,Iron Fist,Mold Breaker,Scrappy,False,False,True,1,32.0
+645,Pangoro,"['Pan', 'go', 'ro']",3,1,Daunting Pokemon,2.1,136.0,True,50.0,True,65,Medium Fast,95,124,78,69,71,58,495,Field,Human-Like,Fighting,Dark,Iron Fist,Mold Breaker,Scrappy,False,False,True,2,
+646,Espurr,['Espurr'],1,1,Restraint Pokemon,0.3,3.5,True,50.0,True,190,Medium Fast,62,48,54,63,60,68,355,Field,,Psychic,,Keen Eye,Infiltrator,Own Tempo,False,False,True,1,25.0
+647,Honedge,"['Ho', 'ned', 'ge']",3,1,Sword Pokemon,0.8,2.0,True,50.0,True,180,Medium Fast,45,80,100,35,37,28,325,Mineral,,Steel,Ghost,No Guard,,,False,False,True,1,35.0
+648,Doublade,"['Dou', 'bla', 'de']",3,1,Sword Pokemon,0.8,4.5,True,50.0,True,90,Medium Fast,59,110,150,45,49,35,448,Mineral,,Steel,Ghost,No Guard,,,False,False,True,2,
+649,Spritzee,"['Spri', 'tzee']",2,1,Perfume Pokemon,0.2,0.5,True,50.0,True,200,Medium Fast,78,52,60,63,65,23,341,Fairy,,Fairy,,Healer,,Aroma Veil,False,False,True,1,
+650,Aromatisse,"['Aro', 'ma', 'tis', 'se']",4,1,Fragrance Pokemon,0.8,15.5,True,50.0,True,140,Medium Fast,101,72,72,99,89,29,462,Fairy,,Fairy,,Healer,,Aroma Veil,False,False,True,2,
+651,Swirlix,"['Swir', 'lix']",2,1,Cotton Candy Pokemon,0.4,3.5,True,50.0,True,200,Medium Fast,62,48,66,59,57,49,341,Fairy,,Fairy,,Sweet Veil,,Unburden,False,False,True,1,
+652,Slurpuff,"['Slur', 'puff']",2,1,Meringue Pokemon,0.8,5.0,True,50.0,True,140,Medium Fast,82,80,86,85,75,72,480,Fairy,,Fairy,,Sweet Veil,,Unburden,False,False,True,2,
+653,Inkay,['Inkay'],1,1,Revolving Pokemon,0.4,3.5,True,50.0,True,190,Medium Fast,53,54,53,37,46,45,288,Water 1,Water 2,Dark,Psychic,Contrary,Suction Cups,Infiltrator,False,False,True,1,30.0
+654,Malamar,"['Ma', 'la', 'mar']",3,1,Overturning Pokemon,1.5,47.0,True,50.0,True,80,Medium Fast,86,92,88,68,75,73,482,Water 1,Water 2,Dark,Psychic,Contrary,Suction Cups,Infiltrator,False,False,True,2,
+655,Binacle,"['Bi', 'na', 'cle']",3,1,Two-Handed Pokemon,0.5,31.0,True,50.0,True,120,Medium Fast,42,52,67,39,56,50,306,Water 3,,Rock,Water,Tough Claws,Sniper,Pickpocket,False,False,True,1,39.0
+656,Barbaracle,"['Bar', 'ba', 'ra', 'cle']",4,1,Collective Pokemon,1.3,96.0,True,50.0,True,45,Medium Fast,72,105,115,54,86,68,500,Water 3,,Rock,Water,Tough Claws,Sniper,Pickpocket,False,False,True,2,
+657,Skrelp,['Skrelp'],1,1,Mock Kelp Pokemon,0.5,7.3,True,50.0,True,225,Medium Fast,50,60,60,60,60,30,320,Water 1,Dragon,Poison,Water,Poison Point,Poison Touch,Adaptability,False,False,True,1,48.0
+658,Dragalge,"['Dra', 'gal', 'ge']",3,1,Mock Kelp Pokemon,1.8,81.5,True,50.0,True,55,Medium Fast,65,75,90,97,123,44,494,Water 1,Dragon,Poison,Dragon,Poison Point,Poison Touch,Adaptability,False,False,True,2,
+659,Clauncher,"['Claunc', 'her']",2,1,Water Gun Pokemon,0.5,8.3,True,50.0,True,225,Slow,50,53,62,58,63,44,330,Water 1,Water 3,Water,,Mega Launcher,,,False,False,True,1,37.0
+660,Clawitzer,"['Cla', 'wi', 'tzer']",3,1,Howitzer Pokemon,1.3,35.3,True,50.0,True,55,Slow,71,73,88,120,89,59,500,Water 1,Water 3,Water,,Mega Launcher,,,False,False,True,2,
+661,Helioptile,"['He', 'liop', 'ti', 'le']",4,1,Generator Pokemon,0.5,6.0,True,50.0,True,190,Medium Fast,44,38,33,61,43,70,289,Monster,Dragon,Electric,Normal,Dry Skin,Sand Veil,Solar Power,False,False,True,1,
+662,Heliolisk,"['He', 'lio', 'lisk']",3,1,Generator Pokemon,1.0,21.0,True,50.0,True,75,Medium Fast,62,55,52,109,94,109,481,Monster,Dragon,Electric,Normal,Dry Skin,Sand Veil,Solar Power,False,False,True,2,
+663,Tyrunt,"['Ty', 'runt']",2,1,Royal Heir Pokemon,0.8,26.0,True,12.5,True,45,Medium Fast,58,89,77,45,45,48,362,Monster,Dragon,Rock,Dragon,Strong Jaw,,Sturdy,False,False,True,1,39.0
+664,Tyrantrum,"['Ty', 'ran', 'trum']",3,1,Despot Pokemon,2.5,270.0,True,12.5,True,45,Medium Fast,82,121,119,69,59,71,521,Monster,Dragon,Rock,Dragon,Strong Jaw,,Rock Head,False,False,True,2,
+665,Amaura,"['Amau', 'ra']",2,1,Tundra Pokemon,1.3,25.2,True,12.5,True,45,Medium Fast,77,59,50,67,63,46,362,Monster,,Rock,Ice,Refrigerate,,Snow Warning,False,False,True,1,39.0
+666,Aurorus,"['Au', 'ro', 'rus']",3,1,Tundra Pokemon,2.7,225.0,True,12.5,True,45,Medium Fast,123,77,72,99,92,58,521,Monster,,Rock,Ice,Refrigerate,,Snow Warning,False,False,True,2,
+667,Sylveon,"['Syl', 'veon']",2,1,Intertwining Pokemon,1.0,23.5,True,12.5,True,45,Medium Fast,95,65,65,110,130,60,525,Field,,Fairy,,Cute Charm,,Pixilate,False,False,True,2,
+668,Hawlucha,"['Haw', 'luc', 'ha']",3,1,Wrestling Pokemon,0.8,21.5,True,50.0,True,100,Medium Fast,78,92,75,74,63,118,500,Flying,Gen VIII,Fighting,Flying,Limber,Unburden,Mold Breaker,False,False,False,1,
+669,Dedenne,"['De', 'den', 'ne']",3,1,Antenna Pokemon,0.2,2.2,True,50.0,True,180,Medium Fast,67,58,57,81,67,101,431,Field,Fairy,Electric,Fairy,Cheek Pouch,Pickup,Plus,False,False,False,1,
+670,Carbink,"['Car', 'bink']",2,1,Jewel Pokemon,0.3,5.7,False,0.0,True,60,Slow,50,50,150,50,150,50,500,Fairy,Mineral,Rock,Fairy,Clear Body,,Sturdy,False,False,False,1,
+671,Goomy,"['Goo', 'my']",2,1,Soft Tissue Pokemon,0.3,2.8,True,50.0,True,45,Slow,45,50,35,55,75,40,300,Dragon,,Dragon,,Sap Sipper,Hydration,Gooey,False,False,True,1,40.0
+672,Sliggoo,"['Slig', 'goo']",2,2,Soft Tissue Pokemon,0.8,17.5,True,50.0,True,45,Slow,68,75,53,83,113,60,452,Dragon,,Dragon,,Sap Sipper,Hydration,Gooey,False,False,True,2,50.0
+673,Goodra,"['Goo', 'dra']",2,2,Dragon Pokemon Pokemon,2.0,150.5,True,50.0,True,45,Slow,90,100,70,110,150,80,600,Dragon,,Dragon,,Sap Sipper,Hydration,Gooey,False,False,True,3,
+674,Klefki,"['Klef', 'ki']",2,1,Key Ring Pokemon,0.2,3.0,True,50.0,True,75,Fast,57,80,91,80,87,75,470,Mineral,,Steel,Fairy,Prankster,,Magician,False,False,False,1,
+675,Phantump,"['Phan', 'tump']",2,1,Stump Pokemon,0.4,7.0,True,50.0,True,120,Medium Fast,43,70,48,50,60,38,309,Grass,Amorphous,Ghost,Grass,Natural Cure,Frisk,Harvest,False,False,True,1,
+676,Trevenant,"['Tre', 've', 'nant']",3,1,Elder Tree Pokemon,1.5,71.0,True,50.0,True,60,Medium Fast,85,110,76,65,82,56,474,Grass,Amorphous,Ghost,Grass,Natural Cure,Frisk,Harvest,False,False,True,2,
+677,Pumpkaboo,"['Pump', 'ka', 'boo']",3,1,Pumpkin Pokemon,0.3,3.5,True,50.0,True,120,Medium Fast,44,66,70,44,55,56,335,Amorphous,,Ghost,Grass,Pickup,Frisk,Insomnia,False,False,True,1,
+678,Gourgeist,"['Gour', 'geist']",2,1,Pumpkin Pokemon,0.7,9.5,True,50.0,True,60,Medium Fast,55,85,122,58,75,99,494,Amorphous,,Ghost,Grass,Pickup,Frisk,Insomnia,False,False,True,2,
+679,Bergmite,"['Ber', 'gmi', 'te']",3,1,Ice Chunk Pokemon,1.0,99.5,True,50.0,True,190,Medium Fast,55,69,85,32,35,28,304,Monster,Mineral,Ice,,Own Tempo,Ice Body,Sturdy,False,False,True,1,37.0
+680,Avalugg,"['Ava', 'lugg']",2,2,Iceberg Pokemon,2.0,505.0,True,50.0,True,55,Medium Fast,95,117,184,44,46,28,514,Monster,Mineral,Ice,,Own Tempo,Ice Body,Sturdy,False,False,True,2,
+681,Noibat,"['Noi', 'bat']",2,1,Sound Wave Pokemon,0.5,8.0,True,50.0,True,190,Medium Fast,40,30,35,45,40,55,245,Flying,Dragon,Flying,Dragon,Frisk,Infiltrator,Telepathy,False,False,True,1,48.0
+682,Noivern,"['Noi', 'vern']",2,1,Sound Wave Pokemon,1.5,85.0,True,50.0,True,45,Medium Fast,85,70,80,97,80,123,535,Flying,Dragon,Flying,Dragon,Frisk,Infiltrator,Telepathy,False,False,True,2,
+683,Yveltal,"['Yvel', 'tal']",2,1,Destruction Pokemon,5.8,203.0,False,0.0,False,45,Slow,126,131,95,131,98,99,680,No Eggs Discovered,,Dark,Flying,Dark Aura,,,True,False,False,1,
+684,Diancie,"['Dian', 'cie']",2,1,Jewel Pokemon,0.7,8.8,False,0.0,False,3,Slow,50,100,150,100,150,50,600,No Eggs Discovered,,Rock,Fairy,Clear Body,,,False,True,False,1,
+685,Volcanion,"['Vol', 'ca', 'nion']",3,1,Steam Pokemon,1.7,195.0,False,0.0,False,3,Slow,80,110,120,130,90,70,600,No Eggs Discovered,,Fire,Water,Water Absorb,,,False,True,False,1,
+686,Rowlet,"['Row', 'let']",2,1,Grass Quill Pokemon,0.3,1.5,True,12.5,True,45,Medium Slow,68,55,55,50,50,42,320,Flying,,Grass,Flying,Overgrow,,Long Reach,False,False,True,1,17.0
+687,Dartrix,"['Dar', 'trix']",2,1,Blade Quill Pokemon,0.7,16.0,True,12.5,True,45,Medium Slow,78,75,75,70,70,52,420,Flying,,Grass,Flying,Overgrow,,Long Reach,False,False,True,2,34.0
+688,Decidueye,"['De', 'ci', 'due', 'y', 'e']",5,2,Arrow Quill Pokemon,1.6,36.6,True,12.5,True,45,Medium Slow,78,107,75,100,100,70,530,Flying,,Grass,Ghost,Overgrow,,Long Reach,False,False,True,3,
+689,Litten,"['Lit', 'ten']",2,1,Fire Cat Pokemon,0.4,4.3,True,12.5,True,45,Medium Slow,45,65,40,60,40,70,320,Field,,Fire,,Blaze,,Intimidate,False,False,True,1,17.0
+690,Torracat,"['Tor', 'ra', 'cat']",3,1,Fire Cat Pokemon,0.7,25.0,True,12.5,True,45,Medium Slow,65,85,50,80,50,90,420,Field,,Fire,,Blaze,,Intimidate,False,False,True,2,34.0
+691,Incineroar,"['Inci', 'ne', 'roar']",3,1,Heel Pokemon,1.8,83.0,True,12.5,True,45,Medium Slow,95,115,90,80,90,60,530,Field,,Fire,Dark,Blaze,,Intimidate,False,False,True,3,
+692,Popplio,"['Pop', 'plio']",2,1,Sea Lion Pokemon,0.4,7.5,True,12.5,True,45,Medium Slow,50,54,54,66,56,40,320,Water 1,Field,Water,,Torrent,,Liquid Voice,False,False,True,1,17.0
+693,Brionne,"['Brion', 'ne']",2,1,Pop Star Pokemon,0.6,17.5,True,12.5,True,45,Medium Slow,60,69,69,91,81,50,420,Water 1,Field,Water,,Torrent,,Liquid Voice,False,False,True,2,34.0
+694,Primarina,"['Pri', 'ma', 'ri', 'na']",4,1,Soloist Pokemon,1.8,44.0,True,12.5,True,45,Medium Slow,80,74,74,126,116,60,530,Water 1,Field,Water,Fairy,Torrent,,Liquid Voice,False,False,True,3,
+695,Pikipek,"['Pi', 'ki', 'pek']",3,1,Woodpecker Pokemon,0.3,1.2,True,50.0,True,255,Medium Fast,35,75,30,30,30,65,265,Flying,,Normal,Flying,Keen Eye,Skill Link,Pickup,False,False,True,1,14.0
+696,Trumbeak,"['Trum', 'beak']",2,1,Bugle Beak Pokemon,0.6,14.8,True,50.0,True,120,Medium Fast,55,85,50,40,50,75,355,Flying,,Normal,Flying,Keen Eye,Skill Link,Pickup,False,False,True,2,28.0
+697,Toucannon,"['Tou', 'can', 'non']",3,1,Cannon Pokemon,1.1,26.0,True,50.0,True,45,Medium Fast,80,120,75,75,75,60,485,Flying,,Normal,Flying,Keen Eye,Skill Link,Sheer Force,False,False,True,3,
+698,Yungoos,"['Yun', 'goos']",2,1,Loitering Pokemon,0.4,6.0,True,50.0,True,255,Medium Fast,48,70,30,30,30,45,253,Field,,Normal,,Stakeout,Strong Jaw,Adaptability,False,False,True,1,20.0
+699,Gumshoos,"['Gums', 'hoos']",2,1,Stakeout Pokemon,0.7,14.2,True,50.0,True,127,Medium Fast,88,110,60,55,60,45,418,Field,,Normal,,Stakeout,Strong Jaw,Adaptability,False,False,True,2,
+700,Grubbin,"['Grub', 'bin']",2,1,Larva Pokemon,0.4,4.4,True,50.0,True,255,Medium Fast,47,62,45,55,45,46,300,Bug,,Bug,,Swarm,,,False,False,True,1,20.0
+701,Charjabug,"['Char', 'ja', 'bug']",3,1,Battery Pokemon,0.5,10.5,True,50.0,True,120,Medium Fast,57,82,95,55,75,36,400,Bug,,Bug,Electric,Battery,,,False,False,True,2,
+702,Vikavolt,"['Vi', 'ka', 'volt']",3,1,Stag Beetle Pokemon,1.5,45.0,True,50.0,True,45,Medium Fast,77,70,90,145,75,43,500,Bug,,Bug,Electric,Levitate,,,False,False,True,3,
+703,Crabrawler,"['Cra', 'braw', 'ler']",3,1,Boxing Pokemon,0.6,7.0,True,50.0,True,225,Medium Fast,47,82,57,42,47,63,338,Water 3,,Fighting,,Hyper Cutter,Iron Fist,Anger Point,False,False,True,1,
+704,Crabominable,"['Cra', 'bo', 'mi', 'na', 'ble']",5,1,Woolly Crab Pokemon,1.7,180.0,True,50.0,True,60,Medium Fast,97,132,77,62,67,43,478,Water 3,,Fighting,Ice,Hyper Cutter,Iron Fist,Anger Point,False,False,True,2,
+705,Cutiefly,"['Cu', 'tie', 'fly']",3,1,Bee Fly Pokemon,0.1,0.2,True,50.0,True,190,Medium Fast,40,45,40,55,40,84,304,Bug,Fairy,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,False,False,True,1,25.0
+706,Ribombee,"['Ri', 'bom', 'bee']",3,1,Bee Fly Pokemon,0.2,0.5,True,50.0,True,75,Medium Fast,60,55,60,95,70,124,464,Bug,Fairy,Bug,Fairy,Honey Gather,Shield Dust,Sweet Veil,False,False,True,2,
+707,Rockruff,"['Roc', 'kruff']",2,1,Puppy Pokemon,0.5,9.2,True,50.0,True,190,Medium Fast,45,65,40,30,40,60,280,Field,,Rock,,Keen Eye,Vital Spirit,Steadfast,False,False,True,1,25.0
+708,Mareanie,"['Ma', 'rea', 'nie']",3,1,Brutal Star Pokemon,0.4,8.0,True,50.0,True,190,Medium Fast,50,53,62,43,52,45,305,Water 1,,Poison,Water,Merciless,Limber,Regenerator,False,False,True,1,38.0
+709,Toxapex,"['To', 'xa', 'pex']",3,1,Brutal Star Pokemon,0.7,14.5,True,50.0,True,75,Medium Fast,50,63,152,53,142,35,495,Water 1,,Poison,Water,Merciless,Limber,Regenerator,False,False,True,2,
+710,Mudbray,"['Mud', 'bray']",2,1,Donkey Pokemon,1.0,110.0,True,50.0,True,190,Medium Fast,70,100,70,45,55,45,385,Field,,Ground,,Own Tempo,Stamina,Inner Focus,False,False,True,1,30.0
+711,Mudsdale,"['Muds', 'da', 'le']",3,1,Draft Horse Pokemon,2.5,920.0,True,50.0,True,60,Medium Fast,100,125,100,55,85,35,500,Field,,Ground,,Own Tempo,Stamina,Inner Focus,False,False,True,2,
+712,Dewpider,"['Dew', 'pi', 'der']",3,1,Water Bubble Pokemon,0.3,4.0,True,50.0,True,200,Medium Fast,38,40,52,40,72,27,269,Water 1,Bug,Water,Bug,Water Bubble,,Water Absorb,False,False,True,1,22.0
+713,Araquanid,"['Ara', 'qua', 'nid']",3,1,Water Bubble Pokemon,1.8,82.0,True,50.0,True,100,Medium Fast,68,70,92,50,132,42,454,Water 1,Bug,Water,Bug,Water Bubble,,Water Absorb,False,False,True,2,
+714,Fomantis,"['Fo', 'man', 'tis']",3,1,Sickle Grass Pokemon,0.3,1.5,True,50.0,True,190,Medium Fast,40,55,35,50,35,35,250,Grass,,Grass,,Leaf Guard,,Contrary,False,False,True,1,34.0
+715,Lurantis,"['Lu', 'ran', 'tis']",3,1,Bloom Sickle Pokemon,0.9,18.5,True,50.0,True,75,Medium Fast,70,105,90,80,90,45,480,Grass,,Grass,,Leaf Guard,,Contrary,False,False,True,2,
+716,Morelull,"['Mo', 're', 'lull']",3,1,Illuminating Pokemon,0.2,1.5,True,50.0,True,190,Medium Fast,40,35,55,65,75,15,285,Grass,,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,False,False,True,1,24.0
+717,Shiinotic,"['Shii', 'no', 'tic']",3,1,Illuminating Pokemon,1.0,11.5,True,50.0,True,75,Medium Fast,60,45,80,90,100,30,405,Grass,,Grass,Fairy,Illuminate,Effect Spore,Rain Dish,False,False,True,2,
+718,Salandit,"['Sa', 'lan', 'dit']",3,1,Toxic Lizard Pokemon,0.6,4.8,True,12.5,True,120,Medium Fast,48,44,40,71,40,77,320,Monster,Dragon,Poison,Fire,Corrosion,,Oblivious,False,False,True,1,33.0
+719,Salazzle,"['Sa', 'laz', 'zle']",3,1,Toxic Lizard Pokemon,1.2,22.2,True,100.0,True,45,Medium Fast,68,64,60,111,60,117,480,Monster,Dragon,Poison,Fire,Corrosion,,Oblivious,False,False,True,2,
+720,Stufful,"['Stuf', 'ful']",2,1,Flailing Pokemon,0.5,6.8,True,50.0,True,140,Medium Fast,70,75,50,45,50,50,340,Field,,Normal,Fighting,Fluffy,Klutz,Cute Charm,False,False,True,1,27.0
+721,Bewear,"['Be', 'wear']",2,1,Strong Arm Pokemon,2.1,135.0,True,50.0,True,70,Medium Fast,120,125,80,55,60,60,500,Field,,Normal,Fighting,Fluffy,Klutz,Unnerve,False,False,True,2,
+722,Bounsweet,"['Boun', 'sweet']",2,1,Fruit Pokemon,0.3,3.2,True,100.0,True,235,Medium Slow,42,30,38,30,38,32,210,Grass,,Grass,,Leaf Guard,Oblivious,Sweet Veil,False,False,True,1,18.0
+723,Steenee,"['Stee', 'nee']",2,1,Fruit Pokemon,0.7,8.2,True,100.0,True,120,Medium Slow,52,40,48,40,48,62,290,Grass,,Grass,,Leaf Guard,Oblivious,Sweet Veil,False,False,True,2,
+724,Tsareena,"['Tsa', 'ree', 'na']",3,1,Fruit Pokemon,1.2,21.4,True,100.0,True,45,Medium Slow,72,120,98,50,98,72,510,Grass,,Grass,,Leaf Guard,Queenly Majesty,Sweet Veil,False,False,True,3,
+725,Comfey,"['Com', 'fey']",2,1,Posy Picker Pokemon,0.1,0.3,True,75.0,True,60,Fast,51,52,90,82,110,100,485,Grass,,Fairy,,Flower Veil,Triage,Natural Cure,False,False,False,1,
+726,Oranguru,"['Oran', 'gu', 'ru']",3,1,Sage Pokemon,1.5,76.0,True,50.0,True,45,Slow,90,60,80,90,110,60,490,Field,,Normal,Psychic,Inner Focus,Telepathy,Symbiosis,False,False,False,1,
+727,Passimian,"['Pas', 'si', 'mian']",3,1,Teamwork Pokemon,2.0,82.8,True,50.0,True,45,Slow,100,120,90,40,60,80,490,Field,,Fighting,,Receiver,,Defiant,False,False,False,1,
+728,Wimpod,"['Wim', 'pod']",2,1,Turn Tail Pokemon,0.5,12.0,True,50.0,True,90,Medium Fast,25,35,40,20,30,80,230,Bug,Water 3,Bug,Water,Wimp Out,,,False,False,True,1,30.0
+729,Golisopod,"['Go', 'li', 'so', 'pod']",4,1,Hard Scale Pokemon,2.0,108.0,True,50.0,True,45,Medium Fast,75,125,140,60,90,40,530,Bug,Water 3,Bug,Water,Emergency Exit,,,False,False,True,2,
+730,Sandygast,"['San', 'dy', 'gast']",3,1,Sand Heap Pokemon,0.5,70.0,True,50.0,True,140,Medium Fast,55,55,80,70,45,15,320,Amorphous,,Ghost,Ground,Water Compaction,,Sand Veil,False,False,True,1,42.0
+731,Palossand,"['Pa', 'los', 'sand']",3,1,Sand Castle Pokemon,1.3,250.0,True,50.0,True,60,Medium Fast,85,75,110,100,75,35,480,Amorphous,,Ghost,Ground,Water Compaction,,Sand Veil,False,False,True,2,
+732,Pyukumuku,"['Pyu', 'ku', 'mu', 'ku']",4,1,Sea Cucumber Pokemon,0.3,1.2,True,50.0,True,60,Fast,55,60,130,30,130,5,410,Water 1,,Water,,Innards Out,,Unaware,False,False,False,1,
+733,Komala,"['Ko', 'ma', 'la']",3,1,Drowsing Pokemon,0.4,19.9,True,50.0,True,45,Slow,65,115,65,75,95,65,480,Field,,Normal,,Comatose,,,False,False,False,1,
+734,Turtonator,"['Tur', 'to', 'na', 'tor']",4,1,Blast Turtle Pokemon,2.0,212.0,True,50.0,True,70,Medium Fast,60,78,135,91,85,36,485,Monster,Dragon,Fire,Dragon,Shell Armor,,,False,False,False,1,
+735,Togedemaru,"['To', 'ge', 'de', 'ma', 'ru']",5,1,Roly-Poly Pokemon,0.3,3.3,True,50.0,True,180,Medium Fast,65,98,63,40,73,96,435,Field,Fairy,Electric,Steel,Iron Barbs,Lightning Rod,Sturdy,False,False,False,1,
+736,Bruxish,"['Bru', 'xish']",2,1,Gnash Teeth Pokemon,0.9,19.0,True,50.0,True,80,Medium Fast,68,105,70,70,70,92,475,Water 2,,Water,Psychic,Dazzling,Strong Jaw,Wonder Skin,False,False,False,1,
+737,Drampa,"['Dram', 'pa']",2,1,Placid Pokemon,3.0,185.0,True,50.0,True,70,Medium Fast,78,60,85,135,91,36,485,Monster,Dragon,Normal,Dragon,Berserk,Sap Sipper,Cloud Nine,False,False,False,1,
+738,Dhelmise,"['Dhel', 'mi', 'se']",3,1,Sea Creeper Pokemon,3.9,210.0,False,0.0,True,25,Medium Fast,70,131,100,86,90,40,517,Mineral,,Ghost,Grass,Steelworker,,,False,False,False,1,
+739,Jangmo-o,"['Jan', 'gmo', 'o']",3,1,Scaly Pokemon,0.6,29.7,True,50.0,True,45,Slow,45,55,65,45,45,45,300,Dragon,,Dragon,,Bulletproof,Soundproof,Overcoat,False,False,True,1,35.0
+740,Hakamo-o,"['Ha', 'ka', 'mo', 'o']",4,1,Scaly Pokemon,1.2,47.0,True,50.0,True,45,Slow,55,75,90,65,70,65,420,Dragon,,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,False,False,True,2,45.0
+741,Kommo-o,"['Kom', 'mo', 'o']",3,1,Scaly Pokemon,1.6,78.2,True,50.0,True,45,Slow,75,110,125,100,105,85,600,Dragon,,Dragon,Fighting,Bulletproof,Soundproof,Overcoat,False,False,True,3,
+742,Tapu Koko,"['Ta', 'pu', 'Ko', 'ko']",4,1,Land Spirit Pokemon,1.8,20.5,False,0.0,False,3,Slow,70,115,85,95,75,130,570,No Eggs Discovered,,Electric,Fairy,Electric Surge,,Telepathy,True,False,False,1,
+743,Tapu Lele,"['Ta', 'pu', 'Le', 'le']",4,1,Land Spirit Pokemon,1.2,18.6,False,0.0,False,3,Slow,70,85,75,130,115,95,570,No Eggs Discovered,,Psychic,Fairy,Psychic Surge,,Telepathy,True,False,False,1,
+744,Tapu Bulu,"['Ta', 'pu', 'Bu', 'lu']",4,1,Land Spirit Pokemon,1.9,45.5,False,0.0,False,3,Slow,70,130,115,85,95,75,570,No Eggs Discovered,,Grass,Fairy,Grassy Surge,,Telepathy,True,False,False,1,
+745,Tapu Fini,"['Ta', 'pu', 'Fi', 'ni']",4,1,Land Spirit Pokemon,1.3,21.2,False,0.0,False,3,Slow,70,75,115,95,130,85,570,No Eggs Discovered,,Water,Fairy,Misty Surge,,Telepathy,True,False,False,1,
+746,Cosmog,"['Co', 'smog']",2,1,Nebula Pokemon,0.2,0.1,False,0.0,False,3,Slow,43,29,31,29,31,37,200,No Eggs Discovered,,Psychic,,Unaware,,,True,False,True,1,43.0
+747,Cosmoem,"['Co', 'smoem']",2,1,Protostar Pokemon,0.1,999.9,False,0.0,False,3,Slow,43,29,131,29,131,37,400,No Eggs Discovered,,Psychic,,Sturdy,,,True,False,True,2,53.0
+748,Solgaleo,"['Sol', 'ga', 'leo']",3,1,Sunne Pokemon,3.4,230.0,False,0.0,False,3,Slow,137,137,107,113,89,97,680,No Eggs Discovered,,Psychic,Steel,Full Metal Body,,,True,False,True,3,
+749,Lunala,"['Lu', 'na', 'la']",3,1,Moone Pokemon,4.0,120.0,False,0.0,False,3,Slow,137,113,89,137,107,97,680,No Eggs Discovered,,Psychic,Ghost,Shadow Shield,,,True,False,True,3,
+750,Nihilego,"['Ni', 'hi', 'le', 'go']",4,1,Parasite Pokemon,1.2,55.5,False,0.0,False,45,Slow,109,53,47,127,131,103,570,No Eggs Discovered,,Rock,Poison,Beast Boost,,,False,False,False,1,
+751,Buzzwole,"['Buz', 'zwo', 'le']",3,1,Swollen Pokemon,2.4,333.6,False,0.0,False,45,Slow,107,139,139,53,53,79,570,No Eggs Discovered,,Bug,Fighting,Beast Boost,,,False,False,False,1,
+752,Pheromosa,"['Phe', 'ro', 'mo', 'sa']",4,1,Lissome Pokemon,1.8,25.0,False,0.0,False,45,Slow,71,137,37,137,37,151,570,No Eggs Discovered,,Bug,Fighting,Beast Boost,,,False,False,False,1,
+753,Xurkitree,"['Xur', 'ki', 'tree']",3,1,Glowing Pokemon,3.8,100.0,False,0.0,False,45,Slow,83,89,71,173,71,83,570,No Eggs Discovered,,Electric,,Beast Boost,,,False,False,False,1,
+754,Celesteela,"['Ce', 'les', 'tee', 'la']",4,1,Launch Pokemon,9.2,999.9,False,0.0,False,45,Slow,97,101,103,107,101,61,570,No Eggs Discovered,,Steel,Flying,Beast Boost,,,False,False,False,1,
+755,Kartana,"['Kar', 'ta', 'na']",3,1,Drawn Sword Pokemon,0.3,0.1,False,0.0,False,45,Slow,59,181,131,59,31,109,570,No Eggs Discovered,,Grass,Steel,Beast Boost,,,False,False,False,1,
+756,Guzzlord,"['Guz', 'zlord']",2,1,Junkivore Pokemon,5.5,888.0,False,0.0,False,45,Slow,223,101,53,97,53,43,570,No Eggs Discovered,,Dark,Dragon,Beast Boost,,,False,False,False,1,
+757,Necrozma,"['Ne', 'cro', 'zma']",3,3,Prism Pokemon,2.4,230.0,False,0.0,False,3,Slow,97,107,101,127,89,79,600,No Eggs Discovered,,Psychic,,Prism Armor,,,True,False,False,1,
+758,Magearna,"['Ma', 'gear', 'na']",3,1,Artificial Pokemon,1.0,80.5,False,0.0,False,3,Slow,80,95,115,130,115,65,600,No Eggs Discovered,,Steel,Fairy,Soul-Heart,,,False,True,False,1,
+759,Marshadow,"['Mars', 'ha', 'dow']",3,1,Gloomdweller Pokemon,0.7,22.2,False,0.0,False,3,Slow,90,125,80,90,90,125,600,No Eggs Discovered,,Fighting,Ghost,Technician,,,False,True,False,1,
+760,Poipole,"['Poi', 'po', 'le']",3,1,Poison Pin Pokemon,0.6,1.8,False,0.0,False,45,Slow,67,73,67,73,67,73,420,No Eggs Discovered,,Poison,,Beast Boost,,,False,False,True,1,
+761,Naganadel,"['Na', 'ga', 'na', 'del']",4,1,Poison Pin Pokemon,3.6,150.0,False,0.0,False,45,Slow,73,73,73,127,73,121,540,No Eggs Discovered,,Poison,Dragon,Beast Boost,,,False,False,True,2,
+762,Stakataka,"['Sta', 'ka', 'ta', 'ka']",4,1,Rampart Pokemon,5.5,820.0,False,0.0,False,30,Slow,61,131,211,53,101,13,570,No Eggs Discovered,,Rock,Steel,Beast Boost,,,False,False,False,1,
+763,Blacephalon,"['Bla', 'cep', 'ha', 'lon']",4,1,Fireworks Pokemon,1.8,13.0,False,0.0,False,30,Slow,53,127,53,151,79,107,570,No Eggs Discovered,,Fire,Ghost,Beast Boost,,,False,False,False,1,
+764,Zeraora,"['Ze', 'rao', 'ra']",3,1,Thunderclap Pokemon,1.5,44.5,False,0.0,False,3,Slow,88,112,75,102,80,143,600,No Eggs Discovered,,Electric,,Volt Absorb,,,False,True,False,1,
+765,Meltan,"['Mel', 'tan']",2,1,Hex Nut Pokemon,0.2,8.0,False,0.0,False,3,Slow,46,65,65,55,35,34,300,No Eggs Discovered,,Steel,,Magnet Pull,,,False,True,True,1,
+766,Melmetal,"['Mel', 'me', 'tal']",3,1,Hex Nut Pokemon,2.5,800.0,False,0.0,False,3,Slow,135,143,143,80,65,34,600,No Eggs Discovered,,Steel,,Iron Fist,,,False,True,True,2,
+767,Grookey,"['Groo', 'key']",2,1,Chimp Pokemon,0.3,5.0,True,12.5,True,45,Medium Slow,50,65,50,40,40,65,310,Field,Grass,Grass,,Overgrow,,Grassy Surge,False,False,True,1,16.0
+768,Thwackey,"['Thwac', 'key']",2,1,Beat Pokemon,0.7,14.0,True,12.5,True,45,Medium Slow,70,85,70,55,60,80,420,Field,Grass,Grass,,Overgrow,,Grassy Surge,False,False,True,2,35.0
+769,Rillaboom,"['Ril', 'la', 'boom']",3,1,Drummer Pokemon,2.1,90.0,True,12.5,True,45,Medium Slow,100,125,90,60,70,85,530,Field,Grass,Grass,,Overgrow,,Grassy Surge,False,False,True,3,
+770,Scorbunny,"['Scor', 'bun', 'ny']",3,1,Rabbit Pokemon,0.3,4.5,True,12.5,True,45,Medium Slow,50,71,40,40,40,69,310,Field,Human-Like,Fire,,Blaze,,Libero,False,False,True,1,16.0
+771,Raboot,"['Ra', 'boot']",2,1,Rabbit Pokemon,0.6,9.0,True,12.5,True,45,Medium Slow,65,86,60,55,60,94,420,Field,Human-Like,Fire,,Blaze,,Libero,False,False,True,2,35.0
+772,Cinderace,"['Cin', 'de', 'ra', 'ce']",4,1,Striker Pokemon,1.4,33.0,True,12.5,True,45,Medium Slow,80,116,75,65,75,119,530,Field,Human-Like,Fire,,Blaze,,Libero,False,False,True,3,
+773,Sobble,"['Sob', 'ble']",2,1,Water Lizard Pokemon,0.3,4.0,True,12.5,True,45,Medium Slow,50,40,40,70,40,70,310,Water 1,Field,Water,,Torrent,,Sniper,False,False,True,1,16.0
+774,Drizzile,"['Driz', 'zi', 'le']",3,1,Water Lizard Pokemon,0.7,11.5,True,12.5,True,45,Medium Slow,65,60,55,95,55,90,420,Water 1,Field,Water,,Torrent,,Sniper,False,False,True,2,35.0
+775,Inteleon,"['Inte', 'leon']",2,1,Secret Agent Pokemon,1.9,45.2,True,12.5,True,45,Medium Slow,70,85,65,125,65,120,530,Water 1,Field,Water,,Torrent,,Sniper,False,False,True,3,
+776,Skwovet,"['Skwo', 'vet']",2,1,Cheeky Pokemon,0.3,2.5,True,50.0,True,255,Medium Fast,70,55,55,35,35,25,275,Field,,Normal,,Cheek Pouch,,Gluttony,False,False,True,1,24.0
+777,Greedent,"['Gree', 'dent']",2,1,Greedy Pokemon,0.6,6.0,True,50.0,True,90,Medium Fast,120,95,95,55,75,20,460,Field,,Normal,,Cheek Pouch,,Gluttony,False,False,True,2,
+778,Rookidee,"['Roo', 'ki', 'dee']",3,1,Tiny Bird Pokemon,0.2,1.8,True,50.0,True,255,Medium Slow,38,47,35,33,35,57,245,Flying,,Flying,,Keen Eye,Unnerve,Big Pecks,False,False,True,1,18.0
+779,Corvisquire,"['Cor', 'vis', 'qui', 're']",4,1,Raven Pokemon,0.8,16.0,True,50.0,True,120,Medium Slow,68,67,55,43,55,77,365,Flying,,Flying,,Keen Eye,Unnerve,Big Pecks,False,False,True,2,38.0
+780,Corviknight,"['Cor', 'vi', 'knight']",3,1,Raven Pokemon,2.2,75.0,True,50.0,True,45,Medium Slow,98,87,105,53,85,67,495,Flying,,Flying,Steel,Pressure,Unnerve,Mirror Armor,False,False,True,3,
+781,Blipbug,"['Blip', 'bug']",2,1,Larva Pokemon,0.4,8.0,True,50.0,True,255,Medium Fast,25,20,20,25,45,45,180,Bug,,Bug,,Swarm,Compound Eyes,Telepathy,False,False,True,1,10.0
+782,Dottler,"['Dot', 'tler']",2,1,Radome Pokemon,0.4,19.5,True,50.0,True,120,Medium Fast,50,35,80,50,90,30,335,Bug,,Bug,Psychic,Swarm,Compound Eyes,Telepathy,False,False,True,2,30.0
+783,Orbeetle,"['Orbee', 'tle']",2,1,Seven Spot Pokemon,0.4,40.8,True,50.0,True,45,Medium Fast,60,45,110,80,120,90,505,Bug,,Bug,Psychic,Swarm,Frisk,Telepathy,False,False,True,3,
+784,Nickit,"['Nic', 'kit']",2,1,Fox Pokemon,0.6,8.9,True,50.0,True,255,Fast,40,28,28,47,52,50,245,Field,,Dark,,Run Away,Unburden,Stakeout,False,False,True,1,18.0
+785,Thievul,"['Thie', 'vul']",2,1,Fox Pokemon,1.2,19.9,True,50.0,True,127,Fast,70,58,58,87,92,90,455,Field,,Dark,,Run Away,Unburden,Stakeout,False,False,True,2,
+786,Gossifleur,"['Gos', 'si', 'fleur']",3,1,Flowering Pokemon,0.4,2.2,True,50.0,True,190,Medium Fast,40,40,60,40,60,10,250,Grass,,Grass,,Cotton Down,Regenerator,Effect Spore,False,False,True,1,20.0
+787,Eldegoss,"['Elde', 'goss']",2,1,Cotton Bloom Pokemon,0.5,2.5,True,50.0,True,75,Medium Fast,60,50,90,80,120,60,460,Grass,,Grass,,Cotton Down,Regenerator,Effect Spore,False,False,True,2,
+788,Wooloo,"['Woo', 'loo']",2,1,Sheep Pokemon,0.6,6.0,True,50.0,True,255,Medium Fast,42,40,55,40,45,48,270,Field,,Normal,,Fluffy,Run Away,Bulletproof,False,False,True,1,24.0
+789,Dubwool,"['Du', 'bwool']",2,1,Sheep Pokemon,1.3,43.0,True,50.0,True,127,Medium Fast,72,80,100,60,90,88,490,Field,,Normal,,Fluffy,Steadfast,Bulletproof,False,False,True,2,
+790,Chewtle,"['Chew', 'tle']",2,1,Snapping Pokemon,0.3,8.5,True,50.0,True,255,Medium Fast,50,64,50,38,38,44,284,Monster,Water 1,Water,,Strong Jaw,Shell Armor,Swift Swim,False,False,True,1,22.0
+791,Drednaw,"['Dre', 'dnaw']",2,1,Bite Pokemon,1.0,115.5,True,50.0,True,75,Medium Fast,90,115,90,48,68,74,485,Monster,Water 1,Water,Rock,Strong Jaw,Shell Armor,Swift Swim,False,False,True,2,
+792,Yamper,"['Yam', 'per']",2,1,Puppy Pokemon,0.3,13.5,True,50.0,True,255,Fast,59,45,50,40,50,26,270,Field,,Electric,,Ball Fetch,,Rattled,False,False,True,1,25.0
+793,Boltund,"['Bol', 'tund']",2,1,Dog Pokemon,1.0,34.0,True,50.0,True,45,Fast,69,90,60,90,60,121,490,Field,,Electric,,Strong Jaw,,Competitive,False,False,True,2,
+794,Rolycoly,"['Ro', 'ly', 'co', 'ly']",4,1,Coal Pokemon,0.3,12.0,True,50.0,True,255,Medium Slow,30,40,50,40,50,30,240,Mineral,,Rock,,Steam Engine,Heatproof,Flash Fire,False,False,True,1,18.0
+795,Carkol,"['Car', 'kol']",2,1,Coal Pokemon,1.1,78.0,True,50.0,True,120,Medium Slow,80,60,90,60,70,50,410,Mineral,,Rock,Fire,Steam Engine,Flame Body,Flash Fire,False,False,True,2,34.0
+796,Coalossal,"['Coa', 'los', 'sal']",3,1,Coal Pokemon,2.8,310.5,True,50.0,True,45,Medium Slow,110,80,120,80,90,30,510,Mineral,,Rock,Fire,Steam Engine,Flame Body,Flash Fire,False,False,True,3,
+797,Applin,['Applin'],1,1,Apple Core Pokemon,0.2,0.5,True,50.0,True,255,Erratic,40,40,80,40,40,20,260,Grass,Dragon,Grass,Dragon,Ripen,Gluttony,Bulletproof,False,False,True,1,
+798,Flapple,"['Flap', 'ple']",2,1,Apple Wing Pokemon,0.3,1.0,True,50.0,True,45,Erratic,70,110,80,95,60,70,485,Grass,Dragon,Grass,Dragon,Ripen,Gluttony,Hustle,False,False,True,2,
+799,Appletun,"['Apple', 'tun']",2,1,Apple Nectar Pokemon,0.4,13.0,True,50.0,True,45,Erratic,110,85,80,100,80,30,485,Grass,Dragon,Grass,Dragon,Ripen,Gluttony,Thick Fat,False,False,True,2,
+800,Silicobra,"['Si', 'li', 'co', 'bra']",4,1,Sand Snake Pokemon,2.2,7.6,True,50.0,True,255,Medium Fast,52,57,75,35,50,46,315,Field,Dragon,Ground,,Sand Spit,Shed Skin,Sand Veil,False,False,True,1,36.0
+801,Sandaconda,"['San', 'da', 'con', 'da']",4,1,Sand Snake Pokemon,3.8,65.5,True,50.0,True,120,Medium Fast,72,107,125,65,70,71,510,Field,Dragon,Ground,,Sand Spit,Shed Skin,Sand Veil,False,False,True,2,
+802,Cramorant,"['Cra', 'mo', 'rant']",3,3,Gulp Pokemon,0.8,18.0,True,50.0,True,45,Medium Fast,70,85,55,85,95,85,475,Water 1,Flying,Flying,Water,Gulp Missile,,,False,False,False,1,
+803,Arrokuda,"['Arro', 'ku', 'da']",3,1,Rush Pokemon,0.5,1.0,True,50.0,True,255,Slow,41,63,40,40,30,66,280,Water 2,,Water,,Swift Swim,,Propeller Tail,False,False,True,1,26.0
+804,Barraskewda,"['Bar', 'ras', 'kew', 'da']",4,1,Skewer Pokemon,1.3,30.0,True,50.0,True,60,Slow,61,123,60,60,50,136,490,Water 2,,Water,,Swift Swim,,Propeller Tail,False,False,True,2,
+805,Toxel,"['To', 'xel']",2,1,Baby Pokemon,0.4,11.0,True,50.0,True,75,Medium Slow,40,38,35,54,35,40,242,No Eggs Discovered,,Electric,Poison,Rattled,Static,Klutz,False,False,True,1,30.0
+806,Sizzlipede,"['Siz', 'zli', 'pe', 'de']",4,1,Radiator Pokemon,0.7,1.0,True,50.0,True,190,Medium Fast,50,65,45,50,50,45,305,Bug,,Fire,Bug,Flash Fire,White Smoke,Flame Body,False,False,True,1,28.0
+807,Centiskorch,"['Cen', 'tis', 'korch']",3,1,Radiator Pokemon,3.0,120.0,True,50.0,True,75,Medium Fast,100,115,65,90,90,65,525,Bug,,Fire,Bug,Flash Fire,White Smoke,Flame Body,False,False,True,2,
+808,Clobbopus,"['Clob', 'bo', 'pus']",3,1,Tantrum Pokemon,0.6,4.0,True,50.0,True,180,Medium Slow,50,68,60,50,50,32,310,Water 1,Human-Like,Fighting,,Limber,,Technician,False,False,True,1,
+809,Grapploct,"['Grap', 'ploct']",2,1,Jujitsu Pokemon,1.6,39.0,True,50.0,True,45,Medium Slow,80,118,90,70,80,42,480,Water 1,Human-Like,Fighting,,Limber,,Technician,False,False,True,2,
+810,Sinistea,"['Si', 'nis', 'tea']",3,1,Black Tea Pokemon,0.1,0.2,False,0.0,True,120,Medium Fast,40,45,45,74,54,50,308,Mineral,Amorphous,Ghost,,Weak Armor,,Cursed Body,False,False,True,1,
+811,Polteageist,"['Pol', 'tea', 'geist']",3,1,Black Tea Pokemon,0.2,0.4,False,0.0,True,60,Medium Fast,60,65,65,134,114,70,508,Mineral,Amorphous,Ghost,,Weak Armor,,Cursed Body,False,False,True,2,
+812,Hatenna,"['Ha', 'ten', 'na']",3,1,Calm Pokemon,0.4,3.4,True,100.0,True,235,Slow,42,30,45,56,53,39,265,Fairy,,Psychic,,Healer,Anticipation,Magic Bounce,False,False,True,1,32.0
+813,Hattrem,"['Hat', 'trem']",2,1,Serene Pokemon,0.6,4.8,True,100.0,True,120,Slow,57,40,65,86,73,49,370,Fairy,,Psychic,,Healer,Anticipation,Magic Bounce,False,False,True,2,42.0
+814,Hatterene,"['Hat', 'te', 're', 'ne']",4,1,Silent Pokemon,2.1,5.1,True,100.0,True,45,Slow,57,90,95,136,103,29,510,Fairy,,Psychic,Fairy,Healer,Anticipation,Magic Bounce,False,False,True,3,
+815,Impidimp,"['Impi', 'dimp']",2,1,Wily Pokemon,0.4,5.5,True,0.0,True,255,Medium Fast,45,45,30,55,40,50,265,Fairy,Human-Like,Dark,Fairy,Prankster,Frisk,Pickpocket,False,False,True,1,32.0
+816,Morgrem,"['Mor', 'grem']",2,1,Devious Pokemon,0.8,12.5,True,0.0,True,120,Medium Fast,65,60,45,75,55,70,370,Fairy,Human-Like,Dark,Fairy,Prankster,Frisk,Pickpocket,False,False,True,2,42.0
+817,Grimmsnarl,"['Grimm', 'snarl']",2,1,Bulk Up Pokemon,1.5,61.0,True,0.0,True,45,Medium Fast,95,120,65,95,75,60,510,Fairy,Human-Like,Dark,Fairy,Prankster,Frisk,Pickpocket,False,False,True,3,
+818,Obstagoon,"['Obsta', 'goon']",2,1,Blocking Pokemon,1.6,46.0,True,50.0,True,45,Medium Fast,93,90,101,60,81,95,520,Field,,Dark,Normal,Reckless,Guts,Defiant,False,False,True,3,
+819,Perrserker,"['Perr', 'ser', 'ker']",3,1,Viking Pokemon,0.8,28.0,True,50.0,True,90,Medium Fast,70,110,100,50,60,50,440,Field,,Steel,,Battle Armor,Tough Claws,Steely Spirit,False,False,True,2,
+820,Cursola,"['Cur', 'so', 'la']",3,1,Coral Pokemon,1.0,0.4,True,75.0,True,30,Fast,60,95,50,145,130,30,510,Water 1,Water 3,Ghost,,Weak Armor,,Perish Body,False,False,True,2,
+821,Mr. Rime,"['Mr.Ri', 'me']",2,1,Comedian Pokemon,1.5,58.2,True,50.0,True,45,Medium Fast,80,85,75,110,100,70,520,Human-Like,,Ice,Psychic,Tangled Feet,Screen Cleaner,Ice Body,False,False,True,3,
+822,Runerigus,"['Ru', 'ne', 'ri', 'gus']",4,1,Grudge Pokemon,1.6,66.6,True,50.0,True,90,Medium Fast,58,95,145,50,105,30,483,Mineral,Amorphous,Ground,Ghost,Wandering Spirit,,,False,False,True,2,
+823,Milcery,"['Mil', 'ce', 'ry']",3,1,Cream Pokemon,0.2,0.3,True,100.0,True,200,Medium Fast,45,40,40,50,61,34,270,Fairy,Amorphous,Fairy,,Sweet Veil,,Aroma Veil,False,False,True,1,
+824,Falinks,"['Fa', 'links']",2,1,Formation Pokemon,3.0,62.0,False,0.0,True,45,Medium Fast,65,100,100,70,60,75,470,Fairy,Mineral,Fighting,,Battle Armor,,Defiant,False,False,False,1,
+825,Pincurchin,"['Pin', 'curc', 'hin']",3,1,Sea Urchin Pokemon,0.3,1.0,True,50.0,True,75,Medium Fast,48,101,95,91,85,15,435,Water 1,Amorphous,Electric,,Lightning Rod,,Electric Surge,False,False,False,1,
+826,Snom,['Snom'],1,1,Worm Pokemon,0.3,3.8,True,50.0,True,190,Medium Fast,30,25,35,45,30,20,185,Bug,,Ice,Bug,Shield Dust,,Ice Scales,False,False,True,1,
+827,Frosmoth,"['Fro', 'smoth']",2,1,Frost Moth Pokemon,1.3,42.0,True,50.0,True,75,Medium Fast,70,65,60,125,90,65,475,Bug,,Ice,Bug,Shield Dust,,Ice Scales,False,False,True,2,
+828,Stonjourner,"['Ston', 'jour', 'ner']",3,1,Big Rock Pokemon,2.5,520.0,True,50.0,True,60,Slow,100,125,135,20,20,70,470,Mineral,,Rock,,Power Spot,,,False,False,False,1,
+829,Cufant,"['Cu', 'fant']",2,1,Copperderm Pokemon,1.2,100.0,True,50.0,True,190,Medium Fast,72,80,49,40,49,40,330,Field,Mineral,Steel,,Sheer Force,,Heavy Metal,False,False,True,1,34.0
+830,Copperajah,"['Cop', 'pe', 'ra', 'jah']",4,1,Copperderm Pokemon,3.0,650.0,True,50.0,True,90,Medium Fast,122,130,69,80,69,30,500,Field,Mineral,Steel,,Sheer Force,,Heavy Metal,False,False,True,2,
+831,Dracozolt,"['Dra', 'co', 'zolt']",3,1,Fossil Pokemon,1.8,190.0,False,0.0,False,45,Slow,90,100,90,80,70,75,505,No Eggs Discovered,,Electric,Dragon,Volt Absorb,Hustle,Sand Rush,False,False,False,1,
+832,Arctozolt,"['Arcto', 'zolt']",2,1,Fossil Pokemon,2.3,150.0,False,0.0,False,45,Slow,90,100,90,90,80,55,505,No Eggs Discovered,,Electric,Ice,Volt Absorb,Static,Slush Rush,False,False,False,1,
+833,Dracovish,"['Dra', 'co', 'vish']",3,1,Fossil Pokemon,2.3,215.0,False,0.0,False,45,Slow,90,90,100,70,80,75,505,No Eggs Discovered,,Water,Dragon,Water Absorb,Strong Jaw,Sand Rush,False,False,False,1,
+834,Arctovish,"['Arcto', 'vish']",2,1,Fossil Pokemon,2.0,175.0,False,0.0,False,45,Slow,90,90,100,80,90,55,505,No Eggs Discovered,,Water,Ice,Water Absorb,Ice Body,Slush Rush,False,False,False,1,
+835,Duraludon,"['Du', 'ra', 'lu', 'don']",4,1,Alloy Pokemon,1.8,40.0,True,50.0,True,45,Medium Fast,70,95,115,120,50,85,535,Mineral,Dragon,Steel,Dragon,Light Metal,Heavy Metal,Stalwart,False,False,True,1,
+836,Dreepy,"['Dree', 'py']",2,1,Lingering Pokemon,0.5,2.0,True,50.0,True,45,Slow,28,60,30,40,30,82,270,Amorphous,Dragon,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,False,False,True,1,50.0
+837,Drakloak,"['Dra', 'kloak']",2,1,Caretaker Pokemon,1.4,11.0,True,50.0,True,45,Slow,68,80,50,60,50,102,410,Amorphous,Dragon,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,False,False,True,2,60.0
+838,Dragapult,"['Dra', 'ga', 'pult']",3,1,Stealth Pokemon,3.0,50.0,True,50.0,True,45,Slow,88,120,75,100,75,142,600,Amorphous,Dragon,Dragon,Ghost,Clear Body,Infiltrator,Cursed Body,False,False,True,3,
+839,Eternatus,"['Eter', 'na', 'tus']",3,1,Gigantic Pokemon,20.0,950.0,False,0.0,False,255,Slow,140,85,95,145,95,130,690,No Eggs Discovered,,Poison,Dragon,Pressure,,,True,False,False,1,
+840,Kubfu,"['Ku', 'bfu']",2,1,Wushu Pokemon,0.6,12.0,True,12.5,False,3,Slow,60,90,60,53,50,72,385,No Eggs Discovered,,Fighting,,Inner Focus,,,True,False,True,1,
+841,Zarude,"['Za', 'ru', 'de']",3,1,Rogue Monkey Pokemon,1.8,70.0,False,0.0,False,3,Slow,105,120,105,70,95,105,600,No Eggs Discovered,,Dark,Grass,Leaf Guard,,,False,True,False,1,
+842,Regieleki,"['Re', 'gie', 'le', 'ki']",4,1,Electron Pokemon,1.2,145.0,False,0.0,False,3,Slow,80,100,50,100,50,200,580,No Eggs Discovered,,Electric,,Transistor,,,True,False,False,1,
+843,Regidrago,"['Re', 'gi', 'dra', 'go']",4,1,Dragon Orb Pokemon,2.1,200.0,False,0.0,False,3,Slow,200,100,50,100,50,80,580,No Eggs Discovered,,Dragon,,Dragon's Maw,,,True,False,False,1,
+844,Glastrier,"['Glas', 'trier']",2,1,Wild Horse Pokemon,2.2,800.0,False,0.0,False,3,Slow,100,145,130,65,110,30,580,No Eggs Discovered,,Ice,,Chilling Neigh,,,True,False,False,1,
+845,Spectrier,"['Spec', 'trier']",2,1,Swift Horse Pokemon,2.0,44.5,False,0.0,False,3,Slow,100,65,60,145,80,130,580,No Eggs Discovered,,Ghost,,Grim Neigh,,,True,False,False,1,
+846,Calyrex,"['Ca', 'ly', 'rex']",3,3,King Pokemon,1.1,7.7,False,0.0,False,3,Slow,100,80,80,80,80,80,500,No Eggs Discovered,,Psychic,Grass,Unnerve,,,True,False,False,1,
+847,Wyrdeer,"['Wyr', 'deer']",2,1,Big Horn Pokemon,1.8,95.1,True,50.0,True,45,Slow,103,105,72,105,75,65,525,Field,,Normal,Psychic,Intimidate,Frisk,Sap Sipper,False,False,True,2,
+848,Kleavor,"['Klea', 'vor']",2,1,Axe Pokemon,1.8,89.0,True,50.0,True,15,Medium Fast,70,135,95,45,70,85,500,Bug,,Bug,Rock,Swarm,Sheer Force,Sharpness,False,False,True,2,
+849,Ursaluna,"['Ursa', 'lu', 'na']",3,1,Peat Pokemon,2.4,290.0,True,50.0,True,20,Medium Fast,130,140,105,45,80,50,550,Field,,Ground,Normal,Guts,Bulletproof,Unnerve,False,False,True,3,
+850,Sneasler,"['Snea', 'sler']",2,1,Free Climb Pokemon,1.3,43.0,True,50.0,True,20,Medium Slow,80,130,60,40,80,120,510,Field,,Fighting,Poison,Pressure,Unburden,Poison Touch,False,False,True,2,
+851,Overqwil,"['Over', 'qwil']",2,1,Pin Cluster Pokemon,2.5,60.5,True,50.0,True,45,Medium Fast,85,115,95,65,65,85,510,Water 2,,Dark,Poison,Poison Point,Swift Swim,Intimidate,False,False,True,2,
+852,Sprigatito,"['Spri', 'ga', 'ti', 'to']",4,1,Grass Cat Pokemon,0.4,4.1,True,12.5,True,45,Medium Slow,40,61,54,45,45,65,310,Field,Grass,Grass,,Overgrow,,Protean,False,False,True,1,16.0
+853,Floragato,"['Flo', 'ra', 'ga', 'to']",4,1,Grass Cat Pokemon,0.9,12.2,True,12.5,True,45,Medium Slow,61,80,63,60,63,83,410,Field,Grass,Grass,,Overgrow,,Protean,False,False,True,2,36.0
+854,Meowscarada,"['Meows', 'ca', 'ra', 'da']",4,1,Magician Pokemon,1.5,31.2,True,12.5,True,45,Medium Slow,76,110,70,81,70,123,530,Field,Grass,Grass,Dark,Overgrow,,Protean,False,False,True,3,
+855,Fuecoco,"['Fue', 'co', 'co']",3,1,Fire Croc Pokemon,0.4,9.8,True,12.5,True,45,Medium Slow,67,45,59,63,40,36,310,Field,,Fire,,Blaze,,Unaware,False,False,True,1,16.0
+856,Crocalor,"['Cro', 'ca', 'lor']",3,1,Fire Croc Pokemon,1.0,30.7,True,12.5,True,45,Medium Slow,81,55,78,90,58,49,411,Field,,Fire,,Blaze,,Unaware,False,False,True,2,36.0
+857,Skeledirge,"['Ske', 'le', 'dir', 'ge']",4,1,Singer Pokemon,1.6,326.5,True,12.5,True,45,Medium Slow,104,75,100,110,75,66,530,Field,,Fire,Ghost,Blaze,,Unaware,False,False,True,3,
+858,Quaxly,"['Qua', 'xly']",2,1,Duckling Pokemon,0.5,6.1,True,12.5,True,45,Medium Slow,55,65,45,50,45,50,310,Flying,Water 1,Water,,Torrent,,Moxie,False,False,True,1,16.0
+859,Quaxwell,"['Qua', 'xwell']",2,1,Practicing Pokemon,1.2,21.5,True,12.5,True,45,Medium Slow,70,85,65,65,60,65,410,Flying,Water 1,Water,,Torrent,,Moxie,False,False,True,2,36.0
+860,Quaquaval,"['Qua', 'qua', 'val']",3,1,Dancer Pokemon,1.8,61.9,True,12.5,True,45,Medium Slow,85,120,80,85,75,85,530,Flying,Water 1,Water,Fighting,Torrent,,Moxie,False,False,True,3,
+861,Lechonk,"['Lec', 'honk']",2,1,Hog Pokemon,0.5,10.2,True,50.0,True,255,Medium Fast,54,45,40,35,45,35,254,Field,,Normal,,Aroma Veil,Gluttony,Thick Fat,False,False,True,1,18.0
+862,Tarountula,"['Ta', 'roun', 'tu', 'la']",4,1,String Ball Pokemon,0.3,4.0,True,50.0,True,255,Erratic,35,41,45,29,40,20,210,Bug,,Bug,,Insomnia,,Stakeout,False,False,True,1,15.0
+863,Spidops,"['Spi', 'dops']",2,1,Trap Pokemon,1.0,16.5,True,50.0,True,120,Erratic,60,79,92,52,86,35,404,Bug,,Bug,,Insomnia,,Stakeout,False,False,True,2,
+864,Nymble,"['Nym', 'ble']",2,1,Grasshopper Pokemon,0.2,1.0,True,50.0,True,190,Medium Fast,33,46,40,21,25,45,210,Bug,,Bug,,Swarm,,Tinted Lens,False,False,True,1,24.0
+865,Lokix,"['Lo', 'kix']",2,1,Grasshopper Pokemon,1.0,17.5,True,50.0,True,30,Medium Fast,71,102,78,52,55,92,450,Bug,,Bug,Dark,Swarm,,Tinted Lens,False,False,True,2,
+866,Pawmi,"['Paw', 'mi']",2,1,Mouse Pokemon,0.3,2.5,True,50.0,True,190,Medium Fast,45,50,20,40,25,60,240,Field,,Electric,,Static,Natural Cure,Iron Fist,False,False,True,1,18.0
+867,Pawmo,"['Paw', 'mo']",2,1,Mouse Pokemon,0.4,6.5,True,50.0,True,80,Medium Fast,60,75,40,50,40,85,350,Field,,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,False,False,True,2,
+868,Pawmot,"['Paw', 'mot']",2,1,Hands-On Pokemon,0.9,41.0,True,50.0,True,45,Medium Fast,70,115,70,70,60,105,490,Field,,Electric,Fighting,Volt Absorb,Natural Cure,Iron Fist,False,False,True,3,
+869,Tandemaus,"['Tan', 'de', 'maus']",3,1,Couple Pokemon,0.3,1.8,False,0.0,True,150,Fast,50,50,45,40,45,75,305,Field,Fairy,Normal,,Run Away,Pickup,Own Tempo,False,False,True,1,25.0
+870,Fidough,"['Fi', 'dough']",2,1,Puppy Pokemon,0.3,10.9,True,50.0,True,190,Medium Slow,37,55,70,30,55,65,312,Field,Mineral,Fairy,,Own Tempo,,Klutz,False,False,True,1,26.0
+871,Dachsbun,"['Dachs', 'bun']",2,1,Dog Pokemon,0.5,14.9,True,50.0,True,90,Medium Slow,57,80,115,50,80,95,477,Field,Mineral,Fairy,,Well-Baked Body,,Aroma Veil,False,False,True,2,
+872,Smoliv,"['Smo', 'liv']",2,1,Olive Pokemon,0.3,6.5,True,50.0,True,255,Medium Slow,41,35,45,58,51,30,260,Grass,,Grass,Normal,Early Bird,,Harvest,False,False,True,1,25.0
+873,Dolliv,"['Dol', 'liv']",2,1,Olive Pokemon,0.6,11.9,True,50.0,True,120,Medium Slow,52,53,60,78,78,33,354,Grass,,Grass,Normal,Early Bird,,Harvest,False,False,True,2,35.0
+874,Arboliva,"['Arbo', 'li', 'va']",3,1,Olive Pokemon,1.4,48.2,True,50.0,True,45,Medium Slow,78,69,90,125,109,39,510,Grass,,Grass,Normal,Seed Sower,,Harvest,False,False,True,3,
+875,Nacli,"['Na', 'cli']",2,1,Rock Salt Pokemon,0.4,16.0,True,50.0,True,255,Medium Slow,55,55,75,35,35,25,280,Mineral,,Rock,,Purifying Salt,Sturdy,Clear Body,False,False,True,1,24.0
+876,Naclstack,"['Nacls', 'tack']",2,1,Rock Salt Pokemon,0.6,105.0,True,50.0,True,120,Medium Slow,60,60,100,35,65,35,355,Mineral,,Rock,,Purifying Salt,Sturdy,Clear Body,False,False,True,2,38.0
+877,Garganacl,"['Gar', 'ga', 'nacl']",3,1,Rock Salt Pokemon,2.3,240.0,True,50.0,True,45,Medium Slow,100,100,130,45,90,35,500,Mineral,,Rock,,Purifying Salt,Sturdy,Clear Body,False,False,True,3,
+878,Charcadet,"['Char', 'ca', 'det']",3,1,Fire Child Pokemon,0.6,10.5,True,50.0,True,90,Slow,40,50,40,50,40,35,255,Human-Like,,Fire,,Flash Fire,,Flame Body,False,False,True,1,
+879,Armarouge,"['Arma', 'rou', 'ge']",3,1,Fire Warrior Pokemon,1.5,85.0,True,50.0,True,25,Slow,85,60,100,125,80,75,525,Human-Like,,Fire,Psychic,Flash Fire,,Weak Armor,False,False,True,2,
+880,Ceruledge,"['Ce', 'ru', 'led', 'ge']",4,1,Fire Blades Pokemon,1.6,62.0,True,50.0,True,25,Slow,75,125,80,60,100,85,525,Human-Like,,Fire,Ghost,Flash Fire,,Weak Armor,False,False,True,2,
+881,Tadbulb,"['Tad', 'bulb']",2,1,EleTadpole Pokemon,0.3,0.4,True,50.0,True,190,Medium Fast,61,31,41,59,35,45,272,Water 1,,Electric,,Own Tempo,Static,Damp,False,False,True,1,
+882,Bellibolt,"['Bel', 'li', 'bolt']",3,1,EleFrog Pokemon,1.2,113.0,True,50.0,True,50,Medium Fast,109,64,91,103,83,45,495,Water 1,,Electric,,Electromorphosis,Static,Damp,False,False,True,2,
+883,Wattrel,"['Wat', 'trel']",2,1,Storm Petrel Pokemon,0.4,3.6,True,50.0,True,180,Medium Slow,40,40,35,55,40,70,280,Water 1,Flying,Electric,Flying,Wind Power,Volt Absorb,Competitive,False,False,True,1,25.0
+884,Kilowattrel,"['Ki', 'lo', 'wat', 'trel']",4,1,Frigatebird Pokemon,1.4,38.6,True,50.0,True,90,Medium Slow,70,70,60,105,60,125,490,Water 1,Flying,Electric,Flying,Wind Power,Volt Absorb,Competitive,False,False,True,2,
+885,Maschiff,"['Masc', 'hiff']",2,1,Rascal Pokemon,0.5,16.0,True,50.0,True,150,Medium Slow,60,78,60,40,51,51,340,Field,,Dark,,Intimidate,Run Away,Stakeout,False,False,True,1,30.0
+886,Mabosstiff,"['Ma', 'boss', 'tiff']",3,1,Boss Pokemon,1.1,61.0,True,50.0,True,75,Medium Slow,80,120,90,60,70,85,505,Field,,Dark,,Intimidate,Guard Dog,Stakeout,False,False,True,2,
+887,Shroodle,"['Shroo', 'dle']",2,1,Toxic Mouse Pokemon,0.2,0.7,True,50.0,True,190,Medium Slow,40,65,35,40,35,75,290,Field,,Poison,Normal,Unburden,Pickpocket,Prankster,False,False,True,1,28.0
+888,Grafaiai,"['Gra', 'fai', 'a', 'i']",4,1,Toxic Monkey Pokemon,0.7,27.2,True,50.0,True,90,Medium Slow,63,95,65,80,72,110,485,Field,,Poison,Normal,Unburden,Poison Touch,Prankster,False,False,True,2,
+889,Bramblin,"['Bram', 'blin']",2,1,Tumbleweed Pokemon,0.6,0.6,True,50.0,True,190,Medium Fast,40,65,30,45,35,60,275,Grass,,Grass,Ghost,Wind Rider,,Infiltrator,False,False,True,1,
+890,Brambleghast,"['Bram', 'bleg', 'hast']",3,1,Tumbleweed Pokemon,1.2,6.0,True,50.0,True,45,Medium Fast,55,115,70,80,70,90,480,Grass,,Grass,Ghost,Wind Rider,,Infiltrator,False,False,True,2,
+891,Toedscool,"['Toeds', 'cool']",2,1,Woodear Pokemon,0.9,33.0,True,50.0,True,190,Medium Slow,40,40,35,50,100,70,335,Grass,,Ground,Grass,Mycelium Might,,,False,False,True,1,30.0
+892,Toedscruel,"['Toeds', 'cruel']",2,1,Woodear Pokemon,1.9,58.0,True,50.0,True,90,Medium Slow,80,70,65,80,120,100,515,Grass,,Ground,Grass,Mycelium Might,,,False,False,True,2,
+893,Klawf,['Klawf'],1,1,Ambush Pokemon,1.3,79.0,True,50.0,True,120,Medium Fast,70,100,115,35,55,75,450,Water 3,,Rock,,Anger Shell,Shell Armor,Regenerator,False,False,False,1,
+894,Capsakid,"['Ca', 'psa', 'kid']",3,1,Spicy Pepper Pokemon,0.3,3.0,True,50.0,True,190,Medium Fast,50,62,40,62,40,50,304,Grass,,Grass,,Chlorophyll,Insomnia,Klutz,False,False,True,1,
+895,Scovillain,"['Sco', 'vil', 'lain']",3,1,Spicy Pepper Pokemon,0.9,15.0,True,50.0,True,75,Medium Fast,65,108,65,108,65,75,486,Grass,,Grass,Fire,Chlorophyll,Insomnia,Moody,False,False,True,2,
+896,Rellor,"['Rel', 'lor']",2,1,Rolling Pokemon,0.2,1.0,True,50.0,True,190,Fast,41,50,60,31,58,30,270,Bug,,Bug,,Compound Eyes,,Shed Skin,False,False,True,1,
+897,Rabsca,"['Rabs', 'ca']",2,1,Rolling Pokemon,0.3,3.5,True,50.0,True,45,Fast,75,50,85,115,100,45,470,Bug,,Bug,Psychic,Synchronize,,Telepathy,False,False,True,2,
+898,Flittle,"['Flit', 'tle']",2,1,Frill Pokemon,0.2,1.5,True,50.0,True,120,Medium Slow,30,35,30,55,30,75,255,Flying,,Psychic,,Anticipation,Frisk,Speed Boost,False,False,True,1,35.0
+899,Espathra,"['Espat', 'hra']",2,1,Ostrich Pokemon,1.9,90.0,True,50.0,True,60,Medium Slow,95,60,60,101,60,105,481,Flying,,Psychic,,Opportunist,Frisk,Speed Boost,False,False,True,2,
+900,Tinkatink,"['Tin', 'ka', 'tink']",3,1,Metalsmith Pokemon,0.4,8.9,True,100.0,True,190,Medium Slow,50,45,45,35,64,58,297,Fairy,,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,False,False,True,1,24.0
+901,Tinkatuff,"['Tin', 'ka', 'tuff']",3,1,Hammer Pokemon,0.7,59.1,True,100.0,True,90,Medium Slow,65,55,55,45,82,78,380,Fairy,,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,False,False,True,2,38.0
+902,Tinkaton,"['Tin', 'ka', 'ton']",3,1,Hammer Pokemon,0.7,112.8,True,100.0,True,45,Medium Slow,85,75,77,70,105,94,506,Fairy,,Fairy,Steel,Mold Breaker,Own Tempo,Pickpocket,False,False,True,3,
+903,Wiglett,"['Wi', 'glett']",2,1,Garden Eel Pokemon,1.2,1.8,True,50.0,True,255,Medium Fast,10,55,25,35,25,95,245,Water 3,,Water,,Gooey,Rattled,Sand Veil,False,False,True,1,26.0
+904,Wugtrio,"['Wug', 'trio']",2,1,Garden Eel Pokemon,1.2,5.4,True,50.0,True,50,Medium Fast,35,100,50,50,70,120,425,Water 3,,Water,,Gooey,Rattled,Sand Veil,False,False,True,2,
+905,Bombirdier,"['Bom', 'bir', 'dier']",3,1,Item Drop Pokemon,1.5,42.9,True,50.0,True,25,Slow,70,103,85,60,85,82,485,Flying,,Flying,Dark,Big Pecks,Keen Eye,Rocky Payload,False,False,False,1,
+906,Finizen,"['Fi', 'ni', 'zen']",3,1,Dolphin Pokemon,1.3,60.2,True,50.0,True,200,Slow,70,45,40,45,40,75,315,Field,Water 2,Water,,Water Veil,,,False,False,True,1,38.0
+907,Varoom,"['Va', 'room']",2,1,Single-Cyl Pokemon,1.0,35.0,True,50.0,True,190,Medium Fast,45,70,63,30,45,47,300,Mineral,,Steel,Poison,Overcoat,,Slow Start,False,False,True,1,40.0
+908,Revavroom,"['Re', 'va', 'vroom']",3,1,Multi-Cyl Pokemon,1.8,120.0,True,50.0,True,75,Medium Fast,80,119,90,54,67,90,500,Mineral,,Steel,Poison,Overcoat,,Filter,False,False,True,2,
+909,Cyclizar,"['Cy', 'cli', 'zar']",3,1,Mount Pokemon,1.6,63.0,True,50.0,True,190,Medium Slow,70,95,65,85,65,121,501,Field,,Dragon,Normal,Shed Skin,,Regenerator,False,False,False,1,
+910,Orthworm,['Orthworm'],1,1,Earthworm Pokemon,2.5,310.0,True,50.0,True,25,Slow,70,85,145,60,55,65,480,Field,,Steel,,Earth Eater,,Sand Veil,False,False,False,1,
+911,Glimmet,"['Glim', 'met']",2,1,Ore Pokemon,0.7,8.0,True,50.0,True,70,Medium Slow,48,35,42,105,60,60,350,Mineral,,Rock,Poison,Toxic Debris,,Corrosion,False,False,True,1,35.0
+912,Glimmora,"['Glim', 'mo', 'ra']",3,1,Ore Pokemon,1.5,45.0,True,50.0,True,25,Medium Slow,83,55,90,130,81,86,525,Mineral,,Rock,Poison,Toxic Debris,,Corrosion,False,False,True,2,
+913,Greavard,"['Grea', 'vard']",2,1,Ghost Dog Pokemon,0.6,35.0,True,50.0,True,120,Medium Slow,50,61,60,30,55,34,290,Field,,Ghost,,Pickup,,Fluffy,False,False,True,1,30.0
+914,Houndstone,"['Hounds', 'to', 'ne']",3,1,Ghost Dog Pokemon,2.0,15.0,True,50.0,True,60,Medium Slow,72,101,100,50,97,68,488,Field,,Ghost,,Sand Rush,,Fluffy,False,False,True,2,
+915,Flamigo,"['Fla', 'mi', 'go']",3,1,Synchronize Pokemon,1.6,37.0,True,50.0,True,100,Medium Slow,82,115,74,75,64,90,500,Flying,,Flying,Fighting,Scrappy,Tangled Feet,Costar,False,False,False,1,
+916,Cetoddle,"['Ce', 'tod', 'dle']",3,1,Terra Whale Pokemon,1.2,45.0,True,50.0,True,150,Medium Slow,108,68,45,30,40,43,334,Field,,Ice,,Thick Fat,Snow Cloak,Sheer Force,False,False,True,1,
+917,Cetitan,"['Ce', 'ti', 'tan']",3,1,Terra Whale Pokemon,4.5,700.0,True,50.0,True,50,Medium Slow,170,113,65,45,55,73,521,Field,,Ice,,Thick Fat,Slush Rush,Sheer Force,False,False,True,2,
+918,Veluza,"['Ve', 'lu', 'za']",3,1,Jettison Pokemon,2.5,90.0,True,50.0,True,100,Fast,90,102,73,78,65,70,478,Water 2,,Water,Psychic,Mold Breaker,,Sharpness,False,False,False,1,
+919,Dondozo,"['Don', 'do', 'zo']",3,1,Big Catfish Pokemon,12.0,220.0,True,50.0,True,25,Slow,150,100,115,65,65,35,530,Water 2,,Water,,Unaware,Oblivious,Water Veil,False,False,False,1,
+920,Annihilape,"['Anni', 'hi', 'la', 'pe']",4,1,Rage Monkey Pokemon,1.2,56.0,True,50.0,True,45,Medium Fast,110,115,80,50,90,90,535,Field,,Fighting,Ghost,Vital Spirit,Inner Focus,Defiant,False,False,True,3,
+921,Clodsire,"['Clo', 'dsi', 're']",3,1,Spiny Fish Pokemon,1.8,223.0,True,50.0,True,90,Medium Fast,130,75,60,45,100,20,430,Water 1,Field,Poison,Ground,Poison Point,Water Absorb,Unaware,False,False,True,2,
+922,Farigiraf,"['Fa', 'ri', 'gi', 'raf']",4,1,Long Neck Pokemon,3.2,160.0,True,50.0,True,45,Medium Fast,120,90,70,110,70,60,520,Field,,Normal,Psychic,Cud Chew,Armor Tail,Sap Sipper,False,False,True,2,
+923,Kingambit,"['Kin', 'gam', 'bit']",3,1,Big Blade Pokemon,2.0,120.0,True,50.0,True,25,Medium Fast,100,135,120,60,85,50,550,Human-Like,,Dark,Steel,Defiant,Supreme Overlord,Pressure,False,False,True,3,
+924,Great Tusk,"['Great', 'Tusk']",2,1,Paradox Pokemon,2.2,320.0,False,0.0,False,30,Slow,115,131,131,53,53,87,570,No Eggs Discovered,,Ground,Fighting,Protosynthesis,,,False,False,False,1,
+925,Scream Tail,"['Scream', 'Tail']",2,1,Paradox Pokemon,1.2,8.0,False,0.0,True,50,Slow,115,65,99,65,115,111,570,No Eggs Discovered,,Fairy,Psychic,Protosynthesis,,,False,False,False,1,
+926,Brute Bonnet,"['Bru', 'te', 'Bon', 'net']",4,1,Paradox Pokemon,1.2,21.0,False,0.0,True,50,Slow,111,127,99,79,99,55,570,No Eggs Discovered,,Grass,Dark,Protosynthesis,,,False,False,False,1,
+927,Flutter Mane,"['Flut', 'ter', 'Ma', 'ne']",4,1,Paradox Pokemon,1.4,4.0,False,0.0,True,30,Slow,55,55,55,135,135,135,570,No Eggs Discovered,,Ghost,Fairy,Protosynthesis,,,False,False,False,1,
+928,Slither Wing,"['Slit', 'her', 'Wing']",3,1,Paradox Pokemon,3.2,92.0,False,0.0,True,30,Slow,85,135,79,85,105,81,570,No Eggs Discovered,,Bug,Fighting,Protosynthesis,,,False,False,False,1,
+929,Sandy Shocks,"['San', 'dy', 'Shocks']",3,1,Paradox Pokemon,2.3,60.0,False,0.0,True,30,Slow,85,81,97,121,85,101,570,No Eggs Discovered,,Electric,Ground,Protosynthesis,,,False,False,False,1,
+930,Iron Treads,"['Iron', 'Treads']",2,1,Paradox Pokemon,0.9,240.0,False,0.0,True,30,Slow,90,112,120,72,70,106,570,No Eggs Discovered,,Ground,Steel,Quark Drive,,,False,False,False,1,
+931,Iron Bundle,"['Iron', 'Bun', 'dle']",3,1,Paradox Pokemon,0.6,11.0,False,0.0,True,50,Slow,56,80,114,124,60,136,570,No Eggs Discovered,,Ice,Water,Quark Drive,,,False,False,False,1,
+932,Iron Hands,"['Iron', 'Hands']",2,1,Paradox Pokemon,1.8,380.7,False,0.0,False,50,Slow,154,140,108,50,68,50,570,No Eggs Discovered,,Fighting,Electric,Quark Drive,,,False,False,False,1,
+933,Iron Jugulis,"['Iron', 'Ju', 'gu', 'lis']",4,1,Paradox Pokemon,1.3,111.0,False,0.0,True,30,Slow,94,80,86,122,80,108,570,No Eggs Discovered,,Dark,Flying,Quark Drive,,,False,False,False,1,
+934,Iron Moth,"['Iron', 'Moth']",2,1,Paradox Pokemon,1.2,36.0,False,0.0,True,30,Slow,80,70,60,140,110,110,570,No Eggs Discovered,,Fire,Poison,Quark Drive,,,False,False,False,1,
+935,Iron Thorns,"['Iron', 'Thorns']",2,1,Paradox Pokemon,1.6,303.0,False,0.0,True,30,Slow,100,134,110,70,84,72,570,No Eggs Discovered,,Rock,Electric,Quark Drive,,,False,False,False,1,
+936,Frigibax,"['Fri', 'gi', 'bax']",3,1,Ice Fin Pokemon,0.5,17.0,True,50.0,True,45,Slow,65,75,45,35,45,55,320,Dragon,Mineral,Dragon,Ice,Thermal Exchange,,Ice Body,False,False,True,1,35.0
+937,Arctibax,"['Arcti', 'bax']",2,1,Ice Fin Pokemon,0.8,30.0,True,50.0,True,25,Slow,90,95,66,45,65,62,423,Dragon,Mineral,Dragon,Ice,Thermal Exchange,,Ice Body,False,False,True,2,54.0
+938,Baxcalibur,"['Bax', 'ca', 'li', 'bur']",4,1,Ice Dragon Pokemon,2.1,210.0,True,50.0,True,10,Slow,115,145,92,75,86,87,600,Dragon,Mineral,Dragon,Ice,Thermal Exchange,,Ice Body,False,False,True,3,
+939,Gholdengo,"['Ghol', 'den', 'go']",3,1,Coin Entity Pokemon,1.2,30.0,False,0.0,False,45,Slow,87,60,95,133,91,84,550,No Eggs Discovered,,Steel,Ghost,Good as Gold,,,False,False,True,2,
+940,Wo-Chien,"['Wo', 'Chien']",2,1,Ruinous Pokemon,1.5,74.2,False,0.0,False,6,Slow,85,90,100,100,135,70,580,No Eggs Discovered,,Dark,Grass,Tablets of Ruin,,,True,False,False,1,
+941,Chien-Pao,"['Chien', 'Pao']",2,1,Ruinous Pokemon,1.9,152.2,False,0.0,False,6,Slow,80,130,80,90,65,135,580,No Eggs Discovered,,Dark,Ice,Sword of Ruin,,,True,False,False,1,
+942,Ting-Lu,"['Ting', 'Lu']",2,1,Ruinous Pokemon,2.7,699.7,False,0.0,False,6,Slow,165,110,130,50,80,45,580,No Eggs Discovered,,Dark,Ground,Vessel of Ruin,,,True,False,False,1,
+943,Chi-Yu,"['Chi', 'Yu']",2,1,Ruinous Pokemon,0.4,4.9,False,0.0,False,6,Slow,55,80,80,145,120,100,580,No Eggs Discovered,,Dark,Fire,Beads of Ruin,,,True,False,False,1,
+944,Roaring Moon,"['Roa', 'ring', 'Moon']",3,1,Paradox Pokemon,2.0,380.0,False,0.0,False,10,Slow,105,139,71,55,101,119,590,No Eggs Discovered,,Dragon,Dark,Protosynthesis,,,False,False,False,1,
+945,Iron Valiant,"['Iron', 'Va', 'liant']",3,1,Paradox Pokemon,1.4,35.0,False,0.0,False,10,Slow,74,130,90,120,60,116,590,No Eggs Discovered,,Fairy,Fighting,Quark Drive,,,False,False,False,1,
+946,Walking Wake,"['Wal', 'king', 'Wa', 'ke']",4,1,Paradox Pokemon,3.5,280.0,False,0.0,False,5,Slow,99,83,91,125,83,109,590,No Eggs Discovered,,Water,Dragon,Protosynthesis,,,False,False,False,1,
+947,Iron Leaves,"['Iron', 'Lea', 'ves']",3,1,Paradox Pokemon,1.5,125.0,False,0.0,False,5,Slow,90,130,88,70,108,104,590,No Eggs Discovered,,Grass,Psychic,Quark Drive,,,False,False,False,1,
+948,Dipplin,"['Dip', 'plin']",2,1,Candy Apple Pokemon,0.4,4.4,True,50.0,True,45,Erratic,80,80,110,95,80,40,485,Grass,Dragon,Grass,Dragon,Supersweet Syrup,Gluttony,Sticky Hold,False,False,True,2,
+949,Poltchageist,"['Poltc', 'ha', 'geist']",3,1,Matcha Pokemon,0.1,1.1,False,0.0,True,120,Medium Fast,40,45,45,74,54,50,308,Mineral,Amorphous,Grass,Ghost,Hospitality,,Heatproof,False,False,True,1,
+950,Sinistcha,"['Si', 'nistc', 'ha']",3,1,Matcha Pokemon,0.2,2.2,False,0.0,True,60,Medium Fast,71,60,106,121,80,70,508,Mineral,Amorphous,Grass,Ghost,Hospitality,,Heatproof,False,False,True,2,
+951,Okidogi,"['Oki', 'do', 'gi']",3,1,Retainer Pokemon,1.8,92.2,True,0.0,False,3,Slow,88,128,115,58,86,80,555,No Eggs Discovered,,Poison,Fighting,Toxic Chain,,Guard Dog,True,False,False,1,
+952,Munkidori,"['Mun', 'ki', 'do', 'ri']",4,1,Retainer Pokemon,1.0,12.2,True,0.0,False,3,Slow,88,75,66,130,90,106,555,No Eggs Discovered,,Poison,Psychic,Toxic Chain,,Frisk,True,False,False,1,
+953,Fezandipiti,"['Fe', 'zan', 'di', 'pi', 'ti']",5,1,Retainer Pokemon,1.4,30.1,True,0.0,False,3,Slow,88,91,82,70,125,99,555,No Eggs Discovered,,Poison,Fairy,Toxic Chain,,Technician,True,False,False,1,
+954,Archaludon,"['Archa', 'lu', 'don']",3,1,Alloy Pokemon,2.0,60.0,True,50.0,True,10,Medium Fast,90,105,130,125,65,85,600,Mineral,Dragon,Steel,Dragon,Stamina,Sturdy,Stalwart,False,False,True,2,
+955,Hydrapple,"['Hy', 'drap', 'ple']",3,1,Apple Hydra Pokemon,1.8,93.0,True,50.0,True,10,Erratic,106,80,110,120,80,44,540,Grass,Dragon,Grass,Dragon,Supersweet Syrup,Regenerator,Sticky Hold,False,False,True,3,
+956,Gouging Fire,"['Gou', 'ging', 'Fi', 're']",4,1,Paradox Pokemon,3.5,590.0,False,0.0,False,10,Slow,105,115,121,65,93,91,590,No Eggs Discovered,,Fire,Dragon,Protosynthesis,,,False,False,False,1,
+957,Raging Bolt,"['Ra', 'ging', 'Bolt']",3,1,Paradox Pokemon,5.2,480.0,False,0.0,False,10,Slow,125,73,91,137,89,75,590,No Eggs Discovered,,Electric,Dragon,Protosynthesis,,,False,False,False,1,
+958,Iron Boulder,"['Iron', 'Boul', 'der']",3,1,Paradox Pokemon,1.5,162.5,False,0.0,False,10,Slow,90,120,80,68,108,124,590,No Eggs Discovered,,Rock,Psychic,Quark Drive,,,False,False,False,1,
+959,Iron Crown,"['Iron', 'Crown']",2,1,Paradox Pokemon,1.6,156.0,False,0.0,False,10,Slow,90,72,100,122,108,98,590,No Eggs Discovered,,Steel,Psychic,Quark Drive,,,False,False,False,1,
+960,Pecharunt,"['Pec', 'ha', 'runt']",3,1,Subjugation Pokemon,0.3,0.3,False,0.0,False,3,Slow,88,88,160,88,88,88,600,No Eggs Discovered,,Poison,Ghost,Poison Puppeteer,,,False,True,False,1,
