@@ -13,13 +13,6 @@ seq_len = 20
 #default model
 model_path = 'namegen/weights/savedmodels/thechosenone-12.11.e448.pth'
 
-# path_list = [
-#     'weights/savedmodels/overnights 12-10/namegenweightsepoch130loss89.pth',
-#     'weights/savedmodels/overnights 12-10/namegenweightsepoch100loss74.pth',
-#     'weights/savedmodels/overnights 12-10/namegenweightsepoch175loss12.pth'
-# ]
-#torch.serialization.add_safe_globals(path_list)
-
 #get initial text for list of names for prompting model
 names = 'namegen/data/names.csv'
 raw_text = open(names, encoding='utf-8').read()
